@@ -1,0 +1,435 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>JobRadar</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#f4f1ea; --card:#fbfaf6; --ink:#1c1e21; --muted:#6b6a66; --line:#dcd6c9;
+  --accent:#d9822b; --accent-soft:#f6e3cc; --ok:#2f7a52; --ok-soft:#dcefe3; --warn:#9a5b12;
+  --blue:#285e9e; --blue-soft:#dde8f5; --shadow:0 1px 0 rgba(0,0,0,.04);
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#131517; --card:#1a1d20; --ink:#ebe7df; --muted:#9a978f; --line:#2c3035;
+  --accent:#f0a24a; --accent-soft:#3a2a17; --ok:#6fc596; --ok-soft:#173226; --warn:#e3a55a;
+  --blue:#8fb8ea; --blue-soft:#1b2a3d; }}
+:root[data-theme="dark"]{
+  --paper:#131517; --card:#1a1d20; --ink:#ebe7df; --muted:#9a978f; --line:#2c3035;
+  --accent:#f0a24a; --accent-soft:#3a2a17; --ok:#6fc596; --ok-soft:#173226; --warn:#e3a55a;
+  --blue:#8fb8ea; --blue-soft:#1b2a3d; }
+:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.5 var(--sans);-webkit-font-smoothing:antialiased}
+a{color:var(--blue)}
+button,input,select{font:inherit;color:inherit}
+.wrap{max-width:1120px;margin:0 auto;padding:20px 18px 60px}
+
+/* header */
+header{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;flex-wrap:wrap;
+  border-bottom:2px solid var(--ink);padding-bottom:12px}
+.brand{display:flex;align-items:center;gap:12px}
+.brand h1{margin:0;font:600 30px/1 var(--mono);letter-spacing:-1px}
+.brand h1 span{color:var(--accent)}
+.sweep{width:34px;height:34px}
+.sweep .arm{transform-origin:17px 17px;animation:spin 4s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.sweep .arm{animation:none}}
+.when{font:13px/1.4 var(--mono);color:var(--muted);text-align:right}
+.when b{color:var(--ink);font-weight:600}
+
+/* scoreboard */
+.board{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border-bottom:1px solid var(--line)}
+.stat{padding:14px 12px 12px;border-right:1px solid var(--line)}
+.stat:last-child{border-right:0}
+.stat .n{font:600 34px/1 var(--mono);letter-spacing:-1px}
+.stat .l{font-size:13px;color:var(--muted);margin-top:6px}
+.stat.hot .n{color:var(--accent)}
+.stat svg{display:block;margin-top:6px}
+@media (max-width:720px){.when{text-align:left}.board{grid-template-columns:repeat(2,1fr)}.stat{border-bottom:1px solid var(--line)}
+  .stat:nth-child(2n){border-right:0}.stat .n{font-size:28px}}
+
+/* tabs + filters */
+.tabs{display:flex;gap:4px;margin:18px 0 10px;overflow-x:auto;scrollbar-width:none}
+.tab{border:1px solid var(--line);background:transparent;padding:7px 12px;border-radius:999px;cursor:pointer;white-space:nowrap}
+.tab[aria-selected="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.tab .c{font-family:var(--mono);font-size:12px;opacity:.75;margin-left:4px}
+.filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:10px 0 14px;border-bottom:1px solid var(--line)}
+.search{flex:1 1 220px;min-width:180px;padding:8px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card)}
+.chip{border:1px dashed var(--line);background:transparent;padding:5px 10px;border-radius:6px;cursor:pointer;font-size:13px}
+.chip[aria-pressed="true"]{border-style:solid;border-color:var(--accent);background:var(--accent-soft)}
+select{padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--card);font-size:13px}
+label.tog{font-size:13px;display:flex;gap:6px;align-items:center;cursor:pointer;color:var(--muted)}
+
+/* list */
+.list{margin-top:6px}
+.row{border-bottom:1px solid var(--line);background:transparent}
+.row.done{opacity:.55}
+.head{display:grid;grid-template-columns:14px minmax(0,1fr) auto;gap:10px;padding:12px 4px;cursor:pointer;align-items:start}
+.dot{width:8px;height:8px;border-radius:50%;margin-top:8px;background:transparent}
+.dot.new{background:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.t{font-weight:600;font-size:16px;line-height:1.3}
+.sub{color:var(--muted);font-size:13.5px;margin-top:2px}
+.sub b{color:var(--ink);font-weight:500}
+.tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px}
+.tag{font:12px/1 var(--mono);padding:4px 6px;border-radius:4px;background:var(--card);border:1px solid var(--line);color:var(--muted)}
+.tag.ea{background:var(--blue-soft);border-color:transparent;color:var(--blue)}
+.tag.co{background:var(--accent-soft);border-color:transparent;color:var(--warn)}
+.tag.fr{background:var(--ok-soft);border-color:transparent;color:var(--ok)}
+.right{display:flex;flex-direction:column;align-items:flex-end;gap:6px}
+.score{font:600 20px/1 var(--mono)}
+.score small{font-size:11px;color:var(--muted);font-weight:400}
+.btn{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--ink);background:var(--ink);color:var(--paper);
+  padding:6px 12px;border-radius:7px;text-decoration:none;font-size:13.5px;font-weight:500;cursor:pointer;white-space:nowrap}
+.btn.ghost{background:transparent;color:var(--ink);border-color:var(--line)}
+.btn.on{background:var(--ok);border-color:var(--ok);color:#fff}
+.btn:focus-visible,.tab:focus-visible,.chip:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.body{display:none;padding:0 4px 16px 28px}
+.row.open .body{display:block}
+.why{font-size:14px;margin:0 0 12px;padding-left:10px;border-left:3px solid var(--accent)}
+.grid2{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:18px}
+@media (max-width:820px){.grid2{grid-template-columns:1fr}.head{grid-template-columns:10px minmax(0,1fr)}.right{grid-column:2;flex-direction:row;align-items:center;flex-wrap:wrap}}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px}
+.panel h3{margin:0 0 8px;font-size:13px;font-weight:600;color:var(--muted)}
+.dtabs{display:flex;gap:4px;margin-bottom:8px}
+.dtab{border:0;background:transparent;padding:4px 8px;border-radius:5px;cursor:pointer;font-size:13px;color:var(--muted)}
+.dtab[aria-selected="true"]{background:var(--paper);color:var(--ink);font-weight:600}
+.msg{white-space:pre-wrap;font-size:14px;line-height:1.55;background:var(--paper);border-radius:8px;padding:10px 12px;min-height:80px}
+.meta{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:8px;font:12px var(--mono);color:var(--muted);flex-wrap:wrap}
+.meta .bad{color:#c0392b}
+.name{width:100%;padding:7px 10px;border:1px solid var(--line);border-radius:7px;background:var(--paper);margin-bottom:8px}
+.stack{display:flex;flex-direction:column;gap:8px}
+.stack .btn{justify-content:center}
+.links{font-size:13px;color:var(--muted)}
+.desc{max-height:220px;overflow:auto;font-size:13px;white-space:pre-wrap;color:var(--muted);margin-top:10px;border-top:1px solid var(--line);padding-top:8px}
+.empty{padding:50px 10px;text-align:center;color:var(--muted)}
+footer{margin-top:28px;font-size:13px;color:var(--muted)}
+details{border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin-top:12px;background:var(--card)}
+summary{cursor:pointer;font-weight:500;color:var(--ink)}
+.htable{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font:12.5px var(--mono);margin-top:8px}
+td,th{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+.fail{color:#c0392b}
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--paper);
+  padding:8px 14px;border-radius:8px;font-size:13.5px;opacity:0;transition:opacity .2s;pointer-events:none}
+.toast.show{opacity:1}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <svg class="sweep" viewBox="0 0 34 34" aria-hidden="true">
+        <circle cx="17" cy="17" r="15" fill="none" stroke="currentColor" stroke-opacity=".25"/>
+        <circle cx="17" cy="17" r="9" fill="none" stroke="currentColor" stroke-opacity=".25"/>
+        <g class="arm"><path d="M17 17 L17 2 A15 15 0 0 1 29 9 Z" fill="var(--accent)" fill-opacity=".35"/>
+        <line x1="17" y1="17" x2="17" y2="2" stroke="var(--accent)" stroke-width="2"/></g>
+        <circle cx="17" cy="17" r="2" fill="currentColor"/>
+      </svg>
+      <h1>Job<span>Radar</span></h1>
+    </div>
+    <div class="when" id="when">Loading…</div>
+  </header>
+
+  <section class="board" id="board" aria-label="Your numbers"></section>
+
+  <nav class="tabs" id="tabs" role="tablist"></nav>
+
+  <div class="filters">
+    <input class="search" id="q" type="search" placeholder="Search title, company, skill…  ( / )">
+    <div id="cities" style="display:flex;gap:6px;flex-wrap:wrap"></div>
+    <select id="fam" aria-label="Role family"><option value="">All roles</option></select>
+    <select id="exp" aria-label="Experience">
+      <option value="">Any experience</option><option value="fresher">Fresher</option>
+      <option value="0-1">0–1 yr</option><option value="not_stated">Not stated</option></select>
+    <select id="sort" aria-label="Sort"><option value="new">Newest first</option><option value="score">Best match</option></select>
+    <label class="tog"><input type="checkbox" id="newonly"> New only</label>
+    <label class="tog"><input type="checkbox" id="hidedone" checked> Hide applied</label>
+  </div>
+
+  <div class="list" id="list"></div>
+
+  <footer>
+    <details id="health"><summary>Source health</summary><div class="htable" id="htable"></div></details>
+    <details><summary>Backup your tracking</summary>
+      <p>Your applied/messaged marks are stored in this browser only. Export them to move to another device.</p>
+      <button class="btn ghost" id="exp-btn">Export tracking</button>
+      <label class="btn ghost">Import tracking<input type="file" id="imp" accept="application/json" hidden></label>
+      <button class="btn ghost" id="theme">Toggle theme</button>
+    </details>
+  </footer>
+</div>
+<div class="toast" id="toast" role="status"></div>
+
+<script>
+const KEY = "jobradar.v1";
+const S = load();
+let JOBS = [], META = {}, VIEW = {tab: "easy_apply", cities: new Set(), open: new Set()};
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : "#";
+
+function load(){ try { return JSON.parse(localStorage.getItem(KEY)) || {jobs:{}}; } catch { return {jobs:{}}; } }
+function save(){ try { localStorage.setItem(KEY, JSON.stringify(S)); } catch {} }
+function st(id){ return S.jobs[id] || (S.jobs[id] = {applied:null, messages:0, hidden:false}); }
+function toast(t){ const el=$("#toast"); el.textContent=t; el.classList.add("show"); clearTimeout(el._t); el._t=setTimeout(()=>el.classList.remove("show"),1600); }
+
+const TABS = [
+  ["easy_apply","LinkedIn Easy Apply", j => j.apply_type==="easy_apply" || j.apply_type==="linkedin_unknown"],
+  ["company","Company site", j => j.apply_type==="company"],
+  ["board","Job boards", j => j.apply_type==="board"],
+  ["community","HN & Reddit", j => j.apply_type==="community"],
+  ["tracked","Tracked", j => { const s=S.jobs[j.id]; return s && (s.applied || s.messages); }],
+];
+
+const fmtIST = iso => iso ? new Date(iso).toLocaleString("en-IN",{timeZone:"Asia/Kolkata",day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}) : "–";
+function ago(iso){
+  if(!iso) return "";
+  if (/^\d{4}-\d{2}-\d{2}$/.test(iso)) {           // date-only: day granularity (IST)
+    const today = new Date().toLocaleDateString("en-CA",{timeZone:"Asia/Kolkata"});
+    const days = Math.round((new Date(today) - new Date(iso))/864e5);
+    return days<=0 ? "today" : days===1 ? "yesterday" : days+" days ago";
+  }
+  const d = (Date.now() - new Date(iso).getTime())/36e5;
+  if (isNaN(d)) return "";
+  if (d < 1) return "just now"; if (d < 24) return Math.round(d)+"h ago";
+  const days = Math.round(d/24); return days===1 ? "1 day ago" : days+" days ago";
+}
+function nextRun(){
+  const now = new Date(), ist = new Date(now.toLocaleString("en-US",{timeZone:"Asia/Kolkata"}));
+  return ist.getHours() < 12 ? "12:00 IST" : "00:00 IST";
+}
+const isNew = j => META.last_run && j.first_seen === META.last_run;
+const EXP = {fresher:"Fresher", "0-1":"0–1 yr", "not_stated":"Exp not stated", "2+":"2+ yrs"};
+
+async function init(){
+  try {
+    const [a,b] = await Promise.all([fetch("data/jobs.json",{cache:"no-store"}), fetch("data/meta.json",{cache:"no-store"})]);
+    JOBS = a.ok ? await a.json() : []; META = b.ok ? await b.json() : {};
+  } catch { JOBS = []; META = {}; }
+  JOBS = JOBS.filter(j => j.status === "active" || (S.jobs[j.id] && (S.jobs[j.id].applied || S.jobs[j.id].messages)));
+  const fams = [...new Set(JOBS.map(j=>j.role_family).filter(Boolean))].sort();
+  $("#fam").insertAdjacentHTML("beforeend", fams.map(f=>`<option>${esc(f)}</option>`).join(""));
+  const cities = ["Delhi NCR","Bengaluru","Mumbai","Pune","Kolkata","Remote","India"];
+  $("#cities").innerHTML = cities.map(c=>`<button class="chip" aria-pressed="false" data-city="${c}">${c}</button>`).join("");
+  $("#cities").onclick = e => { const b=e.target.closest(".chip"); if(!b) return;
+    const c=b.dataset.city; VIEW.cities.has(c)?VIEW.cities.delete(c):VIEW.cities.add(c);
+    b.setAttribute("aria-pressed", VIEW.cities.has(c)); render(); };
+  ["#q","#fam","#exp","#sort","#newonly","#hidedone"].forEach(s => $(s).addEventListener("input", render));
+  document.addEventListener("keydown", e => { if (e.key==="/" && document.activeElement.tagName!=="INPUT" && document.activeElement.tagName!=="TEXTAREA"){ e.preventDefault(); $("#q").focus(); }});
+  $("#when").innerHTML = META.last_run
+    ? `Refreshed <b>${fmtIST(META.last_run)}</b> IST<br>Next refresh ${nextRun()}`
+    : "No data yet. Run the workflow once.";
+  renderHealth(); render();
+  S.lastVisit = new Date().toISOString(); save();
+}
+
+function counts(){
+  let ea=0, other=0, msgs=0;
+  const typeOf = Object.fromEntries(JOBS.map(j=>[j.id,j.apply_type]));
+  for (const [id,s] of Object.entries(S.jobs)){
+    if (s.applied) (typeOf[id]==="easy_apply"||typeOf[id]==="linkedin_unknown"||s.via==="easy") ? ea++ : other++;
+    msgs += s.messages||0;
+  }
+  return {ea, other, msgs};
+}
+function spark(){
+  const h = (META.history||[]).slice(-20).map(x=>x.new); if (h.length<2) return "";
+  const mx = Math.max(...h,1), w=90, ht=18, step=w/(h.length-1);
+  const pts = h.map((v,i)=>`${(i*step).toFixed(1)},${(ht - v/mx*ht).toFixed(1)}`).join(" ");
+  return `<svg width="${w}" height="${ht+2}" aria-label="New jobs per refresh"><polyline points="${pts}" fill="none" stroke="var(--accent)" stroke-width="1.5"/></svg>`;
+}
+function renderBoard(){
+  const c = counts(), s = META.stats || {};
+  const active = JOBS.filter(j=>j.status==="active").length;
+  $("#board").innerHTML = [
+    ["hot", s.new ?? 0, "New this refresh", spark()],
+    ["", c.ea, "Applied via Easy Apply", ""],
+    ["", c.other, "Applied on company sites", ""],
+    ["", c.msgs, "Messages sent", ""],
+    ["", active, "Active listings", ""],
+  ].map(([k,n,l,x])=>`<div class="stat ${k}"><div class="n">${n}</div><div class="l">${l}</div>${x}</div>`).join("");
+}
+
+function filtered(){
+  const q = $("#q").value.trim().toLowerCase(), fam=$("#fam").value, exp=$("#exp").value;
+  const tab = TABS.find(t=>t[0]===VIEW.tab);
+  let out = JOBS.filter(j => {
+    if (VIEW.tab!=="tracked" && j.status!=="active") return false;
+    const s = S.jobs[j.id] || {};
+    if (VIEW.tab!=="tracked" && $("#hidedone").checked && (s.applied || s.hidden)) return false;
+    if ($("#newonly").checked && !isNew(j)) return false;
+    if (VIEW.cities.size && !(j.cities||[]).some(c=>VIEW.cities.has(c))) return false;
+    if (fam && j.role_family!==fam) return false;
+    if (exp && j.exp!==exp) return false;
+    if (q && !`${j.title} ${j.company} ${j.location} ${j.description}`.toLowerCase().includes(q)) return false;
+    return true;
+  });
+  const all = out;
+  out = out.filter(tab[2]);
+  out.sort($("#sort").value==="score"
+    ? (a,b)=>(b.score??-1)-(a.score??-1)
+    : (a,b)=>(b.first_seen||"").localeCompare(a.first_seen||"") || (b.posted_at||"").localeCompare(a.posted_at||""));
+  return {out, all};
+}
+
+function render(){
+  renderBoard();
+  const {out, all} = filtered();
+  $("#tabs").innerHTML = TABS.map(([k,l,f])=>`<button class="tab" role="tab" aria-selected="${k===VIEW.tab}" data-k="${k}">${l}<span class="c">${(k==="tracked"?JOBS:all).filter(f).length}</span></button>`).join("");
+  $("#tabs").onclick = e => { const b=e.target.closest(".tab"); if(b){ VIEW.tab=b.dataset.k; render(); } };
+  if (!JOBS.length){
+    $("#list").innerHTML = `<div class="empty">No jobs yet.<br>In GitHub, open <b>Actions → Refresh jobs → Run workflow</b>, then reload this page in about 10 minutes.</div>`;
+    return;
+  }
+  $("#list").innerHTML = out.length ? out.map(row).join("") : `<div class="empty">Nothing matches these filters.</div>`;
+}
+
+function applyTag(j){
+  return {easy_apply:'<span class="tag ea">Easy Apply</span>', linkedin_unknown:'<span class="tag">LinkedIn · apply type unchecked</span>',
+          company:'<span class="tag co">Company site</span>', board:`<span class="tag">${esc(j.source)}</span>`,
+          community:`<span class="tag">${esc(j.source)}</span>`}[j.apply_type] || "";
+}
+
+function row(j){
+  const s = S.jobs[j.id] || {}, open = VIEW.open.has(j.id);
+  const srcs = [...new Set((j.links||[]).map(l=>l.source))].join(" · ");
+  return `<article class="row ${open?"open":""} ${s.applied?"done":""}" data-id="${esc(j.id)}">
+    <div class="head" data-act="toggle">
+      <span class="dot ${isNew(j)?"new":""}" title="${isNew(j)?"New this refresh":""}"></span>
+      <div>
+        <div class="t">${esc(j.title)}</div>
+        <div class="sub"><b>${esc(j.company)}</b> · ${esc(j.location||"–")} · ${esc(ago(j.posted_at||j.first_seen))}</div>
+        <div class="tags">${applyTag(j)}
+          <span class="tag ${j.exp==="fresher"||j.exp==="0-1"?"fr":""}">${EXP[j.exp]||esc(j.exp)}</span>
+          ${j.role_family?`<span class="tag">${esc(j.role_family)}</span>`:""}
+          ${(j.cities||[]).map(c=>`<span class="tag">${esc(c)}</span>`).join("")}
+          ${j.drafts?`<span class="tag">✉ draft ready</span>`:""}
+          <span class="tag" title="Found on">${esc(srcs)}</span>
+        </div>
+      </div>
+      <div class="right">
+        ${j.score!=null?`<div class="score">${j.score}<small>/100</small></div>`:""}
+        <a class="btn" href="${esc(safeUrl(j.apply_type==="company"&&j.apply_url?j.apply_url:j.url))}" target="_blank" rel="noopener" data-act="open">Apply ↗</a>
+        <button class="btn ${s.applied?"on":"ghost"}" data-act="applied">${s.applied?"Applied ✓":"Mark applied"}</button>
+      </div>
+    </div>
+    <div class="body">${open?body(j):""}</div>
+  </article>`;
+}
+
+function recruiterLinks(j){
+  const c = j.company.replace(/"/g,"");
+  const base = "https://www.linkedin.com/search/results/people/?origin=GLOBAL_SEARCH_HEADER&keywords=";
+  const net = "&network=%5B%22F%22%2C%22S%22%5D";
+  const rq = encodeURIComponent(`"${c}" recruiter OR "talent acquisition" OR "HR"`);
+  const fam = /data/i.test(j.title) ? "data" : /ml|ai|machine|llm|genai/i.test(j.title) ? "AI OR ML" : "engineering";
+  const mq = encodeURIComponent(`"${c}" "${fam}" manager OR lead`);
+  return [[base+rq+net,"Recruiters in my network"],[base+rq,"All recruiters"],[base+mq+net,"Hiring managers in my network"]];
+}
+
+function body(j){
+  const s = st(j.id), d = j.drafts;
+  const links = (j.links||[]).map(l=>`<a href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener">${esc(l.source)}</a>`).join(" · ");
+  const draft = d ? `
+    <div class="panel">
+      <h3>Outreach draft ${d.verified?"· cross-checked ✓":`· <span style="color:#c0392b">review before sending</span>`}</h3>
+      <input class="name" placeholder="Recipient's first name" value="${esc(s.name||"")}" data-act="name">
+      <div class="dtabs" role="tablist">
+        ${[["note","Connection note"],["dm","Message"],["email","Email"]].map(([k,l])=>`<button class="dtab" role="tab" aria-selected="${(s.dtab||"note")===k}" data-act="dtab" data-k="${k}">${l}</button>`).join("")}
+      </div>
+      <div class="msg" data-msg>${esc(msgText(j))}</div>
+      <div class="meta"><span data-count>${countText(j)}</span>
+        <span style="display:flex;gap:6px;flex-wrap:wrap">
+          <button class="btn ghost" data-act="copy">Copy</button>
+          ${(s.dtab||"note")==="email"?`<a class="btn ghost" data-act="mail" href="#">Open in mail app</a>`:""}
+          <button class="btn ${s.messages?"on":"ghost"}" data-act="sent">${s.messages?`Sent ×${s.messages}`:"Mark sent"}</button>
+          ${s.messages?`<button class="btn ghost" data-act="unsent" title="Undo one">−1</button>`:""}
+        </span></div>
+      ${!d.verified && d.problems?.length?`<div class="meta"><span class="bad">${d.problems.map(esc).join(" · ")}</span></div>`:""}
+    </div>`
+    : `<div class="panel"><h3>Outreach draft</h3><p class="links">${
+        META.profile_ready===false ? "Fill in profile.md (or the CANDIDATE_PROFILE secret) to get drafts."
+        : "Drafts are written for the best-scoring jobs each refresh (score ≥ draft threshold)."}</p></div>`;
+  return `
+    ${j.reason?`<p class="why">${esc(j.reason)}</p>`:""}
+    <div class="grid2">
+      ${draft}
+      <div class="stack">
+        <div class="panel stack">
+          <h3>Find people</h3>
+          ${recruiterLinks(j).map(([u,l])=>`<a class="btn ghost" href="${esc(u)}" target="_blank" rel="noopener">${l} ↗</a>`).join("")}
+        </div>
+        <div class="panel stack">
+          <h3>This job</h3>
+          <button class="btn ghost" data-act="copyjd">Copy JD (for CV Tailor)</button>
+          <button class="btn ghost" data-act="hide">${s.hidden?"Unhide":"Not interested"}</button>
+          <div class="links">Links: ${links}</div>
+        </div>
+      </div>
+    </div>
+    ${j.description?`<div class="desc">${esc(j.description)}</div>`:""}`;
+}
+
+function fill(t, j){ const n = (st(j.id).name||"").trim(); return (t||"").replaceAll("{name}", n || "there"); }
+function msgText(j){
+  const d=j.drafts, k=st(j.id).dtab||"note";
+  if (k==="email") return `Subject: ${d.email_subject}\n\n${fill(d.email_body,j)}`;
+  return fill(k==="dm"?d.dm:d.note, j);
+}
+function countText(j){
+  const k=st(j.id).dtab||"note", t=msgText(j);
+  return k==="note" ? `${t.length}/${META.note_chars||200} characters` : `${t.split(/\s+/).filter(Boolean).length} words`;
+}
+
+$("#list").addEventListener("click", async e => {
+  const el = e.target.closest("[data-act]"); if (!el) return;
+  const rowEl = el.closest(".row"), id = rowEl.dataset.id, j = JOBS.find(x=>x.id===id), s = st(id), act = el.dataset.act;
+  if (act==="open") { return; }
+  if (act==="name") return;
+  e.preventDefault();
+  if (act==="toggle"){ VIEW.open.has(id)?VIEW.open.delete(id):VIEW.open.add(id); }
+  else if (act==="applied"){ s.applied = s.applied?null:new Date().toISOString(); s.via = j.apply_type==="easy_apply"||j.apply_type==="linkedin_unknown"?"easy":"other"; toast(s.applied?"Marked as applied":"Unmarked"); }
+  else if (act==="dtab"){ s.dtab = el.dataset.k; }
+  else if (act==="copy"){ await copy(msgText(j)); toast("Copied"); return; }
+  else if (act==="copyjd"){ await copy(`${j.title} at ${j.company} (${j.location})\n\n${j.description||""}`); toast("JD copied"); return; }
+  else if (act==="mail"){ const d=j.drafts; location.href=`mailto:?subject=${encodeURIComponent(d.email_subject)}&body=${encodeURIComponent(fill(d.email_body,j))}`; return; }
+  else if (act==="sent"){ s.messages=(s.messages||0)+1; toast("Message counted"); }
+  else if (act==="unsent"){ s.messages=Math.max(0,(s.messages||0)-1); }
+  else if (act==="hide"){ s.hidden=!s.hidden; }
+  save(); render();
+});
+$("#list").addEventListener("input", e => {
+  if (e.target.dataset.act!=="name") return;
+  const rowEl=e.target.closest(".row"), j=JOBS.find(x=>x.id===rowEl.dataset.id);
+  st(j.id).name=e.target.value; save();
+  rowEl.querySelector("[data-msg]").textContent = msgText(j);
+  rowEl.querySelector("[data-count]").textContent = countText(j);
+});
+async function copy(t){ try { await navigator.clipboard.writeText(t); } catch { const a=document.createElement("textarea"); a.value=t; document.body.appendChild(a); a.select(); document.execCommand("copy"); a.remove(); } }
+
+function renderHealth(){
+  const h = META.health||[], s=META.stats||{};
+  const bad = h.filter(x=>!x.ok).length;
+  $("#health summary").textContent = `Source health · ${h.length-bad}/${h.length} ok` + (s.fetched!=null?` · ${s.fetched} postings checked last run`:"");
+  $("#htable").innerHTML = `<table><tr><th>Source</th><th>Status</th><th>Jobs</th><th>Time</th></tr>${
+    h.map(x=>`<tr><td>${esc(x.source)}</td><td class="${x.ok?"":"fail"}">${x.ok?"ok":esc(x.error||"failed")}</td><td>${x.count}</td><td>${x.secs??""}s</td></tr>`).join("")}</table>`;
+}
+
+$("#exp-btn").onclick = () => { const b=new Blob([JSON.stringify(S,null,1)],{type:"application/json"});
+  const a=document.createElement("a"); a.href=URL.createObjectURL(b); a.download="jobradar-tracking.json"; a.click(); };
+$("#imp").onchange = async e => { try { const d=JSON.parse(await e.target.files[0].text()); if(d.jobs){ Object.assign(S.jobs,d.jobs); save(); render(); toast("Imported"); } } catch { toast("Invalid file"); } };
+$("#theme").onclick = () => { const r=document.documentElement; const dark = r.dataset.theme ? r.dataset.theme==="dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  r.dataset.theme = dark ? "light" : "dark"; try{localStorage.setItem(KEY+".theme", r.dataset.theme);}catch{} };
+try { const t=localStorage.getItem(KEY+".theme"); if(t) document.documentElement.dataset.theme=t; } catch {}
+init();
+</script>
+</body>
+</html>

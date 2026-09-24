@@ -1,0 +1,7 @@
+python-jobspy>=1.1.82
+requests>=2.31
+beautifulsoup4>=4.12
+pyyaml>=6.0
+openai>=1.99
+pydantic>=2.7
+playwright>=1.45

@@ -1,0 +1,184 @@
+# JobRadar configuration. Edit freely; every run reads this file.
+
+# ---------------------------------------------------------------- who you are
+# Your profile lives in profile.md (or in the CANDIDATE_PROFILE secret, which wins).
+# It is used to score jobs and write outreach drafts.
+
+# ---------------------------------------------------------------- what to find
+roles:
+  # A job is kept only if its title matches at least one of these (case-insensitive regex).
+  include:
+    - '\bai\b.*engineer|engineer.*\bai\b'
+    - 'machine learning|\bml\b|ai/ml|ml/ai|mlops'
+    - 'gen(erative)?\s*ai|\bllm\b|\bnlp\b|computer vision|deep learning'
+    - 'data engineer|big data|etl developer|analytics engineer'
+    - 'data scientist|applied scientist'
+    - 'software (engineer|developer|development engineer)|\bsde\b|\bswe\b'
+    - 'backend|back-end|python developer|full[- ]?stack'
+    - 'graduate engineer trainee|\bget\b|associate engineer|engineer trainee|programmer analyst'
+  # Titles matching these are always dropped.
+  exclude:
+    - '\b(senior|sr\.?|lead|principal|staff|manager|director|head|vp|architect|chief)\b'
+    - '\b(ii|iii|iv|l[4-9]|sde[- ]?(2|3|ii|iii)|engineer\s*(2|3))\b'
+    - '\b(intern|internship|apprentice)\b'          # remove this line to include internships
+    - '\b(sales|marketing|recruiter|support engineer|qa manual)\b'
+
+experience:
+  # fresher = no experience asked, 0-1 = up to 1 year asked. "not_stated" keeps postings
+  # that don't mention experience (many entry-level posts don't); the AI classifier then judges them.
+  allowed: [fresher, "0-1", not_stated]
+
+locations:
+  # Groups shown as filter chips. A job must match one group (or be remote-eligible from India).
+  groups:
+    Delhi NCR: [delhi, new delhi, noida, greater noida, gurgaon, gurugram, faridabad, ghaziabad, ncr]
+    Bengaluru: [bengaluru, bangalore]
+    Mumbai: [mumbai, navi mumbai, thane]
+    Pune: [pune]
+    Kolkata: [kolkata, calcutta]
+  remote: true                     # remote jobs from any company, if hireable from India
+  allow_india_unspecified: true    # postings that only say "India" (often remote/multi-city)
+
+max_age_days: 14         # ignore postings older than this
+expire_days: 21          # drop listings from the dashboard after this many days
+
+# ---------------------------------------------------------------- sources
+sources:
+  linkedin:
+    enabled: true
+    # Guest (logged-out) job search: no account is used, so your LinkedIn is never at risk.
+    terms: [AI Engineer, Machine Learning Engineer, Generative AI Engineer, LLM Engineer,
+            Software Engineer, Software Development Engineer, Associate Software Engineer,
+            Data Engineer, Data Scientist, Backend Developer, Python Developer,
+            Graduate Engineer Trainee]
+    location: India
+    remote_terms: [AI Engineer, Machine Learning Engineer, Software Engineer, Data Engineer]
+    experience_levels: "1,2"      # LinkedIn f_E: 1=Internship 2=Entry level 3=Associate
+    pages: 2                      # 25 results per page
+    enrich_limit: 120             # max job pages opened per run (Easy Apply check + description)
+  indeed:
+    enabled: true
+    terms: [AI Engineer, Machine Learning Engineer, Software Engineer fresher, Data Engineer, Data Scientist]
+    results: 40
+  naukri:
+    enabled: true
+    terms: [AI Engineer, Machine Learning Engineer, Software Engineer, Data Engineer, Data Scientist]
+    results: 40
+  remote_boards:
+    enabled: true                 # RemoteOK, Remotive, Himalayas, We Work Remotely
+  hackernews:
+    enabled: true                 # monthly "Ask HN: Who is hiring?" thread
+  reddit:
+    enabled: true                 # needs REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET secrets; skipped otherwise
+    subreddits: [developersIndia, MachineLearningJobs, remotepython]
+
+# ---------------------------------------------------------------- more job sites
+# Any job site can be added here without code. For each site:
+#   mode: html (server-rendered) | browser (JavaScript sites, uses headless Chrome) | rss (blog feeds)
+#   list_urls: listing/search pages to scan    link_pattern: regex that matches job-page links
+#   pages / page_format: extra pages ("{url}?page={n}" or "{url}/{n}")
+#   default_location: used when a job page doesn't state one
+# Failing sites show up in the dashboard's "Source health" panel.
+sites:
+  - name: Astra
+    mode: html
+    list_urls:
+      - https://useastra.in/jobs/experience/fresher
+      - https://useastra.in/jobs/category/ai-ml
+      - https://useastra.in/jobs/category/data
+      - https://useastra.in/jobs/category/engineering
+      - https://useastra.in/jobs/category/fullstack
+      - https://useastra.in/jobs/off-campus-drives
+    pages: 3
+    page_format: "{url}?page={n}"
+    link_pattern: 'useastra\.in/jobs/[a-z0-9-]+-\d+$'
+    default_location: India
+
+  - name: Jobgether
+    mode: html
+    list_urls:
+      - https://jobgether.com/remote-jobs/india/software-engineer
+      - https://jobgether.com/remote-jobs/india/data-engineer
+      - https://jobgether.com/remote-jobs/india/machine-learning-engineer
+      - https://jobgether.com/remote-jobs/india/data-scientist
+      - https://jobgether.com/remote-jobs/entry-level
+    pages: 2
+    page_format: "{url}/{n}"
+    link_pattern: '/offer/[0-9a-f]{24}-'
+    company_pattern: 'remote-jobs/company-|search-offers\?company='
+    default_location: Remote (India)
+
+  - name: Hirist
+    mode: browser                     # listings are rendered by JavaScript
+    list_urls:
+      - https://www.hirist.tech/c/ai-ml-jobs?minexp=0&maxexp=1&posting=7
+      - https://www.hirist.tech/k/machine-learning-jobs?minexp=0&maxexp=1&posting=7
+      - https://www.hirist.tech/k/generative-ai-jobs?minexp=0&maxexp=1&posting=7
+      - https://www.hirist.tech/k/data-engineering-jobs?minexp=0&maxexp=1&posting=7
+      - https://www.hirist.tech/k/data-scientist-jobs?minexp=0&maxexp=1&posting=7
+      - https://www.hirist.tech/k/python-jobs?minexp=0&maxexp=1&posting=7
+      - https://www.hirist.tech/k/backend-development-jobs?minexp=0&maxexp=1&posting=7
+    link_pattern: 'hirist\.tech/j/[a-z0-9.-]+-\d+'
+    default_location: India
+
+  - name: engineerHUB
+    mode: browser
+    enabled: true                     # set false if Source health shows it needs a login
+    list_urls: [https://www.engineerhub.in/career]
+    link_pattern: 'engineerhub\.in/(career|jobs?|opportunit\w*)/[^/?#]+'
+    default_location: India
+
+  - name: Jobs24x
+    mode: browser
+    enabled: true                     # titles are public; apply links need their paid plan
+    list_urls: [https://jobs24x.com/]
+    link_pattern: 'jobs24x\.com/(jobs?|job-details|j)/[^/?#]+'
+
+  # WordPress fresher-job blogs publish RSS feeds (titles like "Oracle Recruitment 2026 | Role | City")
+  - name: OffCampusJobs4u
+    mode: rss
+    list_urls: [https://offcampusjobs4u.com/feed/]
+    default_location: India
+  - name: FreshersDunia
+    mode: rss
+    list_urls: [https://freshersdunia.in/feed/]
+    default_location: India
+  - name: EnggWave
+    mode: rss
+    list_urls: [https://www.enggwave.com/feed/]
+    default_location: India
+
+# Company career sites. Paste the careers URL; the ATS is detected from it.
+# Supported: Greenhouse, Lever, Ashby, SmartRecruiters, Workday.
+# The dashboard's "Source health" panel shows any URL that fails, so you can fix or remove it.
+companies:
+  - https://boards.greenhouse.io/databricks
+  - https://boards.greenhouse.io/mongodb
+  - https://boards.greenhouse.io/stripe
+  - https://boards.greenhouse.io/postman
+  - https://boards.greenhouse.io/rubrik
+  - https://boards.greenhouse.io/okta
+  - https://boards.greenhouse.io/twilio
+  - https://boards.greenhouse.io/razorpaysoftwareprivatelimited
+  - https://boards.greenhouse.io/phonepe
+  - https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+  - https://salesforce.wd12.myworkdayjobs.com/External_Career_Site
+  - https://adobe.wd5.myworkdayjobs.com/external_university
+  - https://intel.wd1.myworkdayjobs.com/External
+  - https://walmart.wd5.myworkdayjobs.com/WalmartExternal
+  - https://mastercard.wd1.myworkdayjobs.com/CorporateCareers
+  - https://jobs.smartrecruiters.com/Visa
+  - https://jobs.smartrecruiters.com/BoschGroup
+  - https://jobs.smartrecruiters.com/ServiceNow
+  # - https://jobs.lever.co/<company>
+  # - https://jobs.ashbyhq.com/<company>
+
+# ---------------------------------------------------------------- AI (optional)
+# Without OPENAI_API_KEY the system still runs using rules only (no scores or drafts).
+llm:
+  classify_model: gpt-5.4-mini     # falls back to draft_model if unavailable
+  draft_model: gpt-5.4
+  min_score: 55                    # jobs scored below this are hidden
+  draft_min_score: 70              # drafts are written for jobs scoring at least this
+  max_drafts_per_run: 30
+  note_chars: 200                  # LinkedIn free-account connection note limit

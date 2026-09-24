@@ -1,0 +1,63 @@
+name: Refresh jobs
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # 00:00 IST
+    - cron: "30 6 * * *"    # 12:00 IST
+  workflow_dispatch: {}
+
+permissions:
+  contents: write     # commit docs/data
+  pages: write        # publish the dashboard
+  id-token: write
+
+concurrency:
+  group: jobradar
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Fetch, filter, score, draft
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        run: python -m jobradar.run
+
+      - name: Save data to the repo
+        if: always()
+        run: |
+          git config user.name "jobradar-bot"
+          git config user.email "jobradar-bot@users.noreply.github.com"
+          git add docs/data
+          git commit -m "Refresh $(TZ=Asia/Kolkata date '+%Y-%m-%d %H:%M IST')" || echo "No changes"
+          git pull --rebase --autostash && git push
+
+      - uses: actions/configure-pages@v5
+        if: always()
+      - uses: actions/upload-pages-artifact@v3
+        if: always()
+        with:
+          path: docs
+      - id: deploy
+        if: always()
+        uses: actions/deploy-pages@v4
