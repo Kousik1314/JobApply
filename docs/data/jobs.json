@@ -1,5 +1,486 @@
 [
 {
+"id": "li-4472001237",
+"source": "linkedin",
+"title": "Associate Software Engineer",
+"company": "Cornerstone OnDemand",
+"location": "Pune Division, Maharashtra, India",
+"url": "https://www.linkedin.com/jobs/view/4472001237",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-25",
+"is_remote": false,
+"description": "We're looking for a Associate Software Engineer This role is Office Based, Pune Office Associate Software Engineer About the role\nWe are hiring an Associate Software Engineer to join Cornerstone's team in Pune. You will work on building and supporting scalable backend services, data integrations, and cloud-native applications across Cornerstone.\nThis is a hands-on engineering role where you will write production code in Java and Spring Boot, work with AWS services, contribute to microservices and event-driven applications, and learn how to design, test, deploy, and operate software in a production environment.\nYou will work closely with experienced engineers, participate in code reviews and design discussions, troubleshoot application issues, and continuously improve the reliability, performance, and maintainability of the systems you build.\nIn this role you will...\nDevelop and maintain backend services and APIs using Java and Spring Boot.\nBuild scalable and maintainable REST APIs and microservices following established engineering standards.\nWork with AWS services such as DynamoDB, S3, SQS, SNS, Kinesis, Lambda, and EC2.\nBuild data integrations and event-driven workflows.\nWork with Kinesis streams for processing and consuming real-time data events.\nWrite clean, readable, testable, and well-documented production code.\nDevelop unit and integration tests and contribute to improving automated test coverage.\nDebug application issues using logs, metrics, and traces and contribute to production issue resolution.\nDesign and work with DynamoDB tables, partition keys, sort keys, indexes, and queries.\nContribute to CI/CD pipelines using Jenkins and support automated build, test, and deployment processes.\nWork with Docker and containerized applications and gain exposure to AWS ECS/EKS environments.\nUse Git for source control and participate in pull requests, code reviews, branching, and release activities.\nContribute to application monitoring, logging, and observability.\nFollow secure coding practices and contribute to addressing code-quality and security findings.\nCollaborate with senior engineers, QA, DevOps/SRE, and product teams to deliver features end to end.\nParticipate in incident troubleshooting, root-cause analysis, and continuous improvement activities.\nLearn and adopt engineering best practices around scalability, reliability, performance, and maintainability.\nYou've got what it takes if you have...\n0–2 years of relevant software development experience, including internships or project experience.\nGood programming fundamentals and proficiency in Java.\nWorking knowledge of Java 8+, including:\nObject-oriented programming\nCollections\nException handling\nStreams and Lambda expressions\nMultithreading/concurrency fundamentals\nBasic to intermediate knowledge of Spring Boot and REST API development.\nUnderstanding of microservices architecture and common service-to-service communication patterns.\nHands-on or academic/project experience with AWS services, preferably DynamoDB, S3, SQS, SNS, Kinesis, Lambda, or EC2.\nWorking knowledge of DynamoDB fundamentals, including partition keys, sort keys, indexes, queries, and capacity concepts.\nBasic understanding of event streaming and messaging concepts, including Kinesis, SQS, or SNS.\nFamiliarity with Git and standard software development workflows.\nExposure to Maven or Gradle build tools.\nBasic understanding of CI/CD concepts, preferably Jenkins or an equivalent tool.\nFamiliarity with Docker and containerization.\nBasic understanding of Linux/Unix commands and application troubleshooting.\nGood understanding of software development fundamentals including data structures, algorithms, design principles, and debugging.\nStrong problem-solving skills and willingness to learn new technologies.\nGood communication and collaboration skills.\nNice to have\nExperience building applications using Java + Spring Boot through internships, academic projects, or previous employment.\nHands-on experience with DynamoD",
+"seniority": "Associate",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/cornerstoneondemand",
+"key": "6ea38af82037c56d",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4472001237",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
+"cities": [
+"Pune"
+],
+"exp": "fresher",
+"junior_title": true,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "li-4470177033",
+"source": "linkedin",
+"title": "Data Scientist",
+"company": "VOIS",
+"location": "Pune Division, Maharashtra, India",
+"url": "https://www.linkedin.com/jobs/view/4470177033",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-25",
+"is_remote": false,
+"description": "Who We Are\nVOIS (Vodafone Intelligent Solutions) is a strategic arm of Vodafone Group Plc, creating value for customers by delivering intelligent solutions through Talent, Technology & Transformation.\nAs the largest shared services organisation in the global telco industry with 30,000 FTE, our portfolio of next-generation solutions and services are designed in partnership with customers across Vodafone Group, local markets, and partner markets to simplify and drive growth. With our strategic partner Accenture, we work alongside our Vodafone customers, other Telco and tech companies to drive transformation, meet the challenges of our industry and ensure we stay relevant and resilient. This partnership is a unique, industry-first model which brings together the best of in-house and 3rd party capability.\nWe work with customers across 28 countries from 10 VOIS locations: Albania, Egypt, Hungary, India, Romania, Spain, Turkey, UK, Germany, Ireland, and with a network of teams in Czech Republic, Italy, Greece, and Portugal.\n#VOIS #BeUnrivalled #CreateTheFuture\nAbout This Role\nWe are seeking a Data Scientist to design and develop analytical models and insight packs that support local markets, partner markets, and corporate accounts. The role focuses on transforming raw data into actionable intelligence through predictive and descriptive statistical techniques across diverse data environments. Based in Pune, the individual will work collaboratively with business and commercial teams to drive informed decision-making and innovation.\nWhat You’ll Do\nBuild, test, and deliver analytical models leveraging new and existing datasets to support defined use cases\nPerform data preparation, cleansing, and optimisation using SQL and NoSQL technologies\nDevelop descriptive and predictive models tailored to specific customer segments, products, and services\nSupport business stakeholders by contributing to decision-making processes through data-driven insights\nCollaborate with commercial teams to present recommendations based on analytical outcomes\nContribute to product management activities by identifying and defining customer-facing analytics use cases\nSupport the definition and improvement of analytics lifecycle processes for efficient and cost-effective delivery\nParticipate in business analysis activities and document specifications for information requests\nWho You Are\nExperienced in advanced analytics techniques such as descriptive, predictive, and optimisation modelling\nComfortable working with complex, high-volume, and high-dimensional datasets (preferably using Hadoop or Spark)\nProficient in SQL and database technologies such as Teradata, Oracle, or MySQL\nSkilled in applying machine learning techniques to practical business problems\nExperienced in statistical tools such as Python, R, SAS, MATLAB, or SPSS\nEducated in Data Science, Applied Mathematics, Statistics, Computer Science, Engineering, or an equivalent field, with relevant experience\nConfident working in international, distributed, and agile team environments\nStrong analytical, troubleshooting, and system analysis capabilities\nEffective communicator, able to translate complex findings into clear and simple language\nCollaborative, adaptable, and proactive with a focus on continuous improvement and innovation\nNot a perfect fit?\nConcerned you may not meet every requirement? Vodafone is committed to creating an inclusive workplace where everyone can thrive. If you are excited about this role but your experience does not align exactly with every aspect of the job description, you are encouraged to apply. You may be the right candidate for this or another opportunity, and the recruitment team will support you in exploring where your skills fit best.\nWhat's In It For You\nOpportunity to work on diverse analytics use cases across global markets\nExposure to large-scale data platforms and advanced analytics technologies\nCollaborative engagement with cross-functional and international teams\nOpportu",
+"seniority": "Not Applicable",
+"experience_text": "",
+"company_url": "https://uk.linkedin.com/company/vois",
+"key": "9f38505f8b3f8764",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4470177033",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
+"cities": [
+"Pune"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "li-4450473265",
+"source": "linkedin",
+"title": "Graduate Engineer Trainee,Order Management",
+"company": "Konecranes",
+"location": "Pune Division, Maharashtra, India",
+"url": "https://www.linkedin.com/jobs/view/4450473265",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-25",
+"is_remote": false,
+"description": "At Konecranes, we believe that great customer experience is built on the people behind the Konecranes name. Everything we do, we do with passion and drive. We believe diversity drives business success and is the foundation for our growth. We welcome different backgrounds and skills that enrich our community and we promote a place where we can ALL be ourselves. This is what makes Konecranes a unique place to work.\nJob Description\nKey Responsibilities:\nDelivery punctuality 95%\nProduction Planning & Control (PPC)\nMaterial Requirement Planning (MRP)\nCapacity Planning\nCross-functional Coordination.\nERP tool updating and maintenance.\nMaintenance of material master data.\nRole and Responsibility:\nPrepare and manage production plans and schedules to meet customer delivery commitments.\nCoordinate with Procurement, Production, Stores, Engineering, and Quality teams to ensure timely material availability and smooth production flow.\nMonitor production progress, identify bottlenecks, and implement corrective actions to achieve production targets.\nPerform material and capacity planning using ERP/MRP systems while maintaining optimal inventory levels.\nAnalyze machine, manpower, and resource capacity.\nMonitor raw material, WIP (Work-in-Progress), and finished goods inventory\nTrack production KPIs, prepare planning reports, and drive continuous process improvements to enhance productivity and on-time delivery.\nPrioritize production according to delivery commitments.\nMonitor daily production progress against the plan.\nMaintain Bill of Materials (BOM) and production routing in the ERP system.\nIdentify opportunities to improve planning accuracy and production efficiency.\nSupport Lean Manufacturing, Kaizen, and 5S initiatives.\nPrepare daily and monthly production reports.\nAnalyze production variances, bottlenecks, and resource utilization.\nPlan fabrication, machining, welding, painting, assembly, and testing activities.\nCoordinate long lead-time items such as motors, gearboxes, wire ropes, electrical panels, and structural steel.\nEnsure compliance with project timelines for EOT cranes, gantry cranes, jib cranes, and customized lifting equipment.\nQualifications\nEducatio n Required : BE Mechanical / BE Electrical\nProfessional Experience Required (Max – Min.) : 0 to 1 year (Freshers can apply)\nCompetencies and Skills Required:\nAwareness about ISO 9001, 14001, 45001 requirements.\nCompliance management.\nCommunication skills.\nMandatory Systems Knowledge and Tools Usability:\nERP systems and its working\nISO\nAdditional Information\nWhat we can offer you :\n• Competitive Salary\n• Work-Life balance\n• Innovative and dynamic working environment\n• Possibility to work in leading crane building company with leading technology.\nKonecranes moves what matters . We are a global leader in material handling solutions, serving a broad range of customers across multiple industries. We consistently set the industry benchmark, from everyday improvements to the breakthroughs at moments that matter most, because we know we can always find a safer, more productive and sustainable way. That's why, with 16 000+ professionals in over 50 countries, we are trusted every day to lift, handle and move what the world needs.\nKonecranes is committed to ensuring that all employees and job applicants are treated fairly in an environment which is free from any form of discrimination.\nShow more\nShow less",
+"seniority": "Not Applicable",
+"experience_text": "",
+"company_url": "https://fi.linkedin.com/company/konecranes",
+"key": "36f69e132916bdc8",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4450473265",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
+"cities": [
+"Pune"
+],
+"exp": "fresher",
+"junior_title": true,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "li-4470096991",
+"source": "linkedin",
+"title": "Graduate Trainee – PV-Technology & AI/ML R&D",
+"company": "Prismagic Solutions Inc.",
+"location": "Noida, Uttar Pradesh, India",
+"url": "https://www.linkedin.com/jobs/view/4470096991",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-25",
+"is_remote": false,
+"description": "Graduate Trainee – PV Technology & AI/ML R&D\nExperience: 0–1 year | Freshers welcome\nEducation: B.Tech / M.Tech / MCA\nEmployment Type: Full-time\nAbout Client\nClient enables life sciences companies to modernize Pharmacovigilance and unlock the value of Real-World Evidence through a powerful combination of consulting expertise and technology innovation.\nOur dual-pillar approach: Consulting + Engineering , delivers technology-driven solutions across the life sciences and healthcare industry.\nWe are looking for bright, curious, and motivated fresh graduates to join our growing technology teams.\nSelected candidates may be aligned to one of two career tracks based on their skills, interests, and business requirements:\nTrack 1: Pharmacovigilance Technology\nWork on technology-enabled Pharmacovigilance projects involving safety databases, data analysis, automation, regulatory processes, and AI-assisted safety workflows.\nTrack 2: Technology R&D – AI/ML & Data Science\nWork with emerging technologies such as AI, Machine Learning, Data Science, software development, automation, and cloud technologies to develop and validate solutions for real-world healthcare and life sciences applications.\nKey Responsibilities\nPharmacovigilance Technology Track\nAssist with data analysis, reporting, and data extraction using SQL\nReview and validate data extracted by AI engines from unstructured medical or patient reports\nSupport configuration and testing of safety systems such as Oracle Argus Safety, ARISg, and LifeSphere MultiVigilance\nParticipate in data migration, validation, testing, and documentation activities\nPerform quality checks on AI-assisted case processing and documentation\nDevelop and support custom queries and operational reports\nAssist with troubleshooting of system issues under supervision\nLearn Pharmacovigilance processes, regulatory requirements, and safety databases\nMaintain project documentation and version control\nTechnology R&D Track\nAssist in research, design, and development of technology solutions\nBuild and test software prototypes, proof-of-concepts, and internal tools\nExplore emerging technologies, frameworks, APIs, and open-source technologies\nWork with AI/ML, data science, automation, and software engineering concepts\nConduct technical research and literature reviews and present findings\nCollaborate with AI/ML engineers, data scientists, and product teams\nDocument experiments, technical findings, and learnings\nContribute to internal technology knowledge repositories\nRequired Qualifications\nB.Tech / M.Tech / MCA in Computer Science, Information Technology, Data Science, or a related discipline\nMinimum 75% in 10th and 12th\nMinimum 7.0 CGPA in graduation/post-graduation\n0–1 year of professional experience; internships and academic projects may be considered\nStrong analytical and logical problem-solving skills\nGood communication and documentation skills\nStrong willingness to learn and work with emerging technologies\nAbility to adapt to technology-driven and automated workflows\nFor PV Technology Track\nBasic knowledge of SQL / PL-SQL\nFamiliarity with databases and data concepts\nInterest in healthcare, pharmaceuticals, and Pharmacovigilance\nAcademic or basic exposure to safety databases such as Oracle Argus or ArisGlobal LifeSphere is an advantage\nFor Technology R&D Track\nStrong programming fundamentals in at least one language such as Python, Java, or C++\nFamiliarity with software development concepts and SDLC\nBasic understanding of data structures and algorithms\nFamiliarity with Git or other version-control systems\nInterest in AI/ML, data science, automation, and emerging technologies\nPreferred Skills\nExposure to any of the following will be an advantage:\nPython, AI/M, SQL, PostgreSQL, Data Analytics, JavaScript, Node.js, Angular, APIs | AWS | Git\nPrevious internships, academic projects, hackathons, research projects, or personal technology projects are welcome.\nWhat We Offer\nStructured training and mentorship from experienced prof",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/prismagic",
+"key": "fc389a94ab675641",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4470096991",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
+"cities": [
+"Delhi NCR"
+],
+"exp": "fresher",
+"junior_title": true,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "li-4470076011",
+"source": "linkedin",
+"title": "AI Engineer",
+"company": "VinSmart Future",
+"location": "Hanoi, Hanoi, Vietnam",
+"url": "https://www.linkedin.com/jobs/view/4470076011",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-25",
+"is_remote": true,
+"description": "Company Description\nVinSmart Future (VSF) is the leading technology company within the Vingroup Corporation, formed by the merger of the group's entire technology ecosystem, including VinApp, VinIT, VinBigdata, and other tech units. As a core driver of Vingroup's future growth, VSF is at the forefront of technological development, with artificial intelligence (AI) as its foundation. With a talented team of nearly 4,000 local and international technology experts, VSF focuses on creating high-utility technologies that enhance lives and connect data, models, and infrastructure to unlock new possibilities.\nJob Description \n• Design, train, and deploy AI models for production use, covering CV, NLP, generative AI, and speech systems (ASR, TTS, speech-to-speech). \n• Build and optimize pipelines for pretraining, fine-tuning, inference, and evaluation, applying\ntechniques such as transformers, RAG, RLHF/DPO, and model optimization (distillation, quantization).\n• Adapt foundation models (e.g., Whisper, Qwen, XTTS) for Vietnamese and multi-domain use cases, improve performance (accuracy, latency, naturalness), and develop conversational AI systems like voice assistants.\n• Collaborate with cross-functional teams to deliver end-to-end AI solutions, build data pipelines and evaluation frameworks, and continuously apply new AI research into real-world applications.\nRequirements\nStrong foundation (mandatory):\n• Python (advanced), solid coding practices (clean, modular, production-ready)\n• Deep Learning frameworks: PyTorch (preferred) or TensorFlow\n• Strong fundamentals: ML/DL, NLP, linear algebra, probability, optimization\nModel development & deployment:\n• Hands-on experience training, fine-tuning, and deploying models to production\n• Experience with transformer-based models (LLMs, seq2seq)\n• Familiar with RAG, LLM applications OR model inference pipelines\nAt least 3+ YOE in ONE domain expertise:\n• NLP/LLM: Transformers, RAG, prompt engineering, conversational AI\n• Speech AI: ASR or TTS, working with models like Whisper, XTTS, speech pipelines\n• Computer Vision: Detection, tracking, segmentation\n• Agentic AI: Multi-agent systems, tool-using agents, workflows\nModel training & optimization:\n• Experience with fine-tuning (SFT), domain adaptation, evaluation metrics\n• Familiar with at least one: RLHF / DPO / PPO OR model optimization (quantization, distillation)\nEngineering & deployment:\n• Experience with API development (FastAPI/Flask) or microservices\n• Familiar with Docker, CI/CD, cloud (AWS/GCP)\n• Working knowledge of ML lifecycle / MLOps (MLflow, W&B is a plus)\nNice to Have\n• Experience in Vietnamese Speech AI (ASR/TTS) or multi-accent systems\n• Experience in Smart City / large-scale systems / real-time AI\n• Knowledge of streaming systems, low-latency inference, speech-to-speech AI\n• Background in research, publications, or open-source AI projects\nContact:\nMs. Nguyệt Zalo/Call: 0769 288 088\nEmail: v.nguyetnta15@vinsmartfuture.tech\nOffice:\nHanoi: Technopark, Gia Lam\nHCM: Vincom Dong Khoi\nShow more\nShow less",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/vinsmart-future",
+"key": "0ba6bf5822f46341",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4470076011",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "li-4461914269",
+"source": "linkedin",
+"title": "Data Engineer",
+"company": "Zefr",
+"location": "Marina del Rey, CA",
+"url": "https://www.linkedin.com/jobs/view/4461914269",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-25",
+"is_remote": true,
+"description": "What We Do\nZefr is the leader in AI-powered content classifications for brands and advertisers. Zefr’s platform is purpose built for multi-modal content understanding on open platforms like YouTube, TikTok, Meta and Snap, with pre-bid activation and verification solutions. Our products safeguard media and AI investments, while maximizing performance and efficacy on those channels.\nHeadquartered in Los Angeles with global offices across New York, Chicago, London, Toronto, Singapore, and more, Zefr is redefining what trust and transparency means for social media in the age of AI.\nWhat You’ll Do\nWe are looking for a passionate engineer to come collaborate and grow alongside our experienced data engineering team. The team is responsible for a broad range of systems and technologies:\nDesign, build, and operate complex workflows using Apache Airflow\nDesign, build, and operate data transformation pipelines in Snowflake and dbt\nDesign, build, and manage distributed data science inference systems across multi-cloud environments, including AWS and GCP (and more).\nWhat We’re Looking For\nBachelor’s or Master’s degree in an engineering discipline (BEng/MEng)\n1-2 years of experience in a technical field\nCompetency in Python and SQL\nKnowledge of systems engineering principles and product lifecycle management\nStrong communication and collaboration skills\nBenefits (for US Based Employees)\nFlexible PTO\nMedical, dental, and vision insurance with FSA options\nCompany-paid life insurance\nPaid parental leave\n401(k) with company match\nProfessional development opportunities\n10+ paid holidays off\nSummer Fridays (we leave early)\nIn-office, hybrid, and fully-remote work options available\nIn-office lunches and lots of free food\nOptional in-person and virtual events (we like to celebrate!)\nCompensation (for US Based Employees)\nThe anticipated salary for this position is between $100,000 and $130,000. Within the range, individual pay is determined by factors such as job-related skills, experience, and relevant education or training. If your compensation expectations fall outside of this range, it may still be worth having a conversation.\nZefr is an equal opportunity employer that embraces diversity and inclusion in the workplace. We are committed to building a team that represents a variety of backgrounds, skills, and perspectives because we know this only makes us better. We strongly encourage women, persons of color, LGBTQIA+ individuals, persons with disabilities, members of ethnic minorities, foreign-born residents, and veterans to apply even if you do not meet 100% of the qualifications.\nShow more\nShow less",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/zefr",
+"key": "70626fb5395d462b",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4461914269",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
+"cities": [
+"Remote"
+],
+"exp": "0-1",
+"junior_title": false,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "him-https://himalayas.app/companies/revwit/jobs/backend-engineer",
+"source": "himalayas",
+"title": "Backend Engineer",
+"company": "Revwit",
+"location": "Remote (Nigeria)",
+"url": "https://himalayas.app/companies/revwit/jobs/backend-engineer",
+"apply_type": "company",
+"apply_url": "https://himalayas.app/companies/revwit/jobs/backend-engineer",
+"posted_at": "2026-09-25",
+"is_remote": true,
+"description": "About the Role\nWe’re building a modern Sales Assistant for B2B teams in Africa—and we need a backend engineer who can do more than just write code. We need someone who cares about building great systems, ships fast, and treats product quality like a personal mission.\nYou’ll be one of the core builders of our backend, designing APIs, managing databases, improving performance, and contributing to architecture decisions. This is not a ticket-taking role. It’s a high-impact position where your decisions shape the product.\nWhat You’ll Do\nDesign and build backend systems using PHP (Laravel).\nCreate and maintain RESTful APIs that power our frontend and integrations.\nManage databases and write efficient queries that scale with usage.\nWork closely with product, design, and frontend teams to turn ideas into working features.\nReview code, share knowledge, and help the team improve engineering standards.\nMonitor performance, debug issues, and implement improvements continuously.\nThings will break. You take ownership, fix fast, and learn faster.\nTake full ownership of backend features from idea to deployment.\nWho You Are\nExperienced – You’ve built backend systems in production, ideally in a startup or SaaS environment.\nSkilled in Laravel – You’re comfortable with modern PHP and can build solid systems in Laravel.\nPragmatic – You know when to move fast and when to slow down for quality and stability.\nAutonomous – You don’t wait to be told what to do. You take ownership and push things forward.\nCollaborative – You work well with others, communicate clearly, and put the team before ego.\nWell-Rounded – You’re familiar with CI/CD pipelines, DevOps basics, and integrating third-party APIs.\nCurious – You like to learn, experiment, and improve continuously.\nWhy Join Us\nSalary in Naira: Competitive pay in local currency.\nHealth Insurance: We care about your well-being.\nRemote Work: Enjoy flexibility in where and how you work.\nStock Options: Share in our success as we grow together.\nHow We Recruit\nApply: Fill out our application form. Our team will review your information to assess fit.\nInterview with CTO: Next, you'll speak with our CTO to dive deeper into your skills, approach, and alignment with the team.\nInterview with CEO: If our CTO thinks you are a fit, you'll chat with our CEO to get to know you better and share the bigger vision.\nOffer: If everything goes well, we’ll extend an offer.\nIf you’re a builder who wants to work on hard problems with a small, ambitious team, this is your shot.\nOriginally posted on Himalayas",
+"seniority": "Mid-level",
+"experience_text": "",
+"company_url": "",
+"key": "80f91f77e9a896bd",
+"links": [
+{
+"source": "himalayas",
+"url": "https://himalayas.app/companies/revwit/jobs/backend-engineer",
+"apply_type": "company",
+"apply_url": "https://himalayas.app/companies/revwit/jobs/backend-engineer"
+}
+],
+"first_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "him-https://himalayas.app/companies/sortitt/jobs/full-stack-engineer",
+"source": "himalayas",
+"title": "Full Stack Engineer",
+"company": "Sortitt",
+"location": "Remote (Anywhere)",
+"url": "https://himalayas.app/companies/sortitt/jobs/full-stack-engineer",
+"apply_type": "company",
+"apply_url": "https://himalayas.app/companies/sortitt/jobs/full-stack-engineer",
+"posted_at": "2026-09-25",
+"is_remote": true,
+"description": "Job Description for Full-Stack Engineer\nPosition Title: Full-Stack Engineer\nLocation: Remote\nCompany: Client\nAbout Us: Welcome to Sortitt , the revolutionary marketplace that's reshaping the future of resource acquisition. As a dynamic platform, Sortitt connects businesses with top-tier resources across the globe, transcending traditional constraints. Our cutting-edge approach delivers tailored solutions that precisely match client demands, creating opportunities for professionals seeking remote engagements. At Sortitt , resources are available on demand, and clients are empowered with diverse choices to ensure the best talent with matching skills. Join us in revolutionizing talent sourcing—where innovation, flexibility, and growth converge to redefine success in the modern workforce.\nJob Summary: We are looking for a talented and driven Full-Stack Engineer to join our dynamic development team. The ideal candidate has strong experience with JavaScript, particularly in modern React and Next.js on the frontend, and Node.js on the backend. You will be responsible for developing scalable, high-performance web applications that deliver seamless user experiences and robust backend services.\nResponsibilities:\nDesign, develop, and maintain scalable web applications using Next.js, React, Node.js, and other modern web technologies.\nImplement RESTful APIs and/or GraphQL endpoints for seamless frontend-backend communication.\nWrite clean, maintainable, and efficient code following best practices and coding standards.\nOptimize application performance for speed, responsiveness, and scalability.\nCollaborate with designers, product managers, and other developers to turn product ideas into reality.\nParticipate in code reviews, technical discussions, and agile ceremonies (stand-ups, sprint planning, retrospectives).\nTroubleshoot and resolve bugs, performance issues, and production incidents\nQualifications:\nFluency in English (mandatory).\nStrong proficiency in JavaScript, with a solid understanding of ES6+\nExpertise in React.js and Next.js frameworks\nHands-on experience with Node.js and backend development\nFamiliarity with RESTful API design and integration\nExperience with database technologies like MongoDB, PostgreSQL, or MySQL\nKnowledge of version control tools like Git\nExperience with modern frontend tooling (Webpack, Babel, etc.)\nFamiliarity with cloud services (AWS, Vercel, Heroku) is a plus\nExperience with TypeScript\nKnowledge of authentication/authorization protocols (JWT, OAuth)\nFamiliarity with CI/CD pipelines and DevOps practices\nExposure to testing frameworks (Jest, Mocha, Cypress)\nBenefits:\nCompetitive compensation with opportunities for growth and advancement.\nHealth benefits package, including medical.\nExposure to a dynamic and innovative work environment.\nCollaborative and team-oriented work culture.\nEqual Opportunity Employer:\nSortitt , along with its clients, values diversity and inclusion. We encourage candidates from all backgrounds and experiences to apply.\nOriginally posted on Himalayas",
+"seniority": "Mid-level",
+"experience_text": "",
+"company_url": "",
+"key": "f7afdd1670ac48c2",
+"links": [
+{
+"source": "himalayas",
+"url": "https://himalayas.app/companies/sortitt/jobs/full-stack-engineer",
+"apply_type": "company",
+"apply_url": "https://himalayas.app/companies/sortitt/jobs/full-stack-engineer"
+}
+],
+"first_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-hirist-8460ef5e6034",
+"source": "hirist",
+"title": "Enphase Energy - AI/ML Engineer 0 - 1 yrs Bangalore Artificial Intelligence Machine Learning Generative AI Agentic AI LLM Python Tensorflow +2 Posted 4 days ago",
+"company": "",
+"location": "India",
+"url": "https://www.hirist.tech/j/enphase-energy-ai-ml-engineer-1673577?ref=cl&jobPos=6",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": false,
+"description": "You need to enable JavaScript to run this app.\nAI/ML\nArtificial Intelligence\nMachine Learning\nNLP\nGenerative AI\nPredictive Modeling\nQuery Segmentation\nAI Interface\nLLM\nDeep Learning\nMLOps\nSecurity Architect - AI\nCloud Architect - ML/AI\nData Scientist\nData Modeling\nData Analytics\nData Analytics & BI\nAnalytics\nData Science\nData Mining\nTableau\nPower BI\nQuantitative Analytics\nData Visualization\nData Analyst\nData Engineering\nData Engineering\nBig Data\nHadoop\nHive\nBigQuery\nETL\nSoftware Development\nBackend Development\nPython\nJava\nGoLang\nR\nDjango\nNodeJs\nSpring\nHibernate\nFrontend Development\nReactJS\nAngularJS\nJavascript\nJQuery\nBootstrap\nUI\nUX\nFull Stack\nFull Stack\nMERN Stack\nLAMP\nMEAN\nNode.JS\nReact.js\nRESTful API\nMobile Applications\niOS\nAndroid\nReact Native\nIonic\nPhonegap\nXamarin\nOpenGL\nEmerging Technologies\nBlockchain\nCryptocurrency\nAugmented Reality\nVirtual Reality\niOT\nDevOps / SRE\nSite Reliability\nAWS\nAZURE\nCloud Architect\nDocker\nPuppet\nJenkins\nChef\nKubernetes\nGoogle Cloud Platform\nCyberSecurity\nCyber Security\nCloud Security\nCISSP\nCISM\nInformation Security\nData Security\nIT Security Strategy\nNetwork Security\nFirewall\nIAM\nSailpoint\nQuality Assurance\nPerformance Testing\nApplication Testing\nWhite Box Testing\nSecurity Testing\nLoad Testing\nMobile Testing\nAutomation Testing Tools\nSelenium\nTest Architect\nPlatform Engineering / SAP/Oracle\nPega\nRPA\nERP\nSAP FICO\nCRM\nSAP Implementation\nTechno-Functional Consultant\nSalesforce\nIntegration Tools\nSharepoint\nPowerApps\nOracle Apps\nPresales\nSolution Design\nLCDP\nMainframe\nInformatica\nProduct / Design\nProduct Management\nProduct Strategy\nProduct Roadmap\nChief Product Officer\nUX Strategy\nUser Story\nWireframe\nStoryboard\nJira\nBusiness Analysis and Project Management\nProject Management\nBusiness Analyst\nTechno-Functional Consultant\nProgram Management\nAgile\nScrum\nPMP\nUI & Design\nUI\nUX\nPhotoshop\nIllustrator\nInfographics\nCorelDRAW\nInDesign\nSketch\nFigma\nInteraction Design\nOthers\nSemiconductor/VLSI/EDA\nMATLAB\nVerilog\nRTL\nASIC\nPhysical Design\nSystem Verilog\nVHDL\nBoard Design\nVLSI\nOthers\nIT Operations\nTechnical Support\nSystem Administration\nDBMS\nDBA\nIT Infrastructure\nTechnical Writing\nSEO\nNetwork Support\nITIL\nIncident Management\nChange Management\nITSM\nAI/ML\nData Analytics\nSoftware Development\nProduct / Design\nOthers\nCourses\nHome\n>\n>\nJob Description\nLoading chat...",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "e86ef1c28a993d0b",
+"links": [
+{
+"source": "hirist",
+"url": "https://www.hirist.tech/j/enphase-energy-ai-ml-engineer-1673577?ref=cl&jobPos=6",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
+"cities": [
+"India"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-hirist-850eb7838848",
+"source": "hirist",
+"title": "AI Engineer - Enterprise Conversational Platform 0 - 2 yrs 20-25 LPA Noida/Gurgaon/Gurugram Machine Learning Python Generative AI LLM Posted 4 days ago Posted 4",
+"company": "",
+"location": "India",
+"url": "https://www.hirist.tech/j/ai-engineer-enterprise-conversational-platform-1673412?ref=cl&jobPos=7",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": false,
+"description": "You need to enable JavaScript to run this app.\nAI/ML\nArtificial Intelligence\nMachine Learning\nNLP\nGenerative AI\nPredictive Modeling\nQuery Segmentation\nAI Interface\nLLM\nDeep Learning\nMLOps\nSecurity Architect - AI\nCloud Architect - ML/AI\nData Scientist\nData Modeling\nData Analytics\nData Analytics & BI\nAnalytics\nData Science\nData Mining\nTableau\nPower BI\nQuantitative Analytics\nData Visualization\nData Analyst\nData Engineering\nData Engineering\nBig Data\nHadoop\nHive\nBigQuery\nETL\nSoftware Development\nBackend Development\nPython\nJava\nGoLang\nR\nDjango\nNodeJs\nSpring\nHibernate\nFrontend Development\nReactJS\nAngularJS\nJavascript\nJQuery\nBootstrap\nUI\nUX\nFull Stack\nFull Stack\nMERN Stack\nLAMP\nMEAN\nNode.JS\nReact.js\nRESTful API\nMobile Applications\niOS\nAndroid\nReact Native\nIonic\nPhonegap\nXamarin\nOpenGL\nEmerging Technologies\nBlockchain\nCryptocurrency\nAugmented Reality\nVirtual Reality\niOT\nDevOps / SRE\nSite Reliability\nAWS\nAZURE\nCloud Architect\nDocker\nPuppet\nJenkins\nChef\nKubernetes\nGoogle Cloud Platform\nCyberSecurity\nCyber Security\nCloud Security\nCISSP\nCISM\nInformation Security\nData Security\nIT Security Strategy\nNetwork Security\nFirewall\nIAM\nSailpoint\nQuality Assurance\nPerformance Testing\nApplication Testing\nWhite Box Testing\nSecurity Testing\nLoad Testing\nMobile Testing\nAutomation Testing Tools\nSelenium\nTest Architect\nPlatform Engineering / SAP/Oracle\nPega\nRPA\nERP\nSAP FICO\nCRM\nSAP Implementation\nTechno-Functional Consultant\nSalesforce\nIntegration Tools\nSharepoint\nPowerApps\nOracle Apps\nPresales\nSolution Design\nLCDP\nMainframe\nInformatica\nProduct / Design\nProduct Management\nProduct Strategy\nProduct Roadmap\nChief Product Officer\nUX Strategy\nUser Story\nWireframe\nStoryboard\nJira\nBusiness Analysis and Project Management\nProject Management\nBusiness Analyst\nTechno-Functional Consultant\nProgram Management\nAgile\nScrum\nPMP\nUI & Design\nUI\nUX\nPhotoshop\nIllustrator\nInfographics\nCorelDRAW\nInDesign\nSketch\nFigma\nInteraction Design\nOthers\nSemiconductor/VLSI/EDA\nMATLAB\nVerilog\nRTL\nASIC\nPhysical Design\nSystem Verilog\nVHDL\nBoard Design\nVLSI\nOthers\nIT Operations\nTechnical Support\nSystem Administration\nDBMS\nDBA\nIT Infrastructure\nTechnical Writing\nSEO\nNetwork Support\nITIL\nIncident Management\nChange Management\nITSM\nAI/ML\nData Analytics\nSoftware Development\nProduct / Design\nOthers\nCourses\nHome\n>\n>\nJob Description\nLoading chat...",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "a3d2dc2ee91f2394",
+"links": [
+{
+"source": "hirist",
+"url": "https://www.hirist.tech/j/ai-engineer-enterprise-conversational-platform-1673412?ref=cl&jobPos=7",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
+"cities": [
+"India"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-engineerhub-0007fb626431",
+"source": "engineerhub",
+"title": "engineerHUB Backend & ERPNext Developer Noida Competitive Salary Full Time Easy Apply 2077 Ends : 10 Oct",
+"company": "",
+"location": "India",
+"url": "https://www.engineerhub.in/career/jobs/6ab6aedebeaaa0f2896e563a",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": false,
+"description": "Apply now for Backend & ERPNext Developer at engineerHUB in On-Site. Check role, salary, skills required, eligibility, and how to apply on engineerHUB.",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "f4bc3431a3f760e7",
+"links": [
+{
+"source": "engineerhub",
+"url": "https://www.engineerhub.in/career/jobs/6ab6aedebeaaa0f2896e563a",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
+"cities": [
+"India"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-engineerhub-82710e9a82cf",
+"source": "engineerhub",
+"title": "Capgemini Backend Developer Hyderabad 6-12 LPA Full Time Hiring Now 2197 Ends : 9 Oct",
+"company": "",
+"location": "India",
+"url": "https://www.engineerhub.in/career/jobs/6ab677ddbeaaa0f2896e0d9c",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": false,
+"description": "Apply now for Backend Developer at Capgemini in On-Site. Check role, salary, skills required, eligibility, and how to apply on engineerHUB.",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "1b4c3892023f7936",
+"links": [
+{
+"source": "engineerhub",
+"url": "https://www.engineerhub.in/career/jobs/6ab677ddbeaaa0f2896e0d9c",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
+"cities": [
+"India"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-engineerhub-6ba858c3394b",
+"source": "engineerhub",
+"title": "Franklin Templeton Associate Software Development Engineer Hyderabad 13-28 LPA Full Time Hiring Now 2134 Ends : 6 Oct",
+"company": "",
+"location": "India",
+"url": "https://www.engineerhub.in/career/jobs/6ab67707beaaa0f2896e0c5c",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": false,
+"description": "Apply now for Associate Software Development Engineer at Franklin Templeton in On-Site. Check salary, skills, and eligibility on engineerHUB.",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "46949d2b245f70f9",
+"links": [
+{
+"source": "engineerhub",
+"url": "https://www.engineerhub.in/career/jobs/6ab67707beaaa0f2896e0c5c",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
+"cities": [
+"India"
+],
+"exp": "not_stated",
+"junior_title": true,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
 "id": "wd-mastercard-R-290795",
 "source": "workday",
 "title": "Software Engineer I-1",
@@ -320,7 +801,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -357,7 +838,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Pune"
 ],
@@ -394,7 +875,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -431,7 +912,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Pune"
 ],
@@ -468,7 +949,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -505,7 +986,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -548,7 +1029,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -585,7 +1066,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -622,7 +1103,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -659,7 +1140,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -696,7 +1177,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -733,7 +1214,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -770,7 +1251,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -807,7 +1288,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -881,7 +1362,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -918,7 +1399,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Pune"
 ],
@@ -955,7 +1436,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -992,7 +1473,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -1220,7 +1701,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -1331,7 +1812,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -1442,7 +1923,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -1479,7 +1960,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -1516,7 +1997,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -1553,7 +2034,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -1590,7 +2071,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -1775,7 +2256,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -1812,7 +2293,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -1960,7 +2441,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -1997,7 +2478,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2034,7 +2515,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2071,7 +2552,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2108,7 +2589,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2145,7 +2626,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2182,7 +2663,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2219,7 +2700,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2256,7 +2737,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2293,7 +2774,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2330,7 +2811,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2367,7 +2848,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2404,7 +2885,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2441,7 +2922,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2478,7 +2959,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2552,7 +3033,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2632,7 +3113,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-24T21:42:20+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2854,7 +3335,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2891,7 +3372,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2928,7 +3409,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -2965,7 +3446,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3002,7 +3483,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3039,7 +3520,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3082,7 +3563,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3119,7 +3600,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3156,7 +3637,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3193,7 +3674,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3230,7 +3711,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3267,7 +3748,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3304,7 +3785,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3341,7 +3822,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3378,7 +3859,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3415,7 +3896,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3452,7 +3933,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3475,7 +3956,7 @@
 "apply_url": "",
 "posted_at": null,
 "is_remote": true,
-"description": "",
+"description": "This a Full Remote job, the offer is available from: Anywhere\nAbout the Role\nWeâre looking for a Machine Learning Engineer to own and push the limits of model inference performance at scale . Youâll work at the intersection of research and productionâturning cutting-edge models into fast, reliable, and cost-efficient systems that serve real users.\nThis role is ideal for someone who enjoys deep technical work, profiling systems down to the kernel/GPU level, and translating research ideas into production-grade performance gains.\nWhat Youâll Do\nOptimize inference latency, throughput, and cost for large-scale ML models in production\nProfile and bottleneck GPU/CPU inference pipelines (memory, kernels, batching, IO)\nImplement and tune techniques such as:\nQuantization (fp16, bf16, int8, fp8)\nKV-cache optimization & reuse\nSpeculative decoding, batching, and streaming\nModel pruning or architectural simplifications for inference\nCollaborate with research engineers to productionize new model architectures\nBuild and maintain inference-serving systems (e.g. Triton, custom runtimes, or bespoke stacks)\nBenchmark performance across hardware (NVIDIA / AMD GPUs, CPUs) and cloud setups\nImprove system reliability, observability, and cost efficiency under real workloads\nWhat Weâre Looking For\nStrong experience in ML inference optimization or high-performance ML systems\nSolid understanding of deep learning internals (attention, memory layout, compute graphs)\nHands-on experience with PyTorch (or similar) and model deployment\nFamiliarity with GPU performance tuning (CUDA, ROCm, Triton, or kernel-level optimizations)\nExperience scaling inference for real users (not just research benchmarks)\nComfortable working in fast-moving startup environments with ownership and ambiguity\nNice to Have\nExperience with LLM or long-context model inference\nKnowledge of inference frameworks (TensorRT, ONNX Runtime, vLLM, Triton)\nExperience optimizing across different hardware vendors\nOpen-source contributions in ML systems or inference tooling\nBackground in distributed systems or low-latency services\nWhy Join Us\nReal ownership over performance-critical systems\nDirect impact on product reliability and unit economics\nClose collaboration with research, infra, and product\nCompetitive compensation + meaningful equity at Series A\nA team that cares about engineering quality, not hype\nThis offer from \"Featherless AI\" has been enriched by Jobgether.com and got a 0% flex score.",
 "seniority": "",
 "experience_text": "",
 "company_url": "",
@@ -3486,10 +3967,16 @@
 "url": "https://jobgether.com/offer/6a618ada1b23f4f87b321f81-machine-learning-engineer----inference-optimization",
 "apply_type": "board",
 "apply_url": ""
+},
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6ab64062865119c687eec602-machine-learning-engineer----inference-optimization",
+"apply_type": "board",
+"apply_url": ""
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3526,7 +4013,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3563,7 +4050,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3600,7 +4087,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3637,7 +4124,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3674,7 +4161,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3711,7 +4198,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3748,7 +4235,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3785,7 +4272,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3822,7 +4309,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3859,7 +4346,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3882,7 +4369,7 @@
 "apply_url": "",
 "posted_at": null,
 "is_remote": true,
-"description": "",
+"description": "This a Full Remote job, the offer is available from: Anywhere\nAbout the Role\nWeâre looking for a Machine Learning Engineer focused on AI architecture research to help design, prototype, and validate next-generation model architectures. Youâll work at the intersection of research and production â turning new ideas into scalable, real-world systems.\nThis role is ideal for someone who enjoys questioning architectural assumptions , experimenting with novel model designs, and pushing beyond standard Transformer-style approaches.\nWhat Youâll Work On\nResearch and develop new neural network architectures (e.g. alternatives or extensions to Transformers, recurrent / hybrid models, long-context systems)\nDesign and run architecture-level experiments (scaling laws, memory mechanisms, compute trade-offs)\nPrototype models end-to-end â from research code to training-ready implementations\nCollaborate with inference and systems engineers to ensure architectures are deployable and efficient\nAnalyze model behavior, failure modes, and inductive biases\nRead, reproduce, and extend cutting-edge research papers\nContribute to internal research notes, benchmarks, and open-source efforts (where applicable)\nWhat Weâre Looking For\nStrong background in machine learning fundamentals and deep learning\nHands-on experience implementing model architectures from scratch\nSolid understanding of:\nAttention mechanisms, RNNs, state-space models, or hybrid architectures\nTraining dynamics, scaling behavior, and optimization\nMemory, latency, and compute constraints at the model level\nComfortable working in PyTorch or JAX\nAbility to move fluidly between theory, experimentation, and engineering\nClear communicator who can explain architectural trade-offs\nNice to Have\nExperience with non-Transformer architectures (RNN variants, SSMs, long-context models)\nBackground in research-driven startups or open-source ML projects\nExperience with large-scale training or custom training loops\nPublications, preprints, or notable research contributions\nFamiliarity with inference optimization and deployment constraints\nWhy Join\nWork on core model architecture , not just fine-tuning\nDirect influence on the technical direction of a Series-A company\nSmall, high-caliber team with fast feedback loops\nOpportunity to ship research into production\nCompetitive compensation + meaningful equity\nThis offer from \"Featherless AI\" has been enriched by Jobgether.com and got a 0% flex score.",
 "seniority": "",
 "experience_text": "",
 "company_url": "",
@@ -3893,10 +4380,16 @@
 "url": "https://jobgether.com/offer/6a97985d0875ca77c4ba6ffd-machine-learning-engineer----ai-architecture-research",
 "apply_type": "board",
 "apply_url": ""
+},
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6ab64062865119c687eec5e8-machine-learning-engineer----ai-architecture-research",
+"apply_type": "board",
+"apply_url": ""
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3919,7 +4412,7 @@
 "apply_url": "",
 "posted_at": null,
 "is_remote": true,
-"description": "",
+"description": "This a Full Remote job, the offer is available from: Anywhere\nAbout the Role\nWeâre looking for a Machine Learning Engineer focused on model distillation to help us build smaller, faster, and more efficient models without sacrificing quality. Youâll work at the intersection of research and productionâtaking cutting-edge techniques and turning them into systems that scale.\nThis is a hands-on role with real ownership: youâll design distillation pipelines, run large-scale experiments, and ship models used in production.\nWhat Youâll Do\nDesign and implement knowledge distillation pipelines (teacherâstudent, self-distillation, multi-teacher, etc.)\nDistill large foundation models into smaller, faster, and cheaper models for inference\nRun and analyze large-scale training experiments to evaluate quality, latency, and cost tradeoffs\nCollaborate with research to translate new distillation ideas into production-ready code\nOptimize training and inference performance (memory, throughput, latency)\nContribute to internal tooling, evaluation frameworks, and experiment tracking\n(Optional) Contribute back to open-source models, tooling, or research\nWhat Weâre Looking For\nStrong background in machine learning or deep learning\nHands-on experience with model distillation (LLMs or other neural networks)\nSolid understanding of training dynamics, loss functions, and optimization\nExperience with PyTorch (or JAX) and modern ML tooling\nComfort running experiments on multi-GPU or distributed setups\nAbility to reason about model quality vs. performance tradeoffs\nPragmatic mindset: you care about shipping, not just papers\nNice to Have\nExperience distilling LLMs or large sequence models\nExperience with inference optimization (quantization, pruning, kernels, etc.)\nFamiliarity with evaluation for language models\nOpen-source contributions or research publications\nExperience in early-stage or fast-moving startups\nWhy Join\nWork on core model quality and cost efficiency ânot side projects\nHigh ownership and direct impact on product and roadmap\nSmall, senior team with strong research + engineering culture\nCompetitive compensation + meaningful equity\nRemote-friendly, async-first environment\nThis offer from \"Featherless AI\" has been enriched by Jobgether.com and got a 0% flex score.",
 "seniority": "",
 "experience_text": "",
 "company_url": "",
@@ -3930,10 +4423,16 @@
 "url": "https://jobgether.com/offer/6a618ada1b23f4f87b321f7f-machine-learning-engineer----distillation",
 "apply_type": "board",
 "apply_url": ""
+},
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6ab64062865119c687eec5d4-machine-learning-engineer----distillation",
+"apply_type": "board",
+"apply_url": ""
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -3956,7 +4455,7 @@
 "apply_url": "",
 "posted_at": null,
 "is_remote": true,
-"description": "",
+"description": "This a Full Remote job, the offer is available from: Anywhere\nAbout the Role\nWeâre looking for an ML Engineer focused on training optimization to help us scale and improve large-scale model training. Youâll work at the intersection of research and production, optimizing training pipelines for speed, stability, and costâwhile collaborating closely with researchers pushing model architecture and capability forward.\nThis is a high-impact role with real ownership: your work directly affects how fast we can iterate, how large we can scale, and how efficiently we deploy new models.\nWhat Youâll Do\nOptimize large-scale model training pipelines (throughput, convergence, stability, and cost)\nImprove distributed training strategies (data, model, and pipeline parallelism)\nTune optimizers, schedulers, batch sizing, and precision (bf16 / fp16 / fp8)\nReduce training time and compute cost via profiling, bottleneck analysis, and systems-level improvements\nCollaborate with researchers on architecture-aware training strategies\nBuild and maintain robust training infrastructure (checkpointing, fault tolerance, reproducibility)\nEvaluate and integrate new training techniques (e.g. gradient checkpointing, ZeRO, FSDP, custom kernels)\nOwn training performance metrics and continuously push them forward\nWhat Weâre Looking For\nStrong experience training large neural networks (LLMs or similarly large models)\nHands-on experience with training optimization (not just model usage)\nSolid understanding of:\nBackpropagation, optimization algorithms, and training dynamics\nDistributed systems for ML training\nExperience with PyTorch (required)\nComfort working close to hardware (GPUs, memory, networking constraints)\nAbility to move fluidly between research ideas and production-ready code\nNice to Have\nExperience with large-scale distributed training (multi-node, multi-GPU)\nFamiliarity with DeepSpeed, FSDP, Megatron, or custom training stacks\nExperience optimizing training on AMD or NVIDIA GPUs\nContributions to open-source ML infrastructure or research codebases\nExposure to non-Transformer architectures (RNNs, hybrid models, etc.)\nWhy Join Us\nReal ownership at Series-A stage â your work shapes the companyâs trajectory\nWork on cutting-edge models and training systems at scale\nSmall, highly technical team with fast feedback loops\nStrong emphasis on engineering quality and research rigor\nCompetitive compensation + meaningful equity\nThis offer from \"Featherless AI\" has been enriched by Jobgether.com and got a 0% flex score.",
 "seniority": "",
 "experience_text": "",
 "company_url": "",
@@ -3967,10 +4466,16 @@
 "url": "https://jobgether.com/offer/6a618ada1b23f4f87b321f7d-machine-learning-engineer----training-optimization",
 "apply_type": "board",
 "apply_url": ""
+},
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6ab64062865119c687eec5d6-machine-learning-engineer----training-optimization",
+"apply_type": "board",
+"apply_url": ""
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4007,7 +4512,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4044,7 +4549,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4081,7 +4586,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4118,7 +4623,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4155,7 +4660,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4192,7 +4697,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4229,7 +4734,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4266,7 +4771,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4303,7 +4808,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4340,7 +4845,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4377,7 +4882,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4414,7 +4919,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4451,7 +4956,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4488,7 +4993,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4537,7 +5042,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4574,7 +5079,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4623,7 +5128,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4660,7 +5165,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4697,7 +5202,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4734,7 +5239,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4771,7 +5276,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4808,7 +5313,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4845,7 +5350,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4882,7 +5387,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4919,7 +5424,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4956,7 +5461,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -4993,7 +5498,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5030,7 +5535,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5067,7 +5572,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5104,7 +5609,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5141,7 +5646,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5178,7 +5683,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5215,7 +5720,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5252,7 +5757,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5289,7 +5794,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5326,7 +5831,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5363,7 +5868,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5400,7 +5905,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5437,7 +5942,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5474,7 +5979,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5517,7 +6022,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5554,7 +6059,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5628,7 +6133,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5665,7 +6170,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5702,7 +6207,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5739,7 +6244,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5776,7 +6281,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5813,7 +6318,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5850,7 +6355,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5887,7 +6392,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5924,7 +6429,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -5961,7 +6466,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -6035,7 +6540,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -6072,7 +6577,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -6109,7 +6614,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -6146,7 +6651,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -6183,7 +6688,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -6220,7 +6725,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "Remote"
 ],
@@ -6275,7 +6780,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -6318,7 +6823,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -6453,7 +6958,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -6533,7 +7038,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -6576,7 +7081,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -6619,7 +7124,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -6662,7 +7167,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -6705,7 +7210,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -6748,7 +7253,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -6791,7 +7296,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -6834,7 +7339,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -6877,7 +7382,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -6920,7 +7425,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -6963,7 +7468,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -7037,7 +7542,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -7074,7 +7579,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -7185,7 +7690,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -7222,7 +7727,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -7333,7 +7838,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
@@ -7370,7 +7875,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-25T21:45:37+00:00",
 "cities": [
 "India"
 ],
