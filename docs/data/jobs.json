@@ -1,5 +1,190 @@
 [
 {
+"id": "li-4435597124",
+"source": "linkedin",
+"title": "Associate Software Engineer",
+"company": "Priceline",
+"location": "Mumbai, Maharashtra, India",
+"url": "https://www.linkedin.com/jobs/view/4435597124",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-25",
+"is_remote": false,
+"description": "This role is eligible for our hybrid work model: Two days in-office.\nAssociate Software Engineer\nAs an Associate Software Engineer on this team, you will operate across a wider surface than a typical product role. In a given quarter you might embed with a product squad as a forward-deployed engineer to build a custom automation that saves them hours a week, build a shared internal tool that generalizes that automation for everyone, and build the measurement layer that shows where our tools and AI are creating value and where they aren't. Some work is embedded and forward-deployed; some is building shared platforms centrally; some is the measurement layer underneath. You'll move between those modes as the work demands. We are looking for engineers who want to build products for other employees — energized by being close to a real problem, shipping something that removes it, and then making that solution reusable. Whether your background is in backend, full-stack, data, or platform engineering, we value a builder's instinct and a measurement mindset in equal measure.\nThis is a deliberately unsettled space, and that's the point.\nApplied AI and internal-tooling use cases evolve constantly — what's high-leverage this quarter may not be next. We have a strong point of view on why this team matters and what to chase first, but the specific bets are an evolving canvas, shaped in collaboration with teams across the business. That openness is real opportunity, not ambiguity for its own sake.\nWhy This Job’s a Big Deal\nWe are growing the Employee Tools & Automation team — dedicated to making every Priceline employee measurably more effective with tools, including AI. We treat internal productivity as an engineering problem, not a training problem or a procurement problem.\nThis Team Does Three Things That Reinforce Each Other\nWe build internal tools, automations, and AI-augmented workflows that take toil out of how Priceline works.\nWe embed with teams often acting as forward-deployed engineers, sitting close to a real workflow, building the custom automation that solves it, then generalizing what works into something every team can use.\nWe measure what our tools and AI are actually doing across the org, including but not limited to: spend, adoption, and the first honest signal on whether our investment is paying off.\nThese reinforce each other. Being close to teams is what tells us which tools to build and what the usage data actually means. The tools we build generate the signal. The signal tells us where to focus next. We are not a dashboard team — we are the engineering team that turns \"everyone's experimenting in pockets\" into leverage the whole org can rely on.\nIn This Role, You Will Get To\nForward-Deployed Engineering & Applied Automation\nEmbed with product and engineering teams to understand a real workflow, then build the custom automation, integration, or AI-augmented tool that removes its friction.\nBuild agentic and LLM-powered workflows that automate toil — log analysis, repetitive multi-step processes, content generation, data wrangling — where they create real, measurable leverage.\nGeneralize one-off solutions into reusable internal tools and templates so a win for one team becomes a win for every team.\nAct as a hands-on partner to teams adopting new tooling, lowering the barrier from \"interested\" to \"productive.\"\nInternal Tools & Platforms\nDesign, build, and operate internal tools and beta platforms that improve how employees work — authoring experiences, automation surfaces, and integrations across the tools Priceline already uses.\nIntegrate with the AI vendor ecosystem (Claude, Cursor, and others) and internal systems to build workflows that span tools rather than living inside one.\nPrototype and evolve beta tooling rapidly, then harden what proves valuable into supported platforms.\nMeasurement, Spend & Applied-Usage Signal\nBuild the data pipelines that aggregate and normalize tool and AI spend and usage across vendors, att",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/priceline-com",
+"key": "63f85f6fca71c94c",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4435597124",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-26T11:36:04+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
+"cities": [
+"Mumbai"
+],
+"exp": "not_stated",
+"junior_title": true,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "indeed-in-57bba03f5378f0c4",
+"source": "indeed",
+"title": "Full-Stack / Backend Developer (Remote)",
+"company": "iVA TEK PRIVATE LIMITED",
+"location": "Remote, IN",
+"url": "https://in.indeed.com/viewjob?jk=57bba03f5378f0c4",
+"apply_type": "company",
+"apply_url": "http://in.indeed.com/job/full-stack-backend-developer-remote-57bba03f5378f0c4",
+"posted_at": "2026-09-26",
+"is_remote": true,
+"description": "**Full\\-Stack / Backend Developer (Remote)**\n\nRemote\n\n**About the Role**\n\nWe are a Singapore\\-based company serving global clients, building a production analytics and automation platform used by marketing and finance teams.\n\nYou will work directly with the company’s senior engineer on production systems, building backend services, integrations, and AI\\-driven automation.\n\nThis role is for developers who are comfortable working independently, debugging real systems, and shipping production code.\n\n**What You'll Work On**\n\n* Backend development in Python (FastAPI) and PHP\n* Building REST APIs and third\\-party integrations\n* Automation tools and internal systems\n* AI integrations (LLM APIs such as OpenAI / Claude)\n* Debugging production issues and improving system reliability\n* Working with Linux servers via SSH\n\nSome frontend work may involve WordPress dashboards and internal tools, but the role is primarily backend\\-focused.\n\n**Required Skills**\n\n* Strong experience with Python or PHP\n* Experience building REST APIs and backend services\n* Experience integrating AI / LLM APIs\n* Comfortable working with Linux, Git, and command line\n* Ability to own tasks from development to deployment\n\n**Nice to Have**\n\n* FastAPI / Flask / Django\n* AWS or VPS infrastructure\n* Automation pipelines or internal tooling\n* WordPress or WooCommerce experience\n\n**Working Hours**\n\nMust overlap with Australian business hours.\n\nTypical India schedule: \\~4:30 AM – 12:30 PM IST\n\nMinimum 4–6 hours daily overlap required.\n\n**Application Requirements**\n\nPlease include:\n\n* GitHub profile or portfolio with code samples\n* Brief description of AI or API integration work\n\nApplications without code samples may not be reviewed.\n\nJob Type: Full\\-time\n\nPay: ₹100,000\\.00 \\- ₹150,000\\.00 per month\n\nBenefits:\n\n* Work from home\n\nApplication Question(s):\n\n* How many years of backend development experience do you have?\n* Which backend language are you strongest in?\n* Please paste a link to your GitHub or code portfolio.\n* Have you built or integrated any AI / LLM APIs (such as OpenAI, Claude, etc.) into an application?\n* Are you comfortable working on tasks outside your main programming scope when needed, such as AI\\-assisted video editing, creative support, or follow\\-ups with the operations team?\n\nWork Location: Remote",
+"seniority": "",
+"experience_text": "",
+"company_url": "https://in.indeed.com/cmp/Iva-Tek-Private-Limited",
+"key": "be229be36f1b2424",
+"links": [
+{
+"source": "indeed",
+"url": "https://in.indeed.com/viewjob?jk=57bba03f5378f0c4",
+"apply_type": "company",
+"apply_url": "http://in.indeed.com/job/full-stack-backend-developer-remote-57bba03f5378f0c4"
+}
+],
+"first_seen": "2026-09-26T11:36:04+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "indeed-in-830f0ea3f795c0c9",
+"source": "indeed",
+"title": "Freelance manuscript writer – Deep Learning for Intelligent Transportation Systems",
+"company": "Guires Solutions Private Limited",
+"location": "Remote, IN",
+"url": "https://in.indeed.com/viewjob?jk=830f0ea3f795c0c9",
+"apply_type": "company",
+"apply_url": "http://in.indeed.com/job/freelance-manuscript-writer-deep-learning-intelligent-transportation-systems-830f0ea3f795c0c9",
+"posted_at": "2026-09-26",
+"is_remote": true,
+"description": "**Job Title:**\n\nFreelance manuscript writer – Deep Learning for Intelligent Transportation Systems\n\n**Job Purpose:**\n\nTo conduct research focused on revising and strengthening a manuscript that proposes TIP\\-VTP (Turning Intention Prediction – Vehicle Trajectory Prediction), a two\\-stage hybrid deep learning framework for long\\-horizon vehicle trajectory prediction at signalized urban intersections. The researcher will use Python (PyTorch) to implement, reproduce and validate the models on the Peachtree dataset, and will apply strong academic writing skills to produce a technically accurate, journal\\-ready manuscript.\n\n**Required Qualification:**\n\n· Master's or PhD in Computer Science, Artificial Intelligence, Data Science, Transportation Engineering, or a related field.\n\n· Specialization in Deep Learning, Intelligent Transportation Systems (ITS), Autonomous Driving, or Time\\-Series/Trajectory Forecasting.\n\n· Publications in peer\\-reviewed journals or conferences (e.g., Scopus,IEEE, Elsevier, Springer) on trajectory prediction, driver behaviour modelling, or ITS will be an added advantage.\n\n**Tools to be Familiar:**\n\n· Python (3\\.x) with PyTorch for building and training LSTM, BiLSTM, GRU, multi\\-head attention and GAN models evaluation.Hugging Face Transformers (GPT\\-2\\) for extracting pretrained trajectory embeddings.\n\n· Matplotlib/Seaborn for publication\\-quality plots, and FastDTW for trajectory similarity evaluation.\n\n· MS Word/LaTeX, reference managers (Mendeley, EndNote or Zotero) and diagramming tools (draw.io or Visio) for manuscript preparation.\n\n**Required Experience:**\n\n· Proven experience in conducting academic or industry research in deep learning\\-based vehicle trajectory prediction, maneuver/driver intention recognition, or related ITS domains.\n\n· Hands\\-on experience implementing and training sequence models and Generative Adversarial Networks in Python/PyTorch, including handling training instability such as mode collapse and exploding gradients.\n\n· Experience in writing and revising research papers for high\\-impact journals, including preparing point\\-by\\-point responses to reviewer/Client comments.\n\n**Required Knowledge/Skills:**\n\n· Python Programming: Strong proficiency in Python and PyTorch, with the ability to write clean, modular and reproducible code (fixed random seeds, deterministic CUDA settings, vehicle\\-level train/test splits to prevent data leakage).\n\n· Deep Learning Architectures: Understanding of LSTM/BiLSTM, GRU, multi\\-head attention, Transformers and conditional GANs, including composite loss design and hyperparameter tuning (AdamW, cosine annealing, label smoothing, gradient clipping).\n\n· Academic Writing Skills: Excellent scientific English, with the ability to write a coherent literature review, research gap, methodology with correct mathematical notation and equation numbering, and results and discussion, using consistent IEEE\\-style referencing, clear figures and tables, and plagiarism\\-free writing.\n\n**Job Description:**\n\n· Revise and edit the manuscript for clarity, technical accuracy and consistency, correcting equations, symbols, table/equation numbering, research questions, contributions and citations in line with the target journal's author guidelines.\n\n· Prepare a point\\-by\\-point response to reviewer comments and support the final submission of the manuscript.\n\n**Contact :** 9566133822\n\nJob Type: Part\\-time\n\nPay: From ₹10,000\\.00 per month\n\nWork Location: Remote",
+"seniority": "",
+"experience_text": "",
+"company_url": "https://in.indeed.com/cmp/Guires-Solutions-Private-Limited-1",
+"key": "215961a52eb94785",
+"links": [
+{
+"source": "indeed",
+"url": "https://in.indeed.com/viewjob?jk=830f0ea3f795c0c9",
+"apply_type": "company",
+"apply_url": "http://in.indeed.com/job/freelance-manuscript-writer-deep-learning-intelligent-transportation-systems-830f0ea3f795c0c9"
+}
+],
+"first_seen": "2026-09-26T11:36:04+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "indeed-in-087524e79486c429",
+"source": "indeed",
+"title": "AI/ML Developer (GenAI/LLM, Python)",
+"company": "optimhire",
+"location": "TS, IN",
+"url": "https://in.indeed.com/viewjob?jk=087524e79486c429",
+"apply_type": "company",
+"apply_url": "http://in.indeed.com/job/aiml-developer-genaillm-python-087524e79486c429",
+"posted_at": "2026-09-26",
+"is_remote": true,
+"description": "**Roles \\& Responsibilities**\n\n* Design, build, and maintain AI/ML\\-powered applications in Python\n* Develop LLM\\-based features such as document understanding, summarisation, extraction, and conversational assistants for insurance workflows\n* Build and improve Retrieval\\-Augmented Generation (RAG) pipelines, including data ingestion, chunking, embeddings, vector search, and prompt design\n* Deploy, monitor, and scale models and AI services on AWS\n* Build and integrate REST APIs that expose AI capabilities to products and client systems\n* Evaluate model and LLM outputs for accuracy, relevance, latency, and cost, and improve them over time\n* Work with relational, NoSQL, and vector databases\n* Read existing code and make improvements independently with light guidance\n* Debug and fix issues across the application and AI stack\n* Follow good practices for version control, testing, and documentation\n\nMust have Bachelor's degree in Computer Science, Information Technology, or Engineering\n\nPay: ₹478,831\\.62 \\- ₹3,000,000\\.00 per year\n\nApplication Question(s):\n\n* What is your educational qualification?\n* If not in Hyderabad, are you open to re\\-locate to Hyderabad for this role?\n* It is a hybrid work set\\-up. Are you open to visiting office 3 days a week?\n* Are you open to work in EST shift timing? (9\\.30 PM\\-6\\.30 AM IST)\n* If you are serving the NP, when is your last working day?\n* What is the reason you want to switch from your current company?\n* Do you have any offers in hand? If yes please provide the details. (Where is the offer based of, what is the offer CTC breakdown, is it an accepted offer, when is your tentative joining there)\n* Which of the programming languages and technologies do you have hands\\-on experience with?\n* Which frameworks have you used for developing AI/LLM applications?\n* Have you built or worked on Retrieval\\-Augmented Generation (RAG) applications\n* What is your notice period in days? (15\\)\n* What is your current CTC in LPA?\n* What is your expected CTC in LPA? (30\\)\n\nExperience:\n\n* Overall: 3 years (Required)\n\nWork Location: Hybrid remote in Hyderabad, Telangana",
+"seniority": "",
+"experience_text": "",
+"company_url": "https://in.indeed.com/cmp/Optimhire-b5a0c3a3",
+"key": "9808bb1497d8b539",
+"links": [
+{
+"source": "indeed",
+"url": "https://in.indeed.com/viewjob?jk=087524e79486c429",
+"apply_type": "company",
+"apply_url": "http://in.indeed.com/job/aiml-developer-genaillm-python-087524e79486c429"
+}
+],
+"first_seen": "2026-09-26T11:36:04+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "him-https://himalayas.app/companies/iwconnect/jobs/b2b-data-engineer",
+"source": "himalayas",
+"title": "B2B Data Engineer*",
+"company": "IWConnect",
+"location": "Remote (Anywhere)",
+"url": "https://himalayas.app/companies/iwconnect/jobs/b2b-data-engineer",
+"apply_type": "company",
+"apply_url": "https://himalayas.app/companies/iwconnect/jobs/b2b-data-engineer",
+"posted_at": "2026-09-26",
+"is_remote": true,
+"description": "We are building a network of Data Engineers (Python, PySpark, Airflow, dbt, Databricks, AWS, Azure, GCP, SQL) interested in B2B collaboration on upcoming data-driven initiatives.\nProjects may include data pipeline development, cloud-based data platforms, ETL processes, data architecture, and analytics enablement.\nIf you operate as a contractor and are interested in future project-based opportunities, submit your profile and we will reach out when a suitable engagement is available.\nWe are continuously building our network of experienced B2B consultants and contractors across various technology domains.\nBy applying to this talent pool, you are expressing interest in future project-based collaborations with our team. When a suitable opportunity aligned with your expertise becomes available, we will reach out to discuss potential engagement.\nPlease note:These opportunities are exclusively for independent consultants and B2B contractors (freelance / company-to-company cooperation), and full-time employment roles.\nIf you are open to flexible, project-driven collaboration, we would be glad to stay connected.\nOriginally posted on Himalayas",
+"seniority": "Senior",
+"experience_text": "",
+"company_url": "",
+"key": "63958e53700ec79d",
+"links": [
+{
+"source": "himalayas",
+"url": "https://himalayas.app/companies/iwconnect/jobs/b2b-data-engineer",
+"apply_type": "company",
+"apply_url": "https://himalayas.app/companies/iwconnect/jobs/b2b-data-engineer"
+}
+],
+"first_seen": "2026-09-26T11:36:04+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
 "id": "li-4472001237",
 "source": "linkedin",
 "title": "Associate Software Engineer",
@@ -24,7 +209,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Pune"
 ],
@@ -61,7 +246,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Pune"
 ],
@@ -98,7 +283,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Pune"
 ],
@@ -209,7 +394,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -394,7 +579,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -431,7 +616,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -468,7 +653,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -801,7 +986,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -838,7 +1023,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Pune"
 ],
@@ -875,7 +1060,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -912,7 +1097,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Pune"
 ],
@@ -949,7 +1134,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -986,7 +1171,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -1029,7 +1214,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -1066,7 +1251,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -1103,7 +1288,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -1140,7 +1325,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -1177,7 +1362,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -1214,7 +1399,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -1251,7 +1436,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -1288,7 +1473,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -1362,7 +1547,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -1399,7 +1584,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Pune"
 ],
@@ -1436,7 +1621,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -1473,7 +1658,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -1701,7 +1886,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -1923,7 +2108,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -1960,7 +2145,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -1997,7 +2182,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2034,7 +2219,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2071,7 +2256,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2256,7 +2441,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2441,7 +2626,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2478,7 +2663,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2515,7 +2700,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2552,7 +2737,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2589,7 +2774,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2626,7 +2811,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2663,7 +2848,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2700,7 +2885,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2737,7 +2922,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2774,7 +2959,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2811,7 +2996,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2848,7 +3033,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2885,7 +3070,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2922,7 +3107,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -2959,7 +3144,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3033,7 +3218,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3113,7 +3298,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3372,7 +3557,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3409,7 +3594,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3446,7 +3631,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3483,7 +3668,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3520,7 +3705,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3563,7 +3748,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3600,7 +3785,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3637,7 +3822,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3674,7 +3859,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3711,7 +3896,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3748,7 +3933,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3785,7 +3970,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3822,7 +4007,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3859,7 +4044,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3896,7 +4081,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3933,7 +4118,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -3976,7 +4161,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4013,7 +4198,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4050,7 +4235,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4087,7 +4272,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4124,7 +4309,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4161,7 +4346,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4198,7 +4383,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4235,7 +4420,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4272,7 +4457,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4309,7 +4494,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4346,7 +4531,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4389,7 +4574,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4432,7 +4617,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4475,7 +4660,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4512,7 +4697,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4549,7 +4734,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4586,7 +4771,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4623,7 +4808,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4660,7 +4845,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4697,7 +4882,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4734,7 +4919,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4771,7 +4956,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4808,7 +4993,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4845,7 +5030,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4882,7 +5067,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4919,7 +5104,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4956,7 +5141,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -4993,7 +5178,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5042,7 +5227,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5079,7 +5264,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5128,7 +5313,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5165,7 +5350,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5202,7 +5387,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5239,7 +5424,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5276,7 +5461,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5313,7 +5498,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5350,7 +5535,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5387,7 +5572,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5424,7 +5609,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5461,7 +5646,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5498,7 +5683,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5535,7 +5720,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5572,7 +5757,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5646,7 +5831,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5683,7 +5868,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5720,7 +5905,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5757,7 +5942,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5794,7 +5979,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5831,7 +6016,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5868,7 +6053,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5905,7 +6090,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5942,7 +6127,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -5979,7 +6164,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6022,7 +6207,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6059,7 +6244,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6133,7 +6318,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6170,7 +6355,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6207,7 +6392,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6244,7 +6429,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6281,7 +6466,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6318,7 +6503,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6355,7 +6540,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6392,7 +6577,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6429,7 +6614,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6466,7 +6651,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6540,7 +6725,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6577,7 +6762,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6614,7 +6799,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6651,7 +6836,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6688,7 +6873,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6725,7 +6910,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "Remote"
 ],
@@ -6780,7 +6965,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -6823,7 +7008,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -6872,7 +7057,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -6915,7 +7100,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -6958,7 +7143,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7038,7 +7223,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7081,7 +7266,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7124,7 +7309,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7167,7 +7352,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7210,7 +7395,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7253,7 +7438,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7296,7 +7481,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7339,7 +7524,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7382,7 +7567,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7425,7 +7610,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7468,7 +7653,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7542,7 +7727,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7579,7 +7764,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7690,7 +7875,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7727,7 +7912,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7838,7 +8023,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
@@ -7875,7 +8060,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-25T21:45:37+00:00",
+"last_seen": "2026-09-26T11:36:04+00:00",
 "cities": [
 "India"
 ],
