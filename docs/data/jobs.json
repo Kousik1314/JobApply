@@ -1,5 +1,277 @@
 [
 {
+"id": "li-4444696621",
+"source": "linkedin",
+"title": "GEN AI Engineer",
+"company": "Infosys",
+"location": "Bengaluru East, Karnataka, India",
+"url": "https://www.linkedin.com/jobs/view/4444696621",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-27",
+"is_remote": false,
+"description": "Technology->AI-AI Engineering->AI/ML Solution Architecture and Design->generative ai,Technology->AI-Generative AI->Prompt Engineering\nA day in the life of an Infoscion\nAs part of the Infosys Delivery team, you will work on implementing designs, developing high quality programs and systems, partnering with our clients to ensure high quality deliverables.\nYou will create technical artifacts and be the first point of contact in responding to production issues and conducting any technical analysis to arrive at solutions\nYou will share your learnings from projects through knowledge management initiatives and leverage knowledge from other projects to drive high efficiency and effectiveness\nYou will be a key contributor to building efficient programs/systems and if you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you!\nA\nd\nv\na\nn\nc\ne\nd\nc\no\nn\nc\ne\np\nt\nu\na\nl\nu\nn\nd\ne\nr\ns\nt\na\nn\nd\ni\nn\ng\no\nf\na\nt\nl\ne\na\ns\nt\no\nn\ne\nP\nr\no\ng\nr\na\nm\nm\ni\nn\ng\nL\na\nn\ng\nu\na\ng\ne\nA\nd\nv\na\nn\nc\ne\nd\nc\no\nn\nc\ne\np\nt\nu\na\nl\nu\nn\nd\ne\nr\ns\nt\na\nn\nd\ni\nn\ng\no\nf\no\nn\ne\nd\na\nt\na\nb\na\ns\ne\na\nn\nd\no\nn\ne\nO\np\ne\nr\na\nt\ni\nn\ng\nS\ny\ns\nt\ne\nm\nU\nn\nd\ne\nr\ns\nt\na\nn\nd\ni\nn\ng\no\nf\nS\no\nf\nt\nw\na\nr\ne\nE\nn\ng\ni\nn\ne\ne\nr\ni\nn\ng\nw\ni\nt\nh\np\nr\na\nc\nt\ni\nc\ne\ni\nn\na\nt\nl\ne\na\ns\nt\no\nn\ne\np\nr\no\nj\ne\nc\nt\nA\nb\ni\nl\ni\nt\ny\nt\no\nc\no\nn\nt\nr\ni\nb\nu\nt\ne\ni\nn\nm\ne\nd\ni\nu\nm\nt\no\nc\no\nm\np\nl\ne\nx\nt\na\ns\nk\ns\ni\nn\nd\ne\np\ne\nn\nd\ne\nn\nt\nl\ny\nE\nx\np\no\ns\nu\nr\ne\nt\no\nD\ne\ns\ni\ng\nn\nP\nr\ni\nn\nc\ni\np\nl\ne\ns\na\nn\nd\na\nb\ni\nl\ni\nt\ny\nt\no\nu\nn\nd\ne\nr\ns\nt\na\nn\nd\nD\ne\ns\ni\ng\nn\nS\np\ne\nc\ni\nf\ni\nc\na\nt\ni\no\nn\ns\ni\nn\nd\ne\np\ne\nn\nd\ne\nn\nt\nl\ny\nA\nb\ni\nl\ni\nt\ny\nt\no\nr\nu\nn\nT\ne\ns\nt\nC\na\ns\ne\ns\na\nn\nd\ns\nc\ne\nn\na\nr\ni\no\ns\na\ns\np\ne\nr\nt\nh\ne\np\nl\na\nn\nA\nb\ni\nl\ni\nt\ny\nt\no\na\nc\nc\ne\np\nt\na\nn\nd\nr\ne\ns\np\no\nn\nd\nt\no\np\nr\no\nd\nu\nc\nt\ni\no\nn\ni\ns\ns\nu\ne\ns\na\nn\nd\nc\no\no\nr\nd\ni\nn\na\nt\ne\nw\ni\nt\nh\ns\nt\na\nk\ne\nh\no\nl\nd\ne\nr\ns\nG\no\no\nd\nu\nn\nd\ne\nr\ns\nt\na\nn\nd\ni\nn\ng\no\nf\nS\nD\nL\nC\nA\nn\na\nl\ny\nt\ni\nc\na\nl\na\nb\ni\nl\ni\nt\ni\ne\ns\nL\no\ng\ni\nc\na\nl\nt\nh\ni\nn\nk\ni\nn\ng\nA\nw\na\nr\ne\nn\ne\ns\ns\no\nf\nl\na\nt\ne\ns\nt\nt\ne\nc\nh\nn\no\nl\no\ng\ni\ne\ns\na\nn\nd\nt\nr\ne\nn\nd\ns\nShow more\nShow less",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://in.linkedin.com/company/infosys",
+"key": "daa8a293fdc4e613",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4444696621",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-27T21:31:24+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
+"cities": [
+"Bengaluru"
+],
+"exp": "fresher",
+"junior_title": false,
+"score": 90,
+"role_family": "GenAI/LLM",
+"reason": "Entry-level GenAI engineer in Bengaluru; prompt engineering and systems work match well.",
+"drafts": {
+"note": "Hi {name}, applying for Gen AI Engineer at Infosys Bengaluru East. I work on a production Power BI AI assistant and built an LLM judge for 2,000+ queries. Open to connect?",
+"dm": "Hi {name}, I’m applying for the Gen AI Engineer role at Infosys in Bengaluru East. At MAQ Software, I’ve worked on a production GenAI assistant for Power BI across 30 reports, including building an LLM-as-a-Judge agent that auto-graded generated DAX and answers across 2,000+ test queries. I’ve also built OnboardIQ, a RAG chatbot with hybrid search and a grounding guardrail, which maps well to the prompt engineering and production issue analysis in this role. If it’s appropriate, could you refer me for the role?",
+"email_subject": "Application for Gen AI Engineer - Infosys Bengaluru East",
+"email_body": "Hi {name},\n\nI’m applying for the Gen AI Engineer role at Infosys in Bengaluru East. At MAQ Software, I’ve worked on a production GenAI assistant for Power BI across 30 reports, including building an LLM-as-a-Judge agent that auto-grades generated DAX and answers across 2,000+ test queries. That work involved testing, tracing wrong answers to root causes, and improving prompt and system behavior for production use.\n\nI also built OnboardIQ, a RAG onboarding chatbot using Python, LangChain, FAISS, and Hugging Face, with hybrid search and a grounding guardrail that reduced hallucinations on a 40-question test set. That lines up well with Infosys’s focus on generative AI and prompt engineering.\n\nIf it’s appropriate, could you refer me for the role?\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"DM is 114 words, which is outside the 60–110 word limit.",
+"Note is generic and very short; it could be sent to any company and does not mention a specific, relevant fit beyond the role title.",
+"\"That lines up well with Infosys’s focus on generative AI and prompt engineering\" is a weak, generic claim and does not tie to a specific company detail.",
+"\"If it’s appropriate, could you refer me for the role?\" is awkward in a DM unless the recipient is clearly a referrer; the ask is unclear in context."
+]
+},
+"status": "active"
+},
+{
+"id": "li-4471094039",
+"source": "linkedin",
+"title": "AI-First Software Engineer",
+"company": "FinLead AI",
+"location": "Greater Bengaluru Area",
+"url": "https://www.linkedin.com/jobs/view/4471094039",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-27",
+"is_remote": false,
+"description": "Company Description FinLead AI deploys AI agents that run the complex, high-volume back-office operations for insurers, brokers, agencies, MGAs, and InsurTechs. These agents work end-to-end. The platform currently processes operations thousands of policies per month, demonstrating strong traction and real-world reliability. FinLead AI is backed by Entrepreneur First, Transpose Platform, and Plug and Play. The team is focused on transforming insurance operations by letting organisations hand over back-office workflows to AI agents, starting with fast proof-of-concept deployments.\nRole Description As an AI-First Software Engineer at FinLead AI, you will design, build, and deploy production-grade AI agents that operate directly with enterprises. You will work on end-to-end software development: shaping system architecture, implementing scalable services, integrating with internal and third-party platforms, and ensuring reliability and observability of agent workflows. Your day-to-day responsibilities will include developing and optimizing models and pipelines (including NLP and pattern-recognition components), collaborating with product and operations teams to translate insurance processes into robust agent workflows, and continuously improving performance based on real-world data. You will also contribute to technical decision-making, code reviews, and documentation, and help establish best practices for AI-first engineering. This is a full-time hybrid role based in the Bengaluru Area in HSR, with a mix of on-site collaboration and a good amount of work-from-home flexibility.\nQualifications\nStrong foundation in Computer Science and Software Development, including data structures, algorithms, distributed systems, and writing clean, maintainable code.\nHands-on experience with System Design and LLMs with the ability to design, create harness, and evaluate models for real-world production use.\nProficiency in one or more modern programming languages commonly used in AI/ML and backend engineering (e.g., Python, Go, Java, or similar), and familiarity with cloud platforms and APIs.\nExperience building and operating production systems: testing, monitoring, logging, CI/CD, and performance optimization in a fast-paced environment.\nBachelor’s degree or higher in Computer Science, Engineering, Mathematics, or a related technical field, or equivalent practical experience.\nPreviously deployed real systems/products at enterprises is preferable.\nExperience in creating products/design/architecture from scratch is preferable.\nShow more\nShow less",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://in.linkedin.com/company/finleadai",
+"key": "9186f281d0c66753",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4471094039",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-27T21:31:24+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
+"cities": [
+"Bengaluru"
+],
+"exp": "0-1",
+"junior_title": false,
+"score": 86,
+"role_family": "Software",
+"reason": "AI-first software engineering role; strong Python, agents, and API integration fit.",
+"drafts": {
+"note": "Hi {name}, I'm applying for the AI-First Software Engineer role at FinLead AI. At MAQ, I built an LLM-as-a-Judge eval agent for an enterprise assistant. Open to a quick profile review?",
+"dm": "Hi {name}, I’m applying for the AI-First Software Engineer role at FinLead AI in Bengaluru. My current work at MAQ Software lines up closely with your enterprise AI-agent focus: I worked on an AI Assistant for Power BI used across 30 production reports, and I built an LLM-as-a-Judge agent that auto-graded DAX and answer quality across 2,000+ test queries. I’ve also built Python-based agent systems with FastAPI, MCP, and RAG, including grounded retrieval and evaluation work. Since FinLead AI is building production agents for enterprise back-office workflows, I’d value a quick review of my profile for fit.",
+"email_subject": "Applying for AI-First Software Engineer at FinLead AI",
+"email_body": "Hi {name},\n\nI’m applying for the AI-First Software Engineer role at FinLead AI in Bengaluru/HSR. My background matches the kind of enterprise AI workflow work you described. At MAQ Software, I worked on an AI Assistant for Power BI deployed across 30 production reports, including deployment, validation, and evaluation. I also built an LLM-as-a-Judge agent that auto-graded generated DAX and answers across 2,000+ test queries, which gave me hands-on experience with production evaluation harnesses and reliability work.\n\nOn the project side, I’ve also built Python-based agent systems using FastAPI, MCP, and RAG. I’d appreciate a quick review of my profile to see if I’m a fit for the team.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"note is under 200 characters and the role/company are correct, but it asks for an application rather than the requested clear ask (referral or quick profile look)",
+"dm exceeds the 60–110 word limit",
+"email body is under the 90–150 word minimum? Actually it appears within range, but it uses generic phrasing and includes unsupported claim 'production evaluation harnesses and reliability work' beyond the profile's explicit wording",
+"message could be tighter and more specific to FinLead AI’s insurance back-office AI agents; 'Python-based agent systems' is a bit generic compared with the job",
+"There is a grammar/style issue in 'I’m applying for the AI-First Software Engineer role' making the ask unclear for outreach"
+]
+},
+"status": "active"
+},
+{
+"id": "li-4426233569",
+"source": "linkedin",
+"title": "Engineering-L2-Hyderabad-Associate-Software Engineering",
+"company": "Goldman Sachs",
+"location": "Bengaluru, Karnataka, India",
+"url": "https://www.linkedin.com/jobs/view/4426233569",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-27",
+"is_remote": false,
+"description": "Job Description\nWhat We Do\nAt Goldman Sachs, our Engineers don’t just make things – we make things possible. Change the world by connecting people and capital with ideas. Solve the most challenging and pressing engineering problems for our clients. Join our engineering teams that build massively scalable software and systems, architect low latency infrastructure solutions, proactively guard against cyber threats, and leverage machine learning alongside financial engineering to continuously turn data into action. Create new businesses, transform finance, and explore a world of opportunity at the speed of markets.\nEngineering, which is comprised of our Technology Division and global strategists groups, is at the critical center of our business, and our dynamic environment requires innovative strategic thinking and immediate, real solutions. Want to push the limit of digital possibilities? Start here.\nWho We Look For\nGoldman Sachs Engineers are innovators and problem-solvers, building solutions in risk management, big data, mobile and more. We look for creative collaborators who evolve, adapt to change and thrive in a fast-paced global environment.\nAbout Goldman Sachs\nAt Goldman Sachs, we commit our people, capital and ideas to help our clients, shareholders and the communities we serve to grow. Founded in 1869, we are a leading global investment banking, securities and investment management firm. Headquartered in New York, we maintain offices around the world.\nWe believe who you are makes you better at what you do. We're committed to fostering and advancing diversity and inclusion in our own workplace and beyond by ensuring every individual within our firm has a number of opportunities to grow professionally and personally, from our training and development opportunities and firmwide networks to benefits, wellness and personal finance offerings and mindfulness programs. Learn more about our culture, benefits, and people at GS.com/careers.\nWe’re committed to finding reasonable accommodations for candidates with special needs or disabilities during our recruiting process. Learn more: https://www.goldmansachs.com/careers/footer/disability-statement.html\n© The Goldman Sachs Group, Inc., 2023. All rights reserved.\nGoldman Sachs is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, national origin, age, veterans status, disability, or any other characteristic protected by applicable law.\nShow more\nShow less",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/goldman-sachs",
+"key": "e5c06efb9551e614",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4426233569",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-27T21:31:24+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
+"cities": [
+"Bengaluru"
+],
+"exp": "fresher",
+"junior_title": true,
+"score": 68,
+"role_family": "Software",
+"reason": "Bengaluru entry-level software role; broad engineering fit, less AI-specific.",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "li-4468537760",
+"source": "linkedin",
+"title": "Software Engineer, Web (Frontend)",
+"company": "Headout",
+"location": "Bengaluru, Karnataka, India",
+"url": "https://www.linkedin.com/jobs/view/4468537760",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-27",
+"is_remote": false,
+"description": "👩 💻The role:\nAs a Software Engineer, Web (Frontend) at Headout, you’ll be part of a pod building products and features that directly impact our users. You’ll design and develop high-performance web applications, work closely with product and design teams, and ensure smooth operations by addressing gaps in the development process. This is a chance to learn, grow, and contribute to building reliable and scalable systems used by a global audience.\n🤩What makes this role special:\nBuild projects end-to-end, starting from scratch and seeing them through to launch.\nTake ownership of features and bring innovative solutions to life.\nCollaborate with experienced developers on diverse projects, from simple improvements to complex systems.\nBe part of a team where your ideas are valued and your contributions directly shape the product.\nGain real-world experience in web development while growing your skills in a fast-paced environment.\n💝What skills & experience do you need:\nStrong proficiency in React (must-have), along with JavaScript and TypeScript.\nSolid understanding of HTML, CSS, responsive design, and cross-browser compatibility.\nExperience with Git and basic performance optimization.\n1+ year of frontend development experience, preferably in a startup environment.\nCuriosity, problem-solving ability, and eagerness to learn and grow.\n➕ Bonus:\nContributions to open-source projects or personal side projects.\nExposure to mobile or backend technologies.\nShow more\nShow less",
+"seniority": "Associate",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/headout-com",
+"key": "fc16b584af9defa8",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4468537760",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-27T21:31:24+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
+"cities": [
+"Bengaluru"
+],
+"exp": "0-1",
+"junior_title": false,
+"score": 74,
+"role_family": "Software",
+"reason": "Frontend role needs 1+ year React; candidate can still fit entry-level profile.",
+"drafts": {
+"note": "Hi {name}, applying for Software Engineer, Web (Frontend) at Headout. I’ve built and shipped Streamlit apps plus FastAPI-backed tools. Could you take a quick look at my profile?",
+"dm": "Hi {name}, I’m applying for the Software Engineer, Web (Frontend) role at Headout. My background is stronger in Python-based product engineering than pure frontend, but I’ve built user-facing apps end to end, including OnboardIQ in Streamlit and TestForge with FastAPI, Git, and Azure DevOps. At MAQ Software, I also work on production AI features used across 30 Power BI reports, which has built my ownership and debugging skills. If you think my profile could fit this role, could you please take a quick look and let me know whether it’s worth pursuing?",
+"email_subject": "Applying for Software Engineer, Web (Frontend) at Headout",
+"email_body": "Hi {name},\n\nI’m applying for the Software Engineer, Web (Frontend) role at Headout. My experience is more product-engineering focused than pure frontend, but I’ve built user-facing applications end to end and worked in production environments.\n\nAt MAQ Software, I work on an enterprise AI assistant deployed across 30 Power BI reports, where I’ve handled testing, debugging, and production deployment. On the project side, I built OnboardIQ as a Streamlit-based onboarding chatbot and TestForge using FastAPI, Git, and Azure DevOps. Those projects gave me hands-on experience building interfaces, integrating backend logic, and shipping working tools.\n\nIf helpful, could you take a quick look at my profile and let me know whether my background could fit this role?\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The message is not well matched to the role: Headout is a Frontend role requiring strong React/JavaScript/TypeScript, but the message highlights Streamlit and FastAPI instead and does not mention any frontend/React experience.",
+"The role/company are only lightly referenced; the ask is generic and not tailored to Headout’s frontend/product work.",
+"The candidate claim about building interfaces is not clearly supported by the profile for these specific projects, since OnboardIQ is Streamlit and TestForge is FastAPI; no React/JS/TS frontend experience is provided.",
+"The tone/phrasing is slightly awkward and repetitive ('take a quick look', 'could you take a quick look') and the ask is unclear about whether this is for a referral or just feedback.",
+"Length check: the email body appears to be under the required 90–150 words? No—the body is within range, but the DM should be 60–110 words; this DM is close but may exceed that range depending on counting, so it is risky."
+]
+},
+"status": "active"
+},
+{
+"id": "indeed-in-ad2809610fbd86b5",
+"source": "indeed",
+"title": "Assoc Machine Learning Engineer",
+"company": "ServiceNow",
+"location": "TS, IN",
+"url": "https://in.indeed.com/viewjob?jk=ad2809610fbd86b5",
+"apply_type": "company",
+"apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000152033438-assoc-machine-learning-engineer",
+"posted_at": "2026-09-27",
+"is_remote": true,
+"description": "**Company Description**  \n\nIt all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI\\-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud\\-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.\n\n **Job Description** **What you get to do in this role:**\n\n\nThe Advanced Technology Group (ATG) at ServiceNow is a customer\\-focused innovation group building intelligent software and smart user experiences using existing and latest advanced technologies to enable end\\-to\\-end, industry\\-leading work experiences for customers. We are a group of researchers, applied scientists, engineers, and product managers with a dual mission. We build and evolve the AI platform, and partner with teams to build products and end\\-to\\-end AI\\-powered work experiences. In equal measure, we lay the foundations, research, experiment, and de\\-risk AI technologies that unlock new work experiences in the future.\n\n\nYou will play a major part in building AI and Machine Learning (ML) solutions that transform the user experience and workflow efficiency of enterprise services. Traditional analytical tools tend to require a technically knowledgeable user to produce even simple results. We are taking a completely fresh approach with the expectation that any user, regardless of technical knowledge, can use the AI/ML solutions we develop to operate the services in the enterprise setting in an thoughtful and scalable manner. We are just getting started with our early\\-adopter customers and we need your help in building and making available an amazing range of solutions to our 5k\\+ enterprise customers around the world.\n\n* Build the best cloud\\-based AI/ML solutions to power intelligent enterprise services\n* Collaborate daily with a team of like\\-minded developers, product managers and quality engineers to produce quality software\n* Work with product owners to understand detailed requirements and own your code from design, implementation, testing and delivery of high\\-quality solutions to our users\n\n **Qualifications** **To be successful in this role you have:**\n\n* Experience in leveraging or critically thinking about how to integrate AI into work processes, decision\\-making, or problem\\-solving. This may include using AI\\-powered tools, automating workflows, analyzing AI\\-driven insights, or exploring AI's potential impact on the function or industry.\n* Expertise in Java or Python, OOP, Design Patterns, time and space\\-efficient algorithms\n* Experience building new products that use challenging algorithms\n* Expertise in coding efficient, object\\-oriented, modularized and quality software\n* Knowledge of core AI/ML techniques and algorithms\n* Knowledge of unit testing, profiling, and code tuning\n\n **Additional Information** **Work Personas**\n\n\nWe approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third\\-party service.\n\n**Equal Opportunity Employer**\n\n\nServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status, or any other category protecte",
+"seniority": "",
+"experience_text": "",
+"company_url": "https://in.indeed.com/cmp/Servicenow",
+"key": "a01210539be67e87",
+"links": [
+{
+"source": "indeed",
+"url": "https://in.indeed.com/viewjob?jk=ad2809610fbd86b5",
+"apply_type": "company",
+"apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000152033438-assoc-machine-learning-engineer"
+}
+],
+"first_seen": "2026-09-27T21:31:24+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 60,
+"role_family": "AI/ML",
+"reason": "Strong AI/ML relevance in India; seniority and requirements not fully clear.",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "indeed-in-d2fedd227ba05342",
+"source": "indeed",
+"title": "AI/ML Engineer (LLM & RAG)",
+"company": "",
+"location": "Remote, IN",
+"url": "https://in.indeed.com/viewjob?jk=d2fedd227ba05342",
+"apply_type": "company",
+"apply_url": "http://in.indeed.com/job/aiml-engineer-llm-rag-d2fedd227ba05342",
+"posted_at": "2026-09-27",
+"is_remote": true,
+"description": "**Position:** AI/ML Engineer (LLM \\& RAG)  \n**Experience:** 1–3 Years  \n**Location:** Remote\n\n**Compensation : 15000\\-20000 per month**  \n**Employment Type:** Full\\-Time\n\nAbout the Role\n\nWe are looking for an experienced AI/ML Engineer to design, build, and scale enterprise\\-grade Generative AI solutions. The ideal candidate should have strong expertise in Large Language Models, Retrieval\\-Augmented Generation (RAG), vector databases, prompt engineering, and modern AI orchestration frameworks.\n\nResponsibilities\n\n* Design and develop scalable LLM\\-powered applications.\n* Build production\\-ready Retrieval\\-Augmented Generation (RAG) systems.\n* Design document ingestion, indexing, and retrieval pipelines.\n* Integrate and optimize Vector Databases for high\\-performance semantic search.\n* Develop AI agents and workflows using LangChain and/or LlamaIndex.\n* Implement prompt engineering strategies and prompt optimization techniques.\n* Fine\\-tune open\\-source LLMs where appropriate.\n* Evaluate model performance using standard AI evaluation metrics.\n* Optimize latency, token usage, and overall system cost.\n* Build REST APIs and microservices using Python.\n* Deploy AI solutions to cloud environments.\n* Collaborate with product, engineering, and data teams to deliver AI\\-driven products.\n* Stay up to date with the latest advancements in Generative AI and LLM technologies.\n\nRequired Skills\n\n* 1 \\- 3 years of experience in AI/ML or NLP development.\n* Strong expertise with Large Language Models: OpenAI, Claude, Gemini\n* Open\\-source LLMs (Llama, Mistral, Qwen, etc.)\n* Strong experience with Retrieval\\-Augmented Generation (RAG)\n* Hands\\-on experience with Vector Databases: Pinecone, Weaviate, Chroma, FAISS\n* Strong Prompt Engineering skills\n* Experience with LangChain and/or LlamaIndex\n* Experience in fine\\-tuning and evaluating LLMs\n* Strong Python programming skills\n* Experience with FastAPI or Flask\n* Knowledge of embeddings, semantic search, reranking, and hybrid search\n* Familiarity with Git and CI/CD workflows\n\nPreferred Skills\n\n* Hugging Face ecosystem\n* vLLM, Ollama, or TensorRT\\-LLM\n* Docker and Kubernetes\n* Redis or Elasticsearch\n* GraphRAG and Knowledge Graphs\n* AWS, Azure, or Google Cloud\n* Monitoring and observability tools (LangSmith, Phoenix, Weights \\& Biases)\n\nPreferred Qualifications\n\n* Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Data Science, or a related field.\n* Contributions to open\\-source AI projects or an active GitHub profile.\n* Experience deploying enterprise\\-grade AI applications.\n\nWhat We Offer\n\n* Fully Remote Work\n* Competitive Salary\n* Flexible Working Hours\n* Opportunity to work on cutting\\-edge Generative AI products\n* Learning and certification support\n* Collaborative, innovation\\-driven engineering culture\n* Career growth opportunities in advanced AI technologies\n\nPay: ₹15,000\\.00 \\- ₹20,000\\.00 per month\n\nBenefits:\n\n* Flexible schedule\n* Work from home\n\nWork Location: Remote",
+"seniority": "",
+"experience_text": "",
+"company_url": "https://in.indeed.comNone",
+"key": "8e4b17ed9a38e51c",
+"links": [
+{
+"source": "indeed",
+"url": "https://in.indeed.com/viewjob?jk=d2fedd227ba05342",
+"apply_type": "company",
+"apply_url": "http://in.indeed.com/job/aiml-engineer-llm-rag-d2fedd227ba05342"
+}
+],
+"first_seen": "2026-09-27T21:31:24+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
+"cities": [
+"Remote"
+],
+"exp": "0-1",
+"junior_title": false,
+"score": 92,
+"role_family": "AI/ML",
+"reason": "Strong LLM/RAG role; Python, LangChain, FAISS, and GenAI match well.",
+"drafts": {
+"note": "Hi {name}, interested in the AI/ML Engineer (LLM & RAG) role. I built a RAG chatbot with 150+ docs, FAISS, hybrid search, and guardrails. Open to a quick connect?",
+"dm": "Hi {name}, I’m reaching out about the AI/ML Engineer (LLM & RAG) role. At MAQ Software, I worked on an enterprise GenAI assistant for Power BI, including a custom LLM-as-a-Judge agent that evaluated outputs across 2,000+ test queries. I also built OnboardIQ, a RAG chatbot using Python, LangChain, FAISS, and Hugging Face, with 150+ documents indexed, hybrid search, and a grounding guardrail to reduce hallucinations. I’ve applied for the role and would appreciate a quick look at my profile to see if I might be a fit.",
+"email_subject": "AI/ML Engineer (LLM & RAG) application",
+"email_body": "Hi {name},\n\nI’m applying for the AI/ML Engineer (LLM & RAG) role. My experience lines up closely with the work you described: at MAQ Software, I worked on an enterprise GenAI assistant for Power BI and built a custom LLM-as-a-Judge agent to evaluate generated answers and DAX across 2,000+ test queries. I also built OnboardIQ, a RAG chatbot using Python, LangChain, FAISS, and Hugging Face, with 150+ documents indexed, hybrid search, and a grounding guardrail that reduced hallucinations on a 40-question test set.\n\nIf helpful, I’d value a quick look at my profile or application.\n\nBest,\nKousik Maity\nLinkedIn: https://www.linkedin.com/in/kousik-maity/\nGitHub: https://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The message is generic at the start and does not mention the company; the role should be tied to the specific company, not just the job title.",
+"The email/body and DM slightly exceed the ideal length for concise outreach, especially the email body, and the note is too vague.",
+"Wording is a bit awkward in places, e.g. 'I’ve applied for the role and would appreciate a quick look at my profile to see if I might be a fit' could be tighter and more direct.",
+"The note and DM ask for a 'quick connect'/'quick look' but the ask could be clearer and more specific, such as requesting a referral or brief profile review."
+]
+},
+"status": "active"
+},
+{
 "id": "li-4470563554",
 "source": "linkedin",
 "title": "Backend Developer – NestJS & TypeScript",
@@ -112,7 +384,7 @@
 }
 ],
 "first_seen": "2026-09-27T12:15:01+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -1146,7 +1418,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -1183,7 +1455,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -1220,7 +1492,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -1257,7 +1529,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -1627,7 +1899,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -1664,7 +1936,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Pune"
 ],
@@ -1701,7 +1973,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -1738,7 +2010,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Pune"
 ],
@@ -1775,7 +2047,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -1812,7 +2084,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -1855,7 +2127,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -1892,7 +2164,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -1929,7 +2201,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -2003,7 +2275,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -2040,7 +2312,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -2077,7 +2349,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -2188,7 +2460,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -2225,7 +2497,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Pune"
 ],
@@ -2262,7 +2534,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -2527,7 +2799,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -2749,7 +3021,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -2786,7 +3058,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -2823,7 +3095,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -2860,7 +3132,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -2897,7 +3169,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3082,7 +3354,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3267,7 +3539,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3304,7 +3576,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3341,7 +3613,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3378,7 +3650,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3415,7 +3687,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3452,7 +3724,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3489,7 +3761,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3526,7 +3798,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3563,7 +3835,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3600,7 +3872,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3637,7 +3909,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3674,7 +3946,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3711,7 +3983,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3748,7 +4020,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3785,7 +4057,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -3939,7 +4211,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4198,7 +4470,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4235,7 +4507,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4272,7 +4544,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4309,7 +4581,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4346,7 +4618,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4389,7 +4661,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4463,7 +4735,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4500,7 +4772,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4537,7 +4809,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4574,7 +4846,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4611,7 +4883,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4648,7 +4920,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4685,7 +4957,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4722,7 +4994,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4759,7 +5031,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4802,7 +5074,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4839,7 +5111,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4876,7 +5148,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4913,7 +5185,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4950,7 +5222,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -4987,7 +5259,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5024,7 +5296,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5061,7 +5333,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5098,7 +5370,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5135,7 +5407,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5172,7 +5444,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5215,7 +5487,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5258,7 +5530,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5301,7 +5573,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5338,7 +5610,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5375,7 +5647,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5412,7 +5684,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5449,7 +5721,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5486,7 +5758,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5523,7 +5795,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5560,7 +5832,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5597,7 +5869,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5634,7 +5906,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5671,7 +5943,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5708,7 +5980,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5745,7 +6017,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5782,7 +6054,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5819,7 +6091,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5868,7 +6140,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5905,7 +6177,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5954,7 +6226,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -5991,7 +6263,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6028,7 +6300,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6065,7 +6337,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6102,7 +6374,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6139,7 +6411,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6176,7 +6448,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6213,7 +6485,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6250,7 +6522,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6287,7 +6559,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6324,7 +6596,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6361,7 +6633,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6398,7 +6670,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6509,7 +6781,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6546,7 +6818,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6583,7 +6855,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6620,7 +6892,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6657,7 +6929,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6694,7 +6966,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6731,7 +7003,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6768,7 +7040,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6805,7 +7077,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6848,7 +7120,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6885,7 +7157,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6959,7 +7231,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -6996,7 +7268,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -7033,7 +7305,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -7070,7 +7342,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -7107,7 +7379,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -7144,7 +7416,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -7181,7 +7453,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -7218,7 +7490,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -7255,7 +7527,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -7292,7 +7564,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -7366,7 +7638,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -7403,7 +7675,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -7440,7 +7712,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -7477,7 +7749,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -7514,7 +7786,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "Remote"
 ],
@@ -7606,7 +7878,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -7649,7 +7921,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -7864,7 +8136,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -7907,7 +8179,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -7950,7 +8222,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -8036,7 +8308,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -8079,7 +8351,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -8122,7 +8394,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -8165,7 +8437,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -8208,7 +8480,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -8251,7 +8523,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -8368,7 +8640,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -8405,7 +8677,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -8516,7 +8788,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -8553,7 +8825,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -8664,7 +8936,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
@@ -8701,7 +8973,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T21:31:24+00:00",
 "cities": [
 "India"
 ],
