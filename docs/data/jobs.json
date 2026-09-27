@@ -1,5 +1,190 @@
 [
 {
+"id": "li-4470563554",
+"source": "linkedin",
+"title": "Backend Developer – NestJS & TypeScript",
+"company": "Peer Consulting Resources Inc.",
+"location": "India",
+"url": "https://www.linkedin.com/jobs/view/4470563554",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-26",
+"is_remote": false,
+"description": "Backend Developer – NestJS & TypeScript\nLocation: India – Remote\nExperience: 1–3 years\nCompensation: Open – commensurate with experience\nWorking Hours: 8:00 AM–4:00 PM US Eastern Time\nTeam: Peer Consulting Resources – Product Development\nReports to: Systems Architecture Lead / India Team Lead\nAbout the Role:\nPeer Consulting Resources is looking for a Backend Developer with strong hands-on experience in NestJS, TypeScript, Prisma ORM, and PostgreSQL to join our Product Development team.\nYou will help build and maintain secure, scalable backend services for a modern learning platform used by administrators, teachers, and students. The platform includes course creation, assessments, dashboards, and an integrated AI learning assistant.\nYou will work closely with the frontend development team to build REST APIs, maintain API contracts, implement authentication and authorization, and ensure reliable application performance and security.\nCandidates must be available to work remotely from 8:00 AM to 4:00 PM US Eastern Time .\nKey Responsibilities:\nDevelop and maintain secure, scalable REST APIs using NestJS and TypeScript.\nBuild modular backend services following NestJS architecture and best practices.\nDesign and manage PostgreSQL databases using Prisma ORM.\nCreate and maintain database schemas, relationships, and migrations.\nImplement JWT authentication, refresh-token mechanisms, and role-based access control.\nImplement request validation, rate limiting, secure file uploads, and error handling.\nWrite and maintain unit and end-to-end tests using Jest.\nDebug, optimize, and maintain existing backend services.\nCollaborate with frontend developers to define and maintain API contracts.\nParticipate in code reviews and follow secure coding practices.\nDocument APIs, backend workflows, and technical decisions.\nRequired Skills:\nNode.js and TypeScript\nNestJS\nPrisma ORM\nPostgreSQL\nREST API development\nJWT and refresh-token authentication\nRole-based access control and authorization\nJest and end-to-end testing\nGit and GitHub\nUnderstanding of backend security and API best practices\nExperience:\n1–3 years of backend development experience.\nHands-on experience building backend applications using NestJS and TypeScript.\nCandidates with strong and demonstrable project experience will also be considered.\nWhat We’re Looking For:\nStrong problem-solving and debugging skills.\nGood understanding of backend architecture.\nAbility to write clean, maintainable, and secure code.\nAbility to work independently and collaborate effectively with a development team.\nClear communication and a responsible approach to delivery.\nWillingness to work during US Eastern Time hours.\nA GitHub profile, portfolio, or backend project demonstrating relevant technical experience is preferred.\nNice to Have:\nExperience working with Angular applications\nFamiliarity with Swagger/OpenAPI documentation\nExperience with CI/CD pipelines\nExperience deploying applications on Render or Vercel\nExperience working with monorepos\nExperience with education, learning-management, or AI-enabled platforms\nShow more\nShow less",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/peer-consulting",
+"key": "e25d15489e1dbe41",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4470563554",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
+"cities": [
+"India"
+],
+"exp": "0-1",
+"junior_title": false,
+"score": 84,
+"role_family": "Software",
+"reason": "Remote backend role with Python/REST APIs; experience fits your SDE-1 profile.",
+"drafts": {
+"note": "Hi {name}, applying for Backend Developer – NestJS & TypeScript at Peer Consulting Resources. Built a FastAPI backend with 100% schema-valid outputs. Could you review my fit?",
+"dm": "Hi {name}, I’m applying for the Backend Developer – NestJS & TypeScript role at Peer Consulting Resources. Your modern learning platform stood out, especially the mix of backend APIs and AI-assisted product work. My closest backend project is TestForge, where I built a Python/FastAPI service with GPT-4o and MCP that produced 100% schema-valid test cases on a 20-scenario benchmark and cut test-writing time by about 65%. I also work on MAQ Software’s AI Assistant for Power BI, including production deployments and debugging backend-facing issues across 30 reports. Could you take a quick look at my profile and let me know if a referral makes sense?",
+"email_subject": "Application for Backend Developer – NestJS & TypeScript",
+"email_body": "Hi {name},\n\nI’m applying for the Backend Developer – NestJS & TypeScript role at Peer Consulting Resources. The role stood out because it combines backend API work with an AI-enabled learning platform.\n\nMy closest match is TestForge, where I built a Python/FastAPI backend service using GPT-4o and MCP that generated 100% schema-valid test cases on a 20-scenario benchmark and reduced test-writing time by about 65%. At MAQ Software, I also work on the AI Assistant for Power BI, where I’ve helped test, improve, and deploy a production GenAI system across 30 reports while tracing failures to root causes.\n\nI know my strongest demonstrated backend work is in Python rather than NestJS, but I’d value a quick look at my profile to see whether I could be considered for this role.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The role/company are mostly specific, but the outreach is slightly too generic in the note and does not clearly ask for one action there; still acceptable in DM/email.",
+"The DM/email mention FastAPI and backend work, but the job is specifically NestJS/TypeScript/Prisma/PostgreSQL. The message does not address the key stack beyond saying Python is the closest match, which weakens relevance.",
+"The claim 'I also work on MAQ Software’s AI Assistant for Power BI, including production deployments and debugging backend-facing issues across 30 reports' is partially supported, but 'debugging backend-facing issues' is not directly stated in the profile.",
+"The note is under the required length? It is within 200 chars, but it is very sparse and generic; the clearer issue is that it lacks a strong, specific ask tied to the recipient.",
+"The email body is within 90–150 words? No, it appears to exceed 150 words, so it breaks the length limit.",
+"The DM appears to exceed 110 words, so it breaks the length limit."
+]
+},
+"status": "active"
+},
+{
+"id": "li-4472411913",
+"source": "linkedin",
+"title": "Data Engineer",
+"company": "LIXIL",
+"location": "Gurugram, Haryana, India",
+"url": "https://www.linkedin.com/jobs/view/4472411913",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-27",
+"is_remote": false,
+"description": "IMEA (India, Middle East, Africa) India LIXIL INDIA PVT LTD Employee Assignment Hybrid Full Time 30 September 2026\nData Engineer\nYour Responsibilities / What To Expect\nData Architecture & Medallion Logic: You will systematically transfer raw data into a modern Medallion Architecture (Bronze, Silver, Gold) and continuously expand it.\nData Integration & Connectivity: You will ensure the seamless connection of various source systems (e.g., SAP, SQL Server, MySQL, project management software, and Google Sheets) to our data warehouse in Google BigQuery.\nPipeline & Script Development: You will write high-performance scripts (primarily in Python) for data pipelines and innovative document automation.\nData Cleansing & Monitoring: You will proactively resolve raw data errors or prevent them entirely using clever scripts and real-time monitoring to guarantee top-tier data quality.\nData Visualization: You will design insightful and dynamic Tableau Dashboards built directly on data from Google BigQuery.\nAutomation & Innovation: You will implement straightforward automations using RPA (Robotic Process Automation) and develop smart queries.\nCollaboration: You will work closely with your process architects, controlling, data warehouse colleagues and analysts to provide production-ready datasets.\nDocumentation: You will keep our system landscape transparent by structurally documenting the technical architecture according to the arc42 standard.\nRequired (Must-have)\nEducation: A successfully completed degree in (Business) Computer Science, Data Science, or a comparable qualification with a strong IT focus.\nTech Stack & Coding: Proficient skills in Python, SQL, and experience working with Microsoft or cloud-based data architectures.\nDatabases: Practical experience with relational databases (e.g., SAP, SQL Server, MySQL) and NoSQL systems.\nCloud & DWH: Proven experience with the Google Cloud Suite, specifically Google BigQuery and Google Sheets.\nBI Tools: Strong practical experience in creating dashboards with Tableau.\nMindset: A structured, analytical approach to work, marked by a high commitment to data integrity, security, and performance.\nDesirable (Nice-to-have) – Perfect For Your Professional Growth\nInitial exposure to the Medallion Architecture (Bronze, Silver, Gold), as well as Google Vertex, App Script, or App Sheets.\nFirst insights into Supervised Machine Learning and descriptive data analysis.\nBasic knowledge of process automation (RPA).\nExperience with the arc42 documentation standard.\nGrowth Mindset: You bring a strong willingness to learn and are eager to dive into new technologies alongside experienced data warehouse colleagues.\nShow more\nShow less",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://jp.linkedin.com/company/lixil-global",
+"key": "b8a76e37a573cf78",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4472411913",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
+"cities": [
+"Delhi NCR"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": null,
+"role_family": "",
+"reason": "",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "li-4454582094",
+"source": "linkedin",
+"title": "Z2_Python Developer",
+"company": "NTT DATA North America",
+"location": "Bangalore Urban, Karnataka, India",
+"url": "https://www.linkedin.com/jobs/view/4454582094",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-27",
+"is_remote": false,
+"description": "Req ID: 385817\nNTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.\nWe are currently seeking a Z2_Python Developer to join our team in Bangalore, Karnātaka (IN-KA), India (IN).\nDesign and develop scalable backend services using Python.\nDevelop RESTful APIs for internal and external integrations.\nBuild and maintain microservices\nDesign efficient database schemas and optimize SQL queries.\nImplement asynchronous processing using queues and background workers.\nEnsure application performance, scalability, and reliability.\nWrite unit, integration, and API tests.\nParticipate in code reviews and technical design discussions.\nTroubleshoot production issues and perform root cause analysis.\nCollaborate with DevOps teams for CI/CD deployments.\nFollow secure coding practices and client development standards.\nAbout NTT DATA\nNTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. NTT DATA is a part of NTT Group, which invests over $3 billion each year in R&D.\nWhenever possible, we hire locally to NTT DATA offices or client sites. This ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an NTT DATA office or client site, in-office attendance may be required for meetings or events, depending on business needs. At NTT DATA, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. NTT DATA recruiters will never ask for payment or banking information and will only use @nttdata.com, @nttdatafed.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, https://us.nttdata.com/en/contact-us.\nNTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact-us. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here.\nShow more\nShow less",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/ntt-data-americas",
+"key": "6a431602b8c26c05",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4454582094",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
+"cities": [
+"Bengaluru"
+],
+"exp": "fresher",
+"junior_title": false,
+"score": 86,
+"role_family": "Software",
+"reason": "Entry-level Python backend role in Bangalore; clean match for your API skills.",
+"drafts": {
+"note": "Hi {name}, applying for Z2_Python Developer at NTT DATA North America. I built TestForge in Python/FastAPI with 100% schema-valid outputs. Could you take a quick look at my profile?",
+"dm": "Hi {name}, I’m applying for the Z2_Python Developer role at NTT DATA North America. My background lines up well with the Python backend focus: I built TestForge using Python and FastAPI, and in my current role at MAQ Software I’ve worked on production GenAI deployments across 30 Power BI reports, including testing, validation, and root-cause analysis. I also work with SQL, Azure DevOps, and unit testing in my projects and training. If the role is still active, could you take a quick look at my profile and let me know if I’d be a fit?",
+"email_subject": "Applying for Z2_Python Developer at NTT DATA North America",
+"email_body": "Hi {name},\n\nI’m applying for the Z2_Python Developer role at NTT DATA North America. My experience matches the Python backend work in the description: I built TestForge using Python and FastAPI, and in my current role at MAQ Software I’ve worked on production deployments for an enterprise GenAI assistant across 30 Power BI reports, including testing, validation, and root-cause analysis. I also have experience with SQL, Azure DevOps, and unit testing through my projects and training.\n\nI’ve applied for the role and would appreciate it if you could take a quick look at my profile to see whether my background fits what the team needs.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The message is not company-specific enough in the note; it only names the role/company and could be sent broadly without referencing why NTT DATA or this backend role is a fit.",
+"The claim \"I also have experience with SQL, Azure DevOps, and unit testing through my projects and training\" is not fully supported by the profile as written; Azure DevOps is a project skill, but unit testing is not explicitly listed as experience in the profile except indirectly in TestForge benchmarks.",
+"The email body is 154 words, exceeding the 90–150 word limit.",
+"The note is 22 words, which is within the limit, but the DM is 101 words and acceptable only if the wording is clear; however, the phrase \"If the role is still active\" is awkward and unnecessary in outreach."
+]
+},
+"status": "active"
+},
+{
+"id": "indeed-in-60fe0814431007a6",
+"source": "indeed",
+"title": "Freelance Data Engineer & Analyst",
+"company": "AI Analytics",
+"location": "Remote, IN",
+"url": "https://in.indeed.com/viewjob?jk=60fe0814431007a6",
+"apply_type": "company",
+"apply_url": "http://in.indeed.com/job/freelance-data-engineer-analyst-60fe0814431007a6",
+"posted_at": "2026-09-27",
+"is_remote": true,
+"description": "**About the Opportunity**\n\nI am an independent researcher and developer working on a personal technical project and looking for a skilled **Data Engineer / Data Analyst** to work with me directly on a remote, project\\-based engagement.\n\nThis is a **Freelance / Contract Opportunity** with a private individual, not a corporate or recruitment\\-agency position. The selected candidate will work directly with me in a dedicated cloud development environment.\n\n**Job Type:** Freelance / Contract  \n**Location:** Remote – India  \n**Work Arrangement:** Remote  \n**Engagement:** Full\\-time or Part\\-time\n\nKey Responsibilities\n\n* Build and optimize data pipelines using **Talend** and **Microsoft Fabric**\n* Develop and manage data storage and processing solutions using **Snowflake** and **Databricks / Delta Lake**\n* Develop production\\-quality SQL transformation models using **dbt**\n* Build and maintain ETL/ELT pipelines and data workflows\n* Design scalable data models and **star schemas**\n* Create interactive dashboards and analytical reports using **Power BI**\n* Perform data validation and implement data\\-quality checks\n* Optimize SQL queries, data pipelines, and overall system performance\n* Maintain clean, version\\-controlled code and documentation\n* Work independently and communicate project progress directly with the project owner\n\nRequired Skills\n\n**Data Engineering \\& Cloud**\n\n* Strong hands\\-on experience with **Snowflake**\n* Experience with **Databricks / Delta Lake**\n* Strong **SQL** skills\n* Experience developing ETL/ELT pipelines\n\n**Data Transformation \\& Integration**\n\n* Strong experience with **dbt (Data Build Tool)**\n* Experience with **Talend and/or Microsoft Fabric**\n* Understanding of data pipeline orchestration and workflow management\n\n**Analytics \\& Reporting**\n\n* Strong **Power BI** experience\n* Experience designing data models and star schemas\n* Ability to develop business\\-focused dashboards and reports\n\nPreferred Qualifications\n\n* Experience working independently on data engineering projects\n* Strong analytical and problem\\-solving skills\n* Ability to work with minimal supervision\n* Good understanding of modern data platforms and cloud technologies\n* Strong attention to data quality, scalability, and performance\n\nCandidate Application\n\nInterested candidates are requested to submit their **latest resume** along with a brief summary of their experience with:\n\n**Data Engineer:** *https://forms.gle/zPCrxLcbowyvJRup6*\n\n**Data Analyst:** *https://forms.gle/SRSNHf4SAqfWNUHZA*\n\n**Snowflake \\| Databricks \\| dbt \\| Talend \\| Microsoft Fabric \\| Power BI**\n\nPlease also mention whether you are interested in **Full\\-time, Part\\-time, or either**.\n\n**Important Note**\n\n* Please mention your skills clearly\n* Keep your LinkedIn profile and resume updated\n\nThis is a **project\\-based Freelance / Contract Opportunity**. Submitting an application does not guarantee selection, an interview, or engagement. Project scope, duration, working hours, and compensation will be discussed with shortlisted candidates.\n\nPay: ₹50,000\\.00 \\- ₹120,000\\.00 per month\n\nBenefits:\n\n* Flexible schedule\n* Work from home\n\nWork Location: Remote",
+"seniority": "",
+"experience_text": "",
+"company_url": "https://in.indeed.com/cmp/Ai-Analytics",
+"key": "47b4e5147fc721fa",
+"links": [
+{
+"source": "indeed",
+"url": "https://in.indeed.com/viewjob?jk=60fe0814431007a6",
+"apply_type": "company",
+"apply_url": "http://in.indeed.com/job/freelance-data-engineer-analyst-60fe0814431007a6"
+}
+],
+"first_seen": "2026-09-27T12:15:01+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 80,
+"role_family": "Data Engineering",
+"reason": "Strong Fabric/Delta Lake/Power BI match for your data engineering projects.",
+"drafts": {
+"note": "Hi {name}, applying for the Freelance Data Engineer & Analyst role at AI Analytics. Built a Fabric Lakehouse with star schema and Power BI work. Could you take a quick look at my profile?",
+"dm": "Hi {name}, I’m applying for the Freelance Data Engineer & Analyst role at AI Analytics. My closest fit is RetailPulse, where I built a Microsoft Fabric Lakehouse with a 5-table star schema, PySpark validation, Delta Lake optimization, and idempotent incremental loads. I’ve also built Power BI models and dashboards, including an HR attrition project with drill-through views. Since this is a project-based engagement, I’d appreciate it if you could take a quick look at my profile and let me know whether my background fits what you need.",
+"email_subject": "Application for Freelance Data Engineer & Analyst role",
+"email_body": "Hi {name},\n\nI’m applying for the Freelance Data Engineer & Analyst role at AI Analytics. My background matches the Microsoft Fabric, Delta Lake, SQL, ETL/ELT, star schema, and Power BI parts of the project well.\n\nOn RetailPulse, I built a Fabric Lakehouse with a 5-table star schema, watermark-based incremental loads, PySpark validation, and Delta optimization. I also built Power BI dashboard work in AttritionLens, modeling 1,470 employees and 35 attributes with drill-through views.\n\nI know this is a freelance, project-based engagement, so if useful, I’d appreciate a quick look at my profile to see if my experience fits your needs.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The message is too generic for this specific role: it does not mention any fit for Talend, Snowflake, or dbt, which are central to the job description.",
+"The ask is unclear for the job posting: the role requests a brief application and indicates submission via forms, but the message only asks for a quick look at the profile and does not clearly state interest in full-time, part-time, or either.",
+"Potential length issue: the DM appears to exceed the 60–110 word limit, and the email body looks shorter than the 90–150 word requirement."
+]
+},
+"status": "active"
+},
+{
 "id": "li-4472267564",
 "source": "linkedin",
 "title": "Junior Software Developer_V4",
@@ -33,7 +218,19 @@
 "score": 74,
 "role_family": "Software",
 "reason": "Entry-level software developer, Noida, 0-2 years; good web development fit.",
-"drafts": null,
+"drafts": {
+"note": "Hi {name}, applying for Junior Software Developer_V4 at Softcrayons IT Education. I’m an Associate Software Engineer at MAQ Software with Python/C++ experience. Open to a quick profile review?",
+"dm": "Hi {name}, I’m applying for the Junior Software Developer_V4 role at Softcrayons IT Education. I’m currently an Associate Software Engineer at MAQ Software, where I’ve worked on production software for a Microsoft client and built an IT-helpdesk agent deployed in Microsoft Teams. My background includes Python, C++, APIs, testing, and deployment, which lines up with the role’s software development focus. If helpful, could you take a quick look at my profile and let me know if I’d be a fit for this opening?",
+"email_subject": "Application for Junior Software Developer_V4 at Softcrayons",
+"email_body": "Hi {name},\n\nI’m applying for the Junior Software Developer_V4 role at Softcrayons IT Education in Noida. I’m currently an Associate Software Engineer at MAQ Software, where I’ve worked on production software for a Microsoft client, including an AI Assistant for Power BI used across 30 reports, and built an IT-helpdesk agent deployed in Microsoft Teams. My background includes Python, C++, APIs, testing, and deployment, which matches the role’s software development requirements.\n\nCould you take a quick look at my profile and let me know if I’d be a fit for this role?\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"Company/role is generic and inconsistent: the role is for Softcrayons IT Education, but the message only says the role name and does not mention Noida or any specific detail from the job beyond generic software development.",
+"The claim about Python/C++ experience is supported, but 'APIs' is not explicitly supported by the profile as a stated skill/experience item in the outreach context.",
+"The message contains awkward phrasing ('I’m applying for...', 'would I be a fit') and the ask is slightly unclear/generic; it should be a specific request for a quick review or referral tied to Softcrayons.",
+"Length check: the email body appears to be within range, but the note and DM should be reviewed for exact limits; the note is fine, DM is close to the lower bound and could be more precise."
+]
+},
 "status": "active"
 },
 {
@@ -61,7 +258,7 @@
 }
 ],
 "first_seen": "2026-09-26T21:23:49+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -98,7 +295,7 @@
 }
 ],
 "first_seen": "2026-09-26T21:23:49+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -209,7 +406,7 @@
 }
 ],
 "first_seen": "2026-09-26T21:23:49+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -246,7 +443,7 @@
 }
 ],
 "first_seen": "2026-09-26T21:23:49+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -283,7 +480,7 @@
 }
 ],
 "first_seen": "2026-09-26T21:23:49+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -320,7 +517,7 @@
 }
 ],
 "first_seen": "2026-09-26T21:23:49+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -431,7 +628,7 @@
 }
 ],
 "first_seen": "2026-09-26T21:23:49+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Mumbai"
 ],
@@ -949,7 +1146,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-26T21:23:49+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -986,7 +1183,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -1023,7 +1220,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -1060,7 +1257,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -1097,7 +1294,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -1430,7 +1627,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -1467,7 +1664,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Pune"
 ],
@@ -1504,7 +1701,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -1541,7 +1738,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Pune"
 ],
@@ -1578,7 +1775,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -1615,7 +1812,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -1658,7 +1855,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -1695,7 +1892,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -1732,7 +1929,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -1806,7 +2003,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -1843,7 +2040,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -1880,7 +2077,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -1991,7 +2188,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -2028,7 +2225,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Pune"
 ],
@@ -2065,7 +2262,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -2330,7 +2527,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -2552,7 +2749,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -2589,7 +2786,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -2626,7 +2823,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -2663,7 +2860,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -2700,7 +2897,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -2885,7 +3082,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3070,7 +3267,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3107,7 +3304,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3144,7 +3341,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3181,7 +3378,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3218,7 +3415,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3255,7 +3452,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3292,7 +3489,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3329,7 +3526,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3366,7 +3563,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3403,7 +3600,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3440,7 +3637,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3477,7 +3674,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3514,7 +3711,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3551,7 +3748,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3588,7 +3785,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -3742,7 +3939,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4001,7 +4198,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4038,7 +4235,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4075,7 +4272,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4112,7 +4309,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4149,7 +4346,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4192,7 +4389,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4266,7 +4463,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4303,7 +4500,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4340,7 +4537,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4377,7 +4574,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4414,7 +4611,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4451,7 +4648,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4488,7 +4685,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4525,7 +4722,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4562,7 +4759,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4605,7 +4802,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4642,7 +4839,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4679,7 +4876,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4716,7 +4913,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4753,7 +4950,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4790,7 +4987,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4827,7 +5024,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4864,7 +5061,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4901,7 +5098,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4938,7 +5135,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -4975,7 +5172,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5018,7 +5215,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5061,7 +5258,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5104,7 +5301,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5141,7 +5338,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5178,7 +5375,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5215,7 +5412,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5252,7 +5449,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5289,7 +5486,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5326,7 +5523,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5363,7 +5560,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5400,7 +5597,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5437,7 +5634,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5474,7 +5671,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5511,7 +5708,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5548,7 +5745,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5585,7 +5782,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5622,7 +5819,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5671,7 +5868,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5708,7 +5905,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5757,7 +5954,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5794,7 +5991,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5831,7 +6028,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5868,7 +6065,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5905,7 +6102,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5942,7 +6139,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -5979,7 +6176,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6016,7 +6213,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6053,7 +6250,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6090,7 +6287,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6127,7 +6324,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6164,7 +6361,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6201,7 +6398,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6312,7 +6509,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6349,7 +6546,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6386,7 +6583,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6423,7 +6620,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6460,7 +6657,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6497,7 +6694,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6534,7 +6731,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6571,7 +6768,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6608,7 +6805,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6651,7 +6848,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6688,7 +6885,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6762,7 +6959,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6799,7 +6996,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6836,7 +7033,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6873,7 +7070,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6910,7 +7107,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6947,7 +7144,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -6984,7 +7181,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -7021,7 +7218,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -7058,7 +7255,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -7095,7 +7292,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -7169,7 +7366,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -7206,7 +7403,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -7243,7 +7440,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -7280,7 +7477,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -7317,7 +7514,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "Remote"
 ],
@@ -7409,7 +7606,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -7452,7 +7649,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T21:23:49+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -7587,7 +7784,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -7667,7 +7864,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -7710,7 +7907,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -7753,7 +7950,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -7796,7 +7993,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -7839,7 +8036,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -7882,7 +8079,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -7925,7 +8122,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -7968,7 +8165,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -8011,7 +8208,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -8054,7 +8251,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -8097,7 +8294,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -8171,7 +8368,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -8208,7 +8405,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -8319,7 +8516,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -8356,7 +8553,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -8467,7 +8664,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
@@ -8504,7 +8701,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-26T23:17:32+00:00",
+"last_seen": "2026-09-27T12:15:01+00:00",
 "cities": [
 "India"
 ],
