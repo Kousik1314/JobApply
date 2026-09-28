@@ -1,5 +1,1027 @@
 [
 {
+"id": "li-4472787118",
+"source": "linkedin",
+"title": "SDE-I, Rewards",
+"company": "Amazon",
+"location": "Gurugram, Haryana, India",
+"url": "https://www.linkedin.com/jobs/view/4472787118",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-28",
+"is_remote": false,
+"description": "Description\nAt Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world’s most beloved brands – customer obsession is part of our company DNA. Our Software Development Engineers (SDEs) use cutting-edge technology to solve complex problems and get to see the impact of their work first-hand. The challenges SDEs solve for at Amazon are big and influence millions of customers, sellers, and products around the world. We are looking for individuals who are passionate about creating new products, features, and services from scratch while managing ambiguity and the pace of a company where development cycles are measured in weeks, not years. If this sounds interesting to you, apply and come chart your own path at Amazon.\nApplications are reviewed on a rolling basis. For an update on your status, or to confirm your application was submitted successfully, please login to your candidate portal. NOTE: Amazon works with a high volume of applicants, so we appreciate your patience as we review applications\nInternal Job Description\nBasic qualifications\n0-24 months of experience.\nCurrently enrolled in a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or related field at time of application\nFamiliarity with the syntax of languages such as Java, C/C++ or Python.\nKnowledge of Computer Science fundamentals such as object-oriented design, algorithm design, data structures, problem solving, and complexity analysis.\nPreferred Qualifications\nPrevious technical internship(s).\nExperience with distributed, multi-tiered systems, algorithms, and relational databases.\nExperience in optimization mathematics such as linear programming and nonlinear optimization.\nEffectively articulate technical challenges and solutions.\nAdept at handling ambiguous or undefined problems as well as ability to think abstractly. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\nKey job responsibilities\nKey job responsibilities\nCollaborate with experienced cross-disciplinary Amazonians to conceive, design, and bring innovative products and services to market.\nDesign and build innovative technologies in a large distributed computing environment and help lead fundamental changes in the industry.\nCreate solutions to run predictions on distributed systems with exposure to innovative technologies at incredible scale and speed.\nBuild distributed storage, index, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use.\nDesign and code the right solutions starting with broadly defined problems.\nWork in an agile environment to deliver high-quality software.\nBasic Qualifications\n1+ years of non-internship professional software development experience\nExperience programming with at least one software programming language\nPreferred Qualifications\nBachelor's degree in computer science or equivalent\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\nCompany - ADCI - Haryana\nJob ID: A10555910\nShow more\nShow less",
+"seniority": "Not Applicable",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/amazon",
+"key": "15a4cc44d1dfed78",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4472787118",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Delhi NCR"
+],
+"exp": "0-1",
+"junior_title": true,
+"score": 88,
+"role_family": "Software",
+"reason": "SDE-I role in Gurugram; exactly entry-level and aligns with Python/CS fundamentals.",
+"drafts": {
+"note": "Hi {name}, applying for SDE-I, Rewards at Amazon. I’m an Associate Software Engineer at MAQ Software, shipping Python-based AI systems. Could you take a quick look at my profile?",
+"dm": "Hi {name}, I’m applying for the SDE-I, Rewards role at Amazon in Gurugram. I currently work as an Associate Software Engineer at MAQ Software, where I’ve worked on an AI Assistant for Power BI used across 30 production reports and shipped deployments with Azure CLI. I also built TestForge, a Python and FastAPI project that generates schema-valid test cases through APIs, which maps well to the role’s focus on coding, problem solving, and building reliable software in fast cycles. Could you take a quick look at my profile and let me know if my background fits the team?",
+"email_subject": "Application for SDE-I, Rewards at Amazon",
+"email_body": "Hi {name},\n\nI’m applying for the SDE-I, Rewards role at Amazon in Gurugram. I’m currently an Associate Software Engineer at MAQ Software, where I’ve worked on an enterprise AI Assistant for Power BI across 30 production reports, including testing, evaluation, and deployment. That experience has strengthened my Python skills and my ability to work through broadly scoped engineering problems.\n\nI’ve also built TestForge, a Python and FastAPI project that generates schema-valid test cases through APIs, which aligns well with the role’s emphasis on software development fundamentals and building reliable systems.\n\nIf you have a moment, could you take a quick look at my profile and let me know if my background fits the team?\n\nBest,\nKousik Maity\nLinkedIn: https://www.linkedin.com/in/kousik-maity/\nGitHub: https://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"dm uses cliché 'guru'",
+"email_body uses cliché 'guru'",
+"The outreach is generic in parts and does not mention why this specifically fits Amazon’s SDE-I, Rewards role beyond general software work; it should be more role/company-specific.",
+"The note is only 29 words, which is below the 60–110 word DM limit; the email body is 122 words, which is within the 90–150 word limit.",
+"The email body says the AI Assistant work was 'across 30 production reports, including testing, evaluation, and deployment,' which is supported, but 'that experience has strengthened my Python skills' is not directly supported by the profile.",
+"The message could be tighter and clearer about the ask; 'could you take a quick look at my profile and let me know if my background fits the team?' is acceptable, but the note is too terse for outreach."
+]
+},
+"status": "active"
+},
+{
+"id": "site-jobgether-ad7997d52f06",
+"source": "jobgether",
+"title": "Junior Ubuntu Software Engineer",
+"company": "Canonical",
+"location": "Remote (RW, SO, YE, IQ, SA, IR, CY, TZ, SY, AM, KE, CD, DJ, UG, CF, SC, JO, LB, KW, OM, QA, BH, AE, IL, TR, ET, ER, EG, SD, GR, BI, EE, LV, AZ, LT, SJ, GE, MD, BY, FI, UA, MK, HU, BG, AL, PL, RO, XK, ZW, ZM, KM, MW, LS, BW, MU, SZ, RE, ZA, YT, MZ, MG, AF, PK, BD, TM, TJ, LK, BT, IN, MV, IO, NP, MM, UZ, KZ, KG, TF, HM, CC, PW, VN, TH, ID, LA, TW, PH, MY, CN, HK, BN, MO, KH, KR, JP, KP, SG, CK, TL, RU, MN, AU, CX, MH, FM, PG, SB, TV, NR, VU, NC, NF, NZ, FJ, LY, CM, SN, CG, PT, LR, CI, GH, GQ, NG, BF, TG, GW, MR, BJ, GA, SL, ST, GI, GM, GN, TD, NE, ML, EH, TN, ES, MA, MT, DZ, FO, DK, IS, GB, CH, SE, NL, AT, BE, DE, LU, IE, MC, FR, AD, LI, JE, IM, GG, SK, CZ, NO, SM, IT, SI, ME, HR, BA, AO, NA, SH, BV, BB, CV, GY, GF, SR, PM, GL, PY, UY, BR, FK, GS, JM, DO, CU, MQ, BS, BM, AI, TT, KN, DM, AG, LC, TC, AW, VG, VC, MS, MF, BL, GP, GD, KY, BZ, SV, GT, HN, NI, CR, VE, EC, CO, PA, HT, AR, CL, BO, PE, MX, PF, PN, KI, TK, TO, WF, WS, NU, MP, GU, PR, VI, UM, AS, CA, PS, RS, SX, CW, BQ, SS, AL, AK, AZ, AR, CA, CO, CT, DE, DC, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY)",
+"url": "https://jobgether.com/offer/6ab64062865119c687eec636-junior-ubuntu-software-engineer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": "Fri Sep 25",
+"is_remote": true,
+"description": "This a Full Remote job, the offer is available from: Anywhere\nCanonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.\nThe company is founder led, profitable and growing.\nWe are hiring junior engineers to work across the breadth of our Ubuntu Engineering organisation -  engineers who care deeply for quality, performance and resilience in software, engineers who are just as comfortable designing and engineering new software as they are packaging, integrating, testing and shipping the incredible catalog of open source software provided by the Ubuntu repositories.\nOur engineers integrate the freshest open source software, provide robust upgrade paths and engineer the future of Ubuntu. Ubuntu is not just the worldâs most deployed open source operating system, it's a platform that enables innovation for millions of users across the globe. Our community represents the full breadth of the developer experience; from students, hobbyists and freelancers to high performance engineering and creative teams in corporate and academic environments.\nThe four key teams that ship Ubuntu are \nFoundations : maintaining foundational software: architectures, package managers, compilers, toolchains, bootloaders, filesystems and core utilities\nServer: leading the design, evolution and future of our Ubuntu Server distribution\nDesktop: driving Ubuntu Desktop, our future immutable desktop: Ubuntu Core Desktop, WSL, gaming technology, and a suite of modern applications for the desktop crafted with Flutter\nDebcrafters: a new team responsible for the forward movement, maintenance and overall health of the Ubuntu archive: one of the most abundant repositories of open source software available today\nBring your existing expertise and learn new skills by working on one of the most prolific pieces of open source software. As an engineer working on Ubuntu you could work on any or all of the following categories:\nDevelopment : design, build and ship new foundational systems software and applications in Rust, Go, Flutter, and Python\nArchitecture : engineer the integration of open source from boot firmware to cloud applications deployment\nPackaging : a combination of Debian and Snap packaging to ship software in the distribution\nAutomation : build and maintain the machinery responsible for building, testing and shipping Ubuntu\nDistro Engineering : the maintenance and evolution of a Linux distribution and its repositories\nIf you have skills in those areas, or you have other skills you believe could contribute to Ubuntu, and you're keen to get started building your career in open source, then this is the role for you. Our junior career path caters for both new graduates and early careers engineers. \nAt Canonical, you will have the opportunity to engage with and contribute to the broader open source community. We're looking for individuals who can help build a thriving community and contribute with enthusiasm and precision to a broad range of technologies.\nLocation : We have remote roles open in every time zone.\nThe role entails\nBased on the first round of interviews, we identify specific teams where you might be an excellent fit and conduct second-round interviews with those teams. Our engineers are:\nDesigning, building and shipping software in Rust, Go, Python and C/C++\nPackaging, integrating, testing and uploading open source software to the Ubuntu repositories\nDebugging issue",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "9e4d221bab4df405",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6ab64062865119c687eec636-junior-ubuntu-software-engineer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "fresher",
+"junior_title": true,
+"score": 58,
+"role_family": "Software",
+"reason": "Junior Linux role, but low overlap with candidate's AI/data-focused profile.",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-jobgether-bd8335c4a34f",
+"source": "jobgether",
+"title": "Binance Accelerator Programm - Software Engineer (KYB)",
+"company": "Binance",
+"location": "YE | IQ | SA | IR | SY | AM | JO | LB | KW | OM | QA | BH | AE | IL | TR | AF | PK | BD | TM | TJ | LK | BT | IN | MV | IO | NP | MM | UZ | KZ | KG | CC | VN | TH | ID | LA | TW | PH | MY | CN | HK | BN | MO | KH | KR | JP | KP | SG | TL | RU | MN | CX | PS",
+"url": "https://jobgether.com/offer/6ab6a3cc865119c687f325de-binance-accelerator-programm---software-engineer-kyb",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": "Fri Sep 25",
+"is_remote": true,
+"description": "This a Full Remote job, the offer is available from: Asia\nBinance is a leading global blockchain ecosystem behind the worldâs largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.\n \nAbout Binance Accelerator Program\nBinance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what itâs like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program HERE .\nWho may apply\nCurrent university students and recent graduates.\n*Terms of employment / engagement shall be subject to contract and local applicable laws\n \nResponsibilities\nParticipate in the development and maintenance of the KYB (Know Your Business) backend system â the primary focus of this internship\nResponsible for the compilation and implementation of the interface documentation of the KYB business module\nTake part in testing and regression work for KYB releases, including functional testing, regression verification, and bug tracking with the QA team\nDemonstrate strong troubleshooting skills to solve problems reported by the QA team\nAssist the CS team to solve customer problems and classify them for system improvement\nRequirements\nComputer-related major, bachelor degree or above\nSolid Java foundation and understanding of basic frameworks, such as multithreading and networking\nFamiliar with Spring micro-service framework and understanding of its operation mechanism\nFamiliar with MySQL database, and at least one NoSQL database\nFamiliar with common middleware such as Redis, RabbitMQ and Kafka\nGood logical thinking ability, strong sense of teamwork, and strong learning ability\nGood communication skills; fluency in English is required to coordinate with overseas partners and stakeholders. Additional languages would be an advantage\nExperience with web3 projects is preferred\nWhy Binance\nâ¢ Shape the future with the worldâs leading blockchain ecosystem\nâ¢ Collaborate with world-class talent in a user-centric global organization with a flat structure\nâ¢ Tackle unique, fast-paced projects with autonomy in an innovative environment\nâ¢ Thrive in a results-driven workplace with opportunities for career growth and continuous learning\nâ¢ Competitive salary and company benefits\nâ¢ Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)\n \nBinance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.\nBy submitting a job application, you confirm that you have read and agree to our  Candidate Privacy Notice . This offer from \"Binance\" has been enriched by Jobgether.com and got a 0% flex score.",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "576e78fb59a11092",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6ab6a3cc865119c687f325de-binance-accelerator-programm---software-engineer-kyb",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "fresher",
+"junior_title": false,
+"score": 65,
+"role_family": "Software",
+"reason": "Recent-graduate backend internship; eligible and good foundational software fit.",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-jobgether-1ddcbab209a4",
+"source": "jobgether",
+"title": "Software Engineer (Remote)",
+"company": "Careway Health",
+"location": "YE | IQ | SA | IR | SY | AM | JO | LB | KW | OM | QA | BH | AE | IL | TR | AF | PK | BD | TM | TJ | LK | BT | IN | MV | IO | NP | MM | UZ | KZ | KG | HM | CC | PW | VN | TH | ID | LA | TW | PH | MY | CN | HK | BN | MO | KH | KR | JP | KP | SG | CK | TL | RU | MN | AU | CX | MH | FM | PG | SB | TV | NR | VU | NC | NF | NZ | FJ | PF | PN | KI | TK | TO | WF | WS | NU | GU | AS | PS | YE | IQ | SA | IR | SY | AM | JO | LB | KW | OM | QA | BH | AE | IL | TR | AF | PK | BD | TM | TJ | LK | BT | IN | MV | IO | NP | MM | UZ | KZ | KG | CC | VN | TH | ID | LA | TW | PH | MY | CN | HK | BN | MO | KH | KR | JP | KP | SG | TL | RU | MN | CX | PS | AF | PK | BD | LK | BT | IN | MV | NP",
+"url": "https://jobgether.com/offer/6ab65c1c865119c687efcbf3-software-engineer-remote",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": "Fri Sep 25",
+"is_remote": true,
+"description": "This a Full Remote job, the offer is available from: APAC, Asia, South Asia, India\nAbout Careway\nOur mission is to help seniors overcome complex health and social challenges, improve their long-term well-being, and maximize independence. We believe every senior deserves to have a dedicated advocate in their corner.\nWe are building an advocacy-first telehealth platform to democratize access to high-quality care and reach patients right where they are. Our physicians and Health Advocates work together to help patients untangle the U.S. healthcare system, overcome social determinant barriers, and make confident, informed decisions. Underpinning our platform is software + AI that superpowers our advocates and operations.\nWe're a small team. The founders are a former Google engineering manager, a former AI product and operations lead, and a physician with 30+ years of experience. We're early, we move fast, and we're writing the software that runs the whole care model.\nAbout the Role\nWe're building an AI-native EHR. This isn't a chatbot stapled onto an old product â AI is built into how the system works, and it's a big part of what makes our care model possible.\nYou'll own features start to finish: the design discussion, the code, and then watching real users use it. The work moves around a lot. Some weeks you're deep in the AI side of the product; other weeks you're modeling a new part of the patient record or hammering out simplified billing workflows. We expect you to use AI to write code. Coding agents are part of how we work, and we'll set you up to get a lot out of them.\nWe care more about how you think than what's on your resume. Strong fundamentals, curiosity, and comfort working without a finished playbook matter more here than any specific framework.\nWhat You'll Do\nBuild the EHR: Create features and systems that superpower our practitioners to do their best work as well as enable the platform to scale.\nTake a problem from idea to production - we ship continuously and every day.\nUse AI to get more done, and help us get better at building this way.\nKeep the codebase healthy. Refactor, fix, and care about reliability; people's healthcare runs on this.\nGo wherever the feature needs you: frontend, data layer, background jobs, infra.\nWhat You'll Bring\nStrong fundamentals. You can model data well, design a sane API, debug something hard, and write code other people are happy to work in. We weigh this over any particular stack.\nBackend experience with Python and Django.\nYou already build with AI and want to build with it more. You're comfortable with LLMs and prompting, or you'll get there fast, and you have a sense for where AI helps and where it's just noise.\nA bias toward shipping. You take ownership, follow through, and don't need a big org around you to get things done.\nGood judgment and clear communication. You can explain your reasoning, push on a design, and take feedback well.\nWe value curiosity, drive, and potential. If your instincts are good, we'll invest in your growth.\nNice-to-Haves\nYou've shipped LLM features in production.\nHealthcare, EHR, or FHIR experience (or interest in the domain).\nYou've worked at a startup or somewhere fast-moving.\nComfortable in a server-rendered frontend.\nExperience with Postgres and Redis.\nCompensation\nCompensation for this role will be highly competitive and reflective of your experience and the value you bring to the team. You'll be joining a small group working at the core of a mission-driven company, with the potential for rapid growth and significant impact.\nInterested?\nWe're a small team building something new in service of keeping seniors healthy. If that sounds like your kind of work, we'd like to hear from you.\nThis offer from \"Careway Health\" has been enriched by Jobgether.com and got a 0% flex score.",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "59d7c7e43e9a766c",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6ab65c1c865119c687efcbf3-software-engineer-remote",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "0-1",
+"junior_title": false,
+"score": 71,
+"role_family": "Software",
+"reason": "Remote India software role with AI-native EHR work and full-stack ownership.",
+"drafts": {
+"note": "Hi {name}, applying for the Software Engineer role at Careway Health. I built a FastAPI AI tool and worked on a GenAI assistant across 30 reports. Could you take a quick look at my profile?",
+"dm": "Hi {name}, I’m applying for the Software Engineer role at Careway Health. My background lines up well with the mix of backend and AI work in the role: at MAQ Software, I worked on the AI Assistant for Power BI across 30 production reports, including testing, evaluation, and deployment, and I built TestForge, a Python/FastAPI agent that generates Azure DevOps test cases. I’m comfortable building with LLMs and prompts, and I like shipping practical tools. If it’s helpful, could you take a quick look at my profile and let me know if I’d be a fit for the team?",
+"email_subject": "Application for Software Engineer role at Careway Health",
+"email_body": "Hi {name},\n\nI’m applying for the Software Engineer role at Careway Health. The role stood out because it combines backend fundamentals with building practical AI features.\n\nAt MAQ Software, I worked on the AI Assistant for Power BI across 30 production reports, including validation, evaluation, onboarding, and deployment. I also built TestForge, a Python/FastAPI agent that generates Azure DevOps test cases, which gave me hands-on experience building with LLMs in a product-oriented workflow.\n\nI’d appreciate it if you could take a quick look at my profile and let me know whether my background could be a fit for the team.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The message is slightly generic and doesn’t mention Careway Health’s specific mission or AI-native EHR focus, so it could fit many companies.",
+"It includes a claim about being “comfortable building with LLMs and prompts”; that is supported generally, but the phrasing is broad and not tied to a concrete profile proof point.",
+"The ask is a bit unclear/soft: “take a quick look at my profile and let me know whether my background could be a fit” is less direct than a single clear ask for a referral or quick review.",
+"Length check: the DM appears to be over the 60–110 word limit, and the email body appears to be over the 90–150 word limit."
+]
+},
+"status": "active"
+},
+{
+"id": "site-jobgether-9989aa06c4d2",
+"source": "jobgether",
+"title": "Software Engineer: Backend",
+"company": "Whippy",
+"location": "Remote (RW, SO, YE, IQ, SA, IR, CY, TZ, SY, AM, KE, CD, DJ, UG, CF, SC, JO, LB, KW, OM, QA, BH, AE, IL, TR, ET, ER, EG, SD, GR, BI, EE, LV, AZ, LT, SJ, GE, MD, BY, FI, UA, MK, HU, BG, AL, PL, RO, XK, ZW, ZM, KM, MW, LS, BW, MU, SZ, RE, ZA, YT, MZ, MG, AF, PK, BD, TM, TJ, LK, BT, IN, MV, IO, NP, MM, UZ, KZ, KG, TF, HM, CC, PW, VN, TH, ID, LA, TW, PH, MY, CN, HK, BN, MO, KH, KR, JP, KP, SG, CK, TL, RU, MN, AU, CX, MH, FM, PG, SB, TV, NR, VU, NC, NF, NZ, FJ, LY, CM, SN, CG, PT, LR, CI, GH, GQ, NG, BF, TG, GW, MR, BJ, GA, SL, ST, GI, GM, GN, TD, NE, ML, EH, TN, ES, MA, MT, DZ, FO, DK, IS, GB, CH, SE, NL, AT, BE, DE, LU, IE, MC, FR, AD, LI, JE, IM, GG, SK, CZ, NO, SM, IT, SI, ME, HR, BA, AO, NA, SH, BV, BB, CV, GY, GF, SR, PM, GL, PY, UY, BR, FK, GS, JM, DO, CU, MQ, BS, BM, AI, TT, KN, DM, AG, LC, TC, AW, VG, VC, MS, MF, BL, GP, GD, KY, BZ, SV, GT, HN, NI, CR, VE, EC, CO, PA, HT, AR, CL, BO, PE, MX, PF, PN, KI, TK, TO, WF, WS, NU, MP, GU, PR, VI, UM, AS, CA, PS, RS, SX, CW, BQ, SS, AL, AK, AZ, AR, CA, CO, CT, DE, DC, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY)",
+"url": "https://jobgether.com/offer/6ab631cc865119c687edcd72-software-engineer-backend",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": "Fri Sep 25",
+"is_remote": true,
+"description": "This a Full Remote job, the offer is available from: Anywhere\nWhippy is leading the way in AI-powered business communication, transforming how companies engage with customers using intelligent AI Agents. From customer support to marketing to sales, businesses rely on Whippyâs Voice AI and Chat AI to eliminate manual workflowsâresponding to inquiries, nurturing leads, screening job applicants, and automating high-value interactions at scale. By combining AI-driven messaging with omni-channel automation, Whippy replaces outdated tools with a single, powerful platform that helps businesses work smarter, faster, and more efficiently.\nAbout the Role\nAs a Backend Engineer at Whippy you will:\nCraft highly scalable and intuitive APIs to rapidly deploy new products and services.\nWrite Engineering Requirement Documents to take something from idea, to defined tasks, to implementation, to roll out and evaluating its success.\nBuild test suites that help us effectively maintain product performance and reliability, and integrate product analytics to measure the success of the features your launch.\nSome backend engineers have built.\nA Public API and webhook interface to process 100s of millions of messages\nA query language on top of Postgres and OpenSearch\nA production link shortening URL service with custom domains support\nAbout you\nA strong understanding of web api architecture to high quality and well document APIs.\nA desire to be a part of the entire project development process. From research gathering and planning, to implementation and monitoring.\nGreat written and verbal communication skills for expressing ideas, designs, and potential solutions in mostly-asynchronous manner.\nWhat we offer?\nCompensation is $60K-$80K/year based on experience\nOpportunity to take on significant responsibility and ownership in a highly disruptive product.\nWorking hands-on with serial entrepreneurs who have created $100M+ valued companies\nWhat to know?\nTo provide transparency, here are some important points to note about the position:\nWe are a startup, and our team dynamics differ from those of companies in different sizes and stages. Our team is distributed across the globe, and this distributed nature will continue to grow. This means that there is always something happening, so effective time management in a remote and asynchronous engineering environment is essential.\nWhile English is the second language for many engineers on the team, fluency in written English is a requirement. While a very high degree of fluency in spoken English is also a plus, if you are not confident in your written English ability, please do not apply.\nWe do not ask applicants to complete take-home assignments or participate in âleetcodeâ style interviews. However, we do require a two-week full-time or four-week part-time fully paid âwork trialâ of âmutual assessment.â More details about this mutual assessment period are outlined below. If you are unable to commit to this, please do not apply.\nWe hire globally regardless of timezone, but we have team meetings on Mondays, Wednesday and Fridays at 2:30 pm GMT. If you are unable to be online during these hours, please do not apply.\nPay is determined by role, level, location, and alignment with market data. Individual pay will be determined on a case-by-case basis and may vary based on the following considerations: interviews and an assessment of several factors that are unique to each candidate, job-related skills, relevant education and experience, certifications, and abilities of the candidate.\nWhatâs the process?\nHere's the entire process if selected after a CV screen.\nSubmit your Resume or CV\nVideo call to talk about your experience and the role.\n2 week full time paid work trial.\nMeet the team and review work.\nFull Time Position Offer extended.\nHow does the paid assessment period work?\nBefore the trial weâll discuss some options for a two week project. Weâll agree on the scope of the project before you star",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "2c44e5fd6dc8862b",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6ab631cc865119c687edcd72-software-engineer-backend",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "0-1",
+"junior_title": false,
+"score": 74,
+"role_family": "Software",
+"reason": "Backend AI communications role; APIs, testing, and product ownership align well.",
+"drafts": {
+"note": "Hi {name}, applying for Backend Engineer at Whippy. Built a FastAPI tool that delivered 100% schema-valid test cases and worked on GenAI systems at MAQ. Open to a quick profile review?",
+"dm": "Hi {name}, I’m applying for the Backend Engineer role at Whippy. My background lines up with the API and reliability side of the role: I built TestForge, a Python/FastAPI agentic test-case generator that produced 100% schema-valid test cases on a 20-scenario benchmark, and at MAQ Software I’ve worked on production GenAI systems, including deployments across 30 Power BI reports. I also like the async, end-to-end ownership Whippy describes, from defining tasks to rollout and evaluation. If you’re open to it, I’d appreciate a quick look at my profile or a referral.",
+"email_subject": "Application for Backend Engineer at Whippy",
+"email_body": "Hi {name},\n\nI’m applying for the Backend Engineer role at Whippy. My experience lines up well with the API and reliability focus in the job description. I built TestForge, a Python/FastAPI agentic test-case generator that produced 100% schema-valid test cases on a 20-scenario benchmark, which maps closely to building well-structured backend systems and strong test coverage. At MAQ Software, I’ve also worked on production GenAI systems, including deployments across 30 Power BI reports, which gave me experience with rollout, validation, and working carefully in production contexts.\n\nWhippy’s mix of scalable APIs, product ownership, and async remote collaboration is exactly the kind of environment I’m targeting. If you’re open to it, I’d appreciate a quick look at my profile or a referral.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": true,
+"problems": []
+},
+"status": "active"
+},
+{
+"id": "site-jobgether-ac3e8aa38ccd",
+"source": "jobgether",
+"title": "Software Engineer: Frontend",
+"company": "Whippy",
+"location": "Remote (RW, SO, YE, IQ, SA, IR, CY, TZ, SY, AM, KE, CD, DJ, UG, CF, SC, JO, LB, KW, OM, QA, BH, AE, IL, TR, ET, ER, EG, SD, GR, BI, EE, LV, AZ, LT, SJ, GE, MD, BY, FI, UA, MK, HU, BG, AL, PL, RO, XK, ZW, ZM, KM, MW, LS, BW, MU, SZ, RE, ZA, YT, MZ, MG, AF, PK, BD, TM, TJ, LK, BT, IN, MV, IO, NP, MM, UZ, KZ, KG, TF, HM, CC, PW, VN, TH, ID, LA, TW, PH, MY, CN, HK, BN, MO, KH, KR, JP, KP, SG, CK, TL, RU, MN, AU, CX, MH, FM, PG, SB, TV, NR, VU, NC, NF, NZ, FJ, LY, CM, SN, CG, PT, LR, CI, GH, GQ, NG, BF, TG, GW, MR, BJ, GA, SL, ST, GI, GM, GN, TD, NE, ML, EH, TN, ES, MA, MT, DZ, FO, DK, IS, GB, CH, SE, NL, AT, BE, DE, LU, IE, MC, FR, AD, LI, JE, IM, GG, SK, CZ, NO, SM, IT, SI, ME, HR, BA, AO, NA, SH, BV, BB, CV, GY, GF, SR, PM, GL, PY, UY, BR, FK, GS, JM, DO, CU, MQ, BS, BM, AI, TT, KN, DM, AG, LC, TC, AW, VG, VC, MS, MF, BL, GP, GD, KY, BZ, SV, GT, HN, NI, CR, VE, EC, CO, PA, HT, AR, CL, BO, PE, MX, PF, PN, KI, TK, TO, WF, WS, NU, MP, GU, PR, VI, UM, AS, CA, PS, RS, SX, CW, BQ, SS, AL, AK, AZ, AR, CA, CO, CT, DE, DC, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY)",
+"url": "https://jobgether.com/offer/6ab631cc865119c687edcd74-software-engineer-frontend",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": "Fri Sep 25",
+"is_remote": true,
+"description": "This a Full Remote job, the offer is available from: Anywhere\nWhippy is leading the way in AI-powered business communication, transforming how companies engage with customers using intelligent AI Agents. From customer support to marketing to sales, businesses rely on Whippyâs Voice AI and Chat AI to eliminate manual workflowsâresponding to inquiries, nurturing leads, screening job applicants, and automating high-value interactions at scale. By combining AI-driven messaging with omni-channel automation, Whippy replaces outdated tools with a single, powerful platform that helps businesses work smarter, faster, and more efficiently.\nâ¡About the Role\nAs a Frontend Engineer at Whippy, you will:\nCraft intuitive interfaces that allow our users to interact with powerful communication paradigms.\nWrite Engineering Requirement Documents to take something from idea, through defined tasks, to implementation, roll out, and evaluation of its success.\nBuild unit and end-to-end test suites that help us effectively maintain product performance and reliability, and integrate product analytics to measure the success of the features you launch.\nSome frontend engineers have built:\nOur React Native mobile app from the ground up on their own.\nA SQL-style data filtering GUI that interfaces with our flexible backend APIs.\nA spreadsheet-style data grid for real-time marketing analytics.\nA design system built with Radix UI and Stitches.\nð¯About you\nA strong understanding of frontend architecture to build interactivity-rich systems for fetching, mutating, and rendering data effectively.\nA desire to be a part of the entire project development process. From research gathering and planning, to implementation and monitoring.\nGreat written and verbal communication skills for expressing ideas, designs, and potential solutions in a mostly-asynchronous manner.\nð What we offer?\nCompensation is $60K-$80K/year based on experience\nOpportunity to take on significant responsibility and ownership in a highly disruptive product.\nWorking hands-on with serial entrepreneurs who have created $100M+ valued companies.\nWhat to know?\nTo provide transparency, here are some important points to note about the position:\nWe are a startup, and our team dynamics differ from those of companies of different sizes and stages. Our team is distributed across the globe, and this distributed nature will continue to grow. This means that there is always something happening, so effective time management in a remote and asynchronous engineering environment is essential.\nWhile English is the second language for many engineers on the team, fluency in written English is a requirement. While fluency in spoken English is also a plus, if you are not confident in your written English ability, please do not apply.\nWe do not ask applicants to complete take-home assignments or participate in âleetcodeâ style interviews. However, we do require a two-week full-time or four-week part-time fully paid âwork trialâ of âmutual assessment.â More details about this mutual assessment period are outlined below. If you are unable to commit to this, please do not apply.\nWe hire globally regardless of timezone, but we have team meetings on Mondays and Fridays at 2:30 pm GMT. If you are unable to be online during these hours, please do not apply.\nPay is determined by role, level, location, and alignment with market data. Individual pay will be determined on a case-by-case basis and may vary based on the following considerations: interviews and an assessment of several factors that are unique to each candidate, job-related skills, relevant education and experience, certifications, and abilities of the candidate.\nWhatâs the process?\nSubmit your Resume or CV\nVideo call to talk about your experience and the role.\n2-week full-time paid work trial.\nMeet the team and review work.\nFull Time Position Offer extended.\nHow does the paid assessment period work?\nBefore the trial, weâll discuss some options f",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "56d2f1ef5237bae1",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6ab631cc865119c687edcd74-software-engineer-frontend",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "0-1",
+"junior_title": false,
+"score": 62,
+"role_family": "Software",
+"reason": "Frontend role is eligible, but weaker match versus backend/AI strengths.",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-jobgether-f4b8dec73801",
+"source": "jobgether",
+"title": "Data Engineers",
+"company": "VIZX International",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6ab1be55865119c687d86e67-data-engineers",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "de28822160cd5099",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6ab1be55865119c687d86e67-data-engineers",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 78,
+"role_family": "Data Engineering",
+"reason": "India remote data engineer role; likely solid match, experience unclear.",
+"drafts": {
+"note": "Hi {name}, applying for Data Engineer at VIZX International. Built a Fabric Lakehouse with incremental loads and zero duplicates. Open to a quick look at my profile?",
+"dm": "Hi {name}, I’m applying for the Data Engineer role at VIZX International. My background lines up well with data pipeline and quality work: at MAQ Software, I trained on Azure Data Factory, Azure SQL, Synapse, PySpark, and Delta Lake, and in my RetailPulse project I built a Fabric medallion Lakehouse with watermark-based incremental loads, 100% idempotent re-runs, and zero duplicates. I’ve also used PySpark validation for fact-dimension joins and worked with star schema design. If helpful, would you be open to a quick look at my profile and let me know if I’m a fit for the team?",
+"email_subject": "Applying for Data Engineer at VIZX International",
+"email_body": "Hi {name},\n\nI’m applying for the Data Engineer role at VIZX International. My experience aligns closely with building reliable data pipelines and maintaining data quality. At MAQ Software, I trained on Azure Data Factory, Azure SQL, Synapse Analytics, PySpark, and Delta Lake. In my RetailPulse project, I built a Fabric medallion Lakehouse with watermark-based incremental loads, 100% idempotent re-runs, and zero duplicates. I also used PySpark validation for fact-dimension joins and designed a 5-table star schema.\n\nI’d appreciate it if you could take a quick look at my profile and let me know whether my background fits the role.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": true,
+"problems": []
+},
+"status": "active"
+},
+{
+"id": "site-jobgether-a9cf52a7a19d",
+"source": "jobgether",
+"title": "Data Engineer",
+"company": "Protagona",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6a63068f1b23f4f87b35b9be-data-engineer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "38d7c0eb60811757",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a63068f1b23f4f87b35b9be-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 78,
+"role_family": "Data Engineering",
+"reason": "India remote data engineer role; likely relevant, requirements not shown.",
+"drafts": {
+"note": "Hi {name}, applying for the Remote Data Engineer role at Protagona. I built a Fabric Lakehouse with incremental loads and zero duplicates—would you refer me if it fits this role?",
+"dm": "Hi {name}, I’m applying for Protagona’s Remote Data Engineer role. At MAQ Software, I’ve worked on Azure and Fabric data workflows, and in my RetailPulse project I built a medallion Lakehouse with a 5-table star schema, watermark-based incremental loads, and 100% idempotent re-runs with zero duplicates. That lines up well with core data engineering work in remote production environments. If this looks like a fit for Protagona’s Data Engineer role, would you refer me for the position?",
+"email_subject": "Referral request: Data Engineer at Protagona",
+"email_body": "Hi {name},\n\nI’m applying for Protagona’s Remote Data Engineer role and wanted to reach out directly. At MAQ Software, I’ve trained on Azure and Microsoft Fabric data workflows, including Azure Data Factory, Azure SQL, Synapse Analytics, and PySpark. In my RetailPulse project, I built a medallion Lakehouse with a 5-table star schema, watermark-based incremental loads, and 100% idempotent re-runs with zero duplicates, along with PySpark validation for fact-dimension joins.\n\nThat experience maps well to hands-on pipeline, modeling, and data quality work. If you think my background fits Protagona’s Data Engineer role, would you refer me for the position?\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": true,
+"problems": []
+},
+"status": "active"
+},
+{
+"id": "site-jobgether-7edb706fa092",
+"source": "jobgether",
+"title": "Data Engineer (Voice/Video)",
+"company": "Shuru",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6aa9f16db563ea142eb0590e-data-engineer-voice-video",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "4bf5fbcdc4226168",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6aa9f16db563ea142eb0590e-data-engineer-voice-video",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 72,
+"role_family": "Data Engineering",
+"reason": "Data engineering role, but voice/video domain may reduce fit.",
+"drafts": {
+"note": "Hi {name}, applying for the Data Engineer role at Shuru. I built a Fabric Lakehouse with idempotent incremental loads and zero duplicates. Open to a quick profile review?",
+"dm": "Hi {name}, I’m applying for the Data Engineer role at Shuru. My background is strongest in data pipelines and quality: at MAQ Software, I trained on Azure Data Factory, Azure SQL, Synapse, PySpark, and Delta Lake, and in my RetailPulse project I built a medallion Lakehouse with a 5-table star schema, watermark-based incremental loads, 100% idempotent re-runs, and zero duplicates. I also added PySpark validation for fact-dimension joins and reduced failure root-cause time to under 5 minutes. If helpful, could you take a quick look at my profile and let me know if it fits the role?",
+"email_subject": "Applying for Data Engineer at Shuru",
+"email_body": "Hi {name},\n\nI’m applying for the Data Engineer role at Shuru. My background is strongest in pipeline design, data quality, and analytics engineering. At MAQ Software, I trained on Azure Data Factory, Azure SQL, Synapse, PySpark, and Delta Lake. In my RetailPulse project, I built a medallion Lakehouse with a 5-table star schema, watermark-based incremental loads, 100% idempotent re-runs, and zero duplicates. I also added PySpark validation for fact-dimension joins and brought failure root-cause time under 5 minutes.\n\nIf you have a minute, could you take a quick look at my profile and let me know whether my background fits the role?\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"Role/company-specific fit is incomplete: the company is Shuru and the role is Data Engineer (Voice/Video), but the message never references the voice/video aspect, so it feels generic for a data engineering role.",
+"Length check: the note is within 200 characters, but the dm appears to be under the required 60–110 words? Actually it is likely over 110 words; the email body also appears over the 90–150 word limit."
+]
+},
+"status": "active"
+},
+{
+"id": "site-jobgether-4f1410af7887",
+"source": "jobgether",
+"title": "Data Engineer (Snowflake)",
+"company": "Shuru",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6aa9f16db563ea142eb0591e-data-engineer-snowflake",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "e68959edd80b185c",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6aa9f16db563ea142eb0591e-data-engineer-snowflake",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 80,
+"role_family": "Data Engineering",
+"reason": "Snowflake data engineer role fits ETL, SQL, and platform experience.",
+"drafts": {
+"note": "Hi {name}, applying for the Data Engineer (Snowflake) role at Shuru. I built a Fabric Lakehouse with idempotent incremental loads and zero duplicates. Open to a quick profile review?",
+"dm": "Hi {name}, I’m applying for the Data Engineer (Snowflake) role at Shuru. My closest fit is in data platform work: at MAQ Software I trained on Azure Data Factory, Azure SQL, Synapse, PySpark, and Delta Lake, and in my RetailPulse project I built a medallion Lakehouse with watermark-based incremental loads, 100% idempotent re-runs, zero duplicates, and PySpark validation across fact-dimension joins. I know this is a Snowflake role, but the core work around reliable pipelines, data modeling, and data quality is where I’ve been strongest. Could you take a quick look at my profile and let me know if it fits the team?",
+"email_subject": "Applying: Data Engineer (Snowflake) at Shuru",
+"email_body": "Hi {name},\n\nI’m applying for the Data Engineer (Snowflake) role at Shuru. My background is strongest in building reliable data pipelines and data models, which looks closely aligned with the role even though my hands-on stack is more Azure/Fabric than Snowflake.\n\nAt MAQ Software, I trained on Azure Data Factory, Azure SQL, Synapse, PySpark, and Delta Lake. In my RetailPulse project, I built a medallion Lakehouse with a 5-table star schema, watermark-based incremental loads, 100% idempotent re-runs, zero duplicates, and PySpark validation for fact-dimension joins. That combination maps well to core data engineering work around pipeline reliability, data quality, and modeling.\n\nCould you take a quick look at my profile and let me know if it fits the team?\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The company/role fit is a bit generic in the note and DM/email because it doesn’t mention any Shuru-specific context beyond the title; however, this is acceptable only if the message is clearly targeted. More importantly, the note is under the required 200-character limit? It appears to be 148 chars, so fine. The DM is 100+ words and the email body is around 127 words, both within limits.",
+"A claim about the candidate is slightly unsupported in the DM/email: “my hands-on stack is more Azure/Fabric than Snowflake” is an inference, but the profile does support that he has Azure/Fabric experience and no Snowflake experience. This is okay.",
+"No grammar/spelling issues, but the note is too generic for outreach: it lacks a specific ask tied to Shuru beyond a profile review, and the role/company mention is repeated without a stronger hook."
+]
+},
+"status": "active"
+},
+{
+"id": "site-jobgether-7af1e9162c41",
+"source": "jobgether",
+"title": "Data Engineer",
+"company": "Advancio",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6a9833170875ca77c4bce6a3-data-engineer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "aa9fa6a522196eea",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a9833170875ca77c4bce6a3-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 76,
+"role_family": "Data Engineering",
+"reason": "Remote India data engineer role likely relevant; details missing.",
+"drafts": {
+"note": "Hi {name}, I’m applying for the Data Engineer role at Advancio. At MAQ, I worked on Azure/Fabric data workflows and built a Delta Lakehouse project. Open to connecting?",
+"dm": "Hi {name}, I’m applying for the Data Engineer role at Advancio. My current work at MAQ includes training on Azure Data Factory, Azure SQL, Synapse Analytics, PySpark, and a Bronze/Silver/Gold Lakehouse on Delta Lake. I also built RetailPulse, a Fabric data engineering project with a medallion Lakehouse, incremental loads, idempotent re-runs, and PySpark data validation. That lines up closely with the ETL, data modeling, and quality side of this role. If you’re open to it, could you take a quick look at my profile and let me know if my background fits what the team needs?",
+"email_subject": "Applying for Data Engineer at Advancio",
+"email_body": "Hi {name},\n\nI’m applying for the Data Engineer role at Advancio. My current work at MAQ includes training on Azure Data Factory, Azure SQL, Synapse Analytics, PySpark, and a Bronze/Silver/Gold Lakehouse on Delta Lake. I also built RetailPulse, a Microsoft Fabric data engineering project with a medallion Lakehouse, watermark-based incremental loads, idempotent re-runs, and PySpark validation for fact-dimension joins.\n\nThat experience maps well to the ETL, data modeling, and data quality work in this role. If you’re open to it, I’d appreciate a quick look at my profile to see whether my background is a fit for the team.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": true,
+"problems": []
+},
+"status": "active"
+},
+{
+"id": "site-jobgether-dd8cd5c77aba",
+"source": "jobgether",
+"title": "Data Engineer",
+"company": "Genesis Consulting Partners, LLC",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6a9833170875ca77c4bce6b9-data-engineer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "acfd740282c4b858",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a9833170875ca77c4bce6b9-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 74,
+"role_family": "Data Engineering",
+"reason": "Remote India data engineer role; likely relevant, but no requirements provided.",
+"drafts": {
+"note": "Hi {name}, I’m applying for the Data Engineer role at Genesis Consulting Partners. I built a Fabric Lakehouse with incremental PySpark pipelines. Open to a quick profile review?",
+"dm": "Hi {name}, I’m applying for the Data Engineer role at Genesis Consulting Partners, LLC. At MAQ Software, I worked on Azure and Fabric pipelines in training, including Azure Data Factory, Azure SQL, Synapse, PySpark, and a Bronze/Silver/Gold Lakehouse on Delta Lake. I also built RetailPulse, a Fabric data platform with watermark-based incremental loads, idempotent re-runs, zero duplicates, and PySpark data validation. Since this role is remote in India, I wanted to ask directly: would you be open to referring me for the position?",
+"email_subject": "Application for Data Engineer at Genesis Consulting Partners",
+"email_body": "Hi {name},\n\nI’m applying for the Data Engineer role at Genesis Consulting Partners, LLC. My recent work and projects are closely tied to the stack this role calls for. At MAQ Software, I trained on Azure and Fabric data engineering, including Azure Data Factory, Azure SQL, Synapse Analytics, PySpark, and a Bronze/Silver/Gold Lakehouse on Delta Lake. I also built RetailPulse, a Fabric data platform with a medallion Lakehouse, watermark-based incremental loads, idempotent re-runs with zero duplicates, and PySpark validation across fact-dimension joins.\n\nI’d appreciate a referral for the role if you think my experience is a fit.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The message is too generic for the company/role context because the job description is blank and the note/email don’t reference any Genesis Consulting Partners specifics beyond the role title.",
+"The DM is likely too long for a 60–110 word limit.",
+"The note is under 200 characters, but the DM/email need tighter wording to fit outreach constraints more clearly."
+]
+},
+"status": "active"
+},
+{
+"id": "site-jobgether-2e2c7ffa0465",
+"source": "jobgether",
+"title": "Data Engineer",
+"company": "Birdie HR",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6a9f817bb563ea142e84eb60-data-engineer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "5dbefc12ef1d496b",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a9f817bb563ea142e84eb60-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 72,
+"role_family": "Data Engineering",
+"reason": "Remote India data engineer role; strong Fabric, PySpark, Delta Lake fit.",
+"drafts": {
+"note": "Hi {name}, I'm applying for the Data Engineer role at Birdie HR. I built a Fabric Lakehouse with incremental loads and zero-duplicate reruns. Could you take a quick look at my profile?",
+"dm": "Hi {name}, I’m applying for the Data Engineer role at Birdie HR. At MAQ Software, I’ve worked on Azure and Fabric, and in my RetailPulse project I built a medallion Lakehouse with a 5-table star schema, watermark-based incremental loads, and 100% idempotent reruns with zero duplicates. I also used PySpark to validate fact-dimension joins and improve failure root-cause time to under 5 minutes. Since Birdie HR is hiring for Data Engineer talent, could you take a quick look at my profile and let me know if I’d be a fit for the team?",
+"email_subject": "Data Engineer application - Birdie HR",
+"email_body": "Hi {name},\n\nI’m applying for the Data Engineer role at Birdie HR. My recent work is closest to Fabric and data pipeline engineering: at MAQ Software, I trained on Azure and Fabric, and in my RetailPulse project I built a medallion Lakehouse with a 5-table star schema, watermark-based incremental loads, and 100% idempotent reruns with zero duplicates. I also used PySpark to validate fact-dimension joins and reduced failure root-cause time to under 5 minutes.\n\nI’d appreciate it if you could take a quick look at my profile and let me know whether my background fits what Birdie HR needs for this role.\n\nBest,\nKousik Maity\nLinkedIn: https://www.linkedin.com/in/kousik-maity/\nGitHub: https://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The company/role are generic enough in the note and email ask; they should be more specifically tied to Birdie HR’s Data Engineer role and why this fit matters.",
+"The claim \"I’m applying\" is fine, but \"Birdie HR is hiring for Data Engineer talent\" sounds awkward and generic; the ask should be a clear referral or quick review request.",
+"The note is under 200 characters, but the DM is 118 words, which exceeds the 60–110 word limit.",
+"The email body is 102 words, which is within limit, but the message could be tighter and more specific to Birdie HR."
+]
+},
+"status": "active"
+},
+{
+"id": "site-jobgether-e7d1561c25f7",
+"source": "jobgether",
+"title": "DATA ENGINEER",
+"company": "Black Pearl Consult",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6a7fcf62490731f1e1a212ce-data-engineer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "45c7d9ae85dcd6a2",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a7fcf62490731f1e1a212ce-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 70,
+"role_family": "Data Engineering",
+"reason": "Remote data engineer role; aligns with SQL, ETL, and PySpark experience.",
+"drafts": {
+"note": "Hi {name}, I’m interested in the Data Engineer role at Black Pearl Consult. I built a Fabric Lakehouse with idempotent incremental loads and zero duplicates. Open to connecting?",
+"dm": "Hi {name}, I’m reaching out about the Data Engineer role at Black Pearl Consult. At MAQ Software, I’ve worked with Azure Data Factory, Azure SQL, Synapse, PySpark, and Delta Lake in training, and I built RetailPulse, a Fabric data platform with a medallion Lakehouse, incremental loads, and PySpark data validation. That lines up well with data pipeline and quality-focused engineering work. I’m applying for the role and would value a referral if my background looks like a fit.",
+"email_subject": "Data Engineer role at Black Pearl Consult",
+"email_body": "Hi {name},\n\nI’m reaching out about the Data Engineer role at Black Pearl Consult. My background is closely aligned with data platform and pipeline work: at MAQ Software, I trained on Azure Data Factory, Azure SQL, Synapse, PySpark, and Delta Lake, and I built RetailPulse, a Microsoft Fabric project with a medallion Lakehouse, watermark-based incremental loads, zero-duplicate re-runs, and PySpark validation across fact-dimension joins.\n\nI’m applying for the role because that mix of ETL/ELT, data quality, and lakehouse design matches my recent work well. If my background looks relevant, would you be open to referring me for the role?\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": true,
+"problems": []
+},
+"status": "active"
+},
+{
+"id": "site-jobgether-324407a47531",
+"source": "jobgether",
+"title": "Data Engineer",
+"company": "Initiate Government Solutions, LLC.",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6a74b69d490731f1e1876dd4-data-engineer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "bbdf6294ee71cfdd",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a74b69d490731f1e1876dd4-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 68,
+"role_family": "Data Engineering",
+"reason": "Remote data engineer role; good match if analytics stack is included.",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-jobgether-ee3ba4ac7d83",
+"source": "jobgether",
+"title": "Data Engineer",
+"company": "Awign",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6a6ab7511b23f4f87b466471-data-engineer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "3baeb9dbc8529200",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a6ab7511b23f4f87b466471-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 71,
+"role_family": "Data Engineering",
+"reason": "Remote data engineer role; Fabric and incremental load experience matches well.",
+"drafts": {
+"note": "Hi {name}, applying for the Data Engineer role at Awign. I built a Fabric Lakehouse with idempotent incremental loads and zero duplicates. Open to a quick profile review?",
+"dm": "Hi {name}, I’m applying for the Data Engineer role at Awign. At MAQ Software, I’ve worked on Azure and Fabric data engineering, including Azure Data Factory, Azure SQL, Synapse Analytics, and PySpark. I also built RetailPulse, a Fabric Lakehouse project with a 5-table star schema, watermark-based incremental loads, 100% idempotent re-runs, and zero duplicates. That lines up well with data pipeline and data quality work. Could you take a quick look at my profile and see if I’m a fit for the role?",
+"email_subject": "Applying for Data Engineer at Awign",
+"email_body": "Hi {name},\n\nI’m applying for the Data Engineer role at Awign and wanted to reach out directly. At MAQ Software, I’ve trained and worked on Azure and Fabric data engineering tools including Azure Data Factory, Azure SQL, Synapse Analytics, and PySpark. I also built RetailPulse, a Microsoft Fabric Lakehouse project with a 5-table star schema, watermark-based incremental loads, 100% idempotent re-runs, and zero duplicates.\n\nThat experience maps well to core data engineering work around pipelines, transformations, and data quality. Could you take a quick look at my profile and see if my background fits the role?\n\nBest,\nKousik Maity\nLinkedIn: https://www.linkedin.com/in/kousik-maity/\nGitHub: https://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The company/role is present, but the email body is too generic and does not mention anything specific about Awign or why this role there is a fit.",
+"The note is 17 words, which is within limits, but the DM is 101 words and the email body is 111 words, both within limits; however, the note uses 'applying' instead of a referral/quick look ask and is a bit vague.",
+"The DM and email body make supported claims, but 'I’ve trained and worked on Azure and Fabric data engineering tools' is slightly awkward phrasing and could be tightened for clarity."
+]
+},
+"status": "active"
+},
+{
+"id": "site-jobgether-943506a7c8aa",
+"source": "jobgether",
+"title": "Data Engineer",
+"company": "Perfict",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6a2bc3ae135f3346537f8bc8-data-engineer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "1766701868cba183",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a2bc3ae135f3346537f8bc8-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+},
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a2bc3ae135f3346537f8be2-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+},
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a17636ecd512907df74dada-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 69,
+"role_family": "Data Engineering",
+"reason": "Remote data engineer role; solid overlap with SQL, ETL, and Spark.",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-jobgether-6a83dc27c95a",
+"source": "jobgether",
+"title": "Data Engineer",
+"company": "Intellisoft Technologies",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6a2bc3ac135f3346537f87d0-data-engineer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "ea2decc389af556d",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a2bc3ac135f3346537f87d0-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+},
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a17560dcd512907df743646-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 65,
+"role_family": "Data Engineering",
+"reason": "Remote data engineer role; likely good fit, but requirements are unspecified.",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-jobgether-dcc04788703c",
+"source": "jobgether",
+"title": "Data Engineer",
+"company": "Pull Skill Technologies Inc.",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/69f7863a38c45cc8bc6a0577-data-engineer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "397d43f9878ec0b4",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/69f7863a38c45cc8bc6a0577-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 64,
+"role_family": "Data Engineering",
+"reason": "Remote data engineer role; plausible match, but too little detail to confirm.",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-jobgether-36804e1c85e0",
+"source": "jobgether",
+"title": "Data Engineer",
+"company": "Creative Chaos",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/69d1208c5bd3b40540a872e1-data-engineer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "35ad6bee1a233b94",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/69d1208c5bd3b40540a872e1-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 66,
+"role_family": "Data Engineering",
+"reason": "Remote data engineer role; good technical overlap with Fabric and Spark.",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-jobgether-4da4015444dd",
+"source": "jobgether",
+"title": "Data Engineer",
+"company": "Saaf Finance",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6aa20876b563ea142e8f0ab8-data-engineer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "7aa15faaa49a350b",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6aa20876b563ea142e8f0ab8-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 67,
+"role_family": "Data Engineering",
+"reason": "Remote data engineer role; finance domain may suit SQL and ETL skills.",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-jobgether-ae8631bdc49a",
+"source": "jobgether",
+"title": "Data Engineer (Remote, Freelance)",
+"company": "In Marketing We Trust",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6a9f815eb563ea142e84d022-data-engineer-remote-freelance",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "a0a90da11d4557b8",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a9f815eb563ea142e84d022-data-engineer-remote-freelance",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 58,
+"role_family": "Data Engineering",
+"reason": "Remote freelance data engineer role; lower fit for full-time entry-level target.",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-jobgether-abd8d290e020",
+"source": "jobgether",
+"title": "Data Engineer",
+"company": "Outmarket AI",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6a7feb91490731f1e1a2dc5d-data-engineer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "560f2eda0089a9e3",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a7feb91490731f1e1a2dc5d-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 68,
+"role_family": "Data Engineering",
+"reason": "Remote data engineer role; strong match for analytics engineering background.",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-jobgether-7182b6e5fda8",
+"source": "jobgether",
+"title": "Data Engineer",
+"company": "Luxor Technology",
+"location": "Remote (India)",
+"url": "https://jobgether.com/offer/6a55ad7aac00a71a5a8d8342-data-engineer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": true,
+"description": "",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "5dc170dfa502868e",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a55ad7aac00a71a5a8d8342-data-engineer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 63,
+"role_family": "Data Engineering",
+"reason": "Remote data engineer role; fit is decent, but no requirements provided.",
+"drafts": null,
+"status": "active"
+},
+{
 "id": "wd-mastercard-R-290498-1",
 "source": "workday",
 "title": "Software Engineer",
@@ -74,7 +1096,7 @@
 }
 ],
 "first_seen": "2026-09-28T14:13:44+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -124,7 +1146,7 @@
 }
 ],
 "first_seen": "2026-09-28T14:13:44+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -173,7 +1195,7 @@
 }
 ],
 "first_seen": "2026-09-28T14:13:44+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -271,7 +1293,7 @@
 }
 ],
 "first_seen": "2026-09-28T14:13:44+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -308,7 +1330,7 @@
 }
 ],
 "first_seen": "2026-09-28T14:13:44+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -1827,7 +2849,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -2234,7 +3256,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -2271,7 +3293,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Pune"
 ],
@@ -2308,7 +3330,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -2345,7 +3367,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Pune"
 ],
@@ -2382,7 +3404,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -2419,7 +3441,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -2462,7 +3484,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -2499,7 +3521,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -2536,7 +3558,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -2610,7 +3632,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -2647,7 +3669,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -2684,7 +3706,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -2795,7 +3817,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -2832,7 +3854,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Pune"
 ],
@@ -2869,7 +3891,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -3356,7 +4378,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -3393,7 +4415,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -3430,7 +4452,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -3467,7 +4489,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -3504,7 +4526,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -3689,7 +4711,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -3934,7 +4956,7 @@
 "apply_url": "",
 "posted_at": "Wed Sep 16",
 "is_remote": true,
-"description": "This a Full Remote job, the offer is available from: India\nLet's start with who we are:\nInterviews can be hard. And when it comes to the top tech companies like Google, Facebook, Netflix, etc., they can be downright brutal. Most candidates donât make it simply because they donât prepare well enough. IK helps candidates nail the toughest tech interviews. At IK, current and former hiring managers at these top companies take candidates through an intense prep course to prepare them to crack the toughest Technical interviews. You could think of us as âthe everything storeâ for career transitions and interview skill development.\nHow do we do that, you ask?\nWe have a structured approach to interview success, which includes:\nCareer Accelerator Course\nComprehensive end-to-end courses and platform\nA roster of over 600+ instructors from leading Silicon Valley companies like Google, Facebook, Amazon, and Netflix\nA holistic approach that includes live classes, mock interviews, personalized coaching, resume refinement, career strategies, and invaluable referrals\nWhatâs more exciting is that we are completely remote and hiring the best people we can find who are currently based out of India or wanting to be in India.\nLet's start with who we are:\nInterviews can be hard. And when it comes to the top tech companies like Google, Facebook, Netflix, etc., they can be downright brutal. Most candidates donât make it simply because they donât prepare well enough. IK helps candidates nail the toughest tech interviews. At IK, current and former hiring managers at these top companies take candidates through an intense prep course to prepare them to crack the toughest Technical interviews. You could think of us as âthe everything storeâ for career transitions and interview skill development.\n  How do we do that, you ask?\nWe have a structured approach to interview success, which includes:\nCareer Accelerator Course\nComprehensive end-to-end courses and platform\nA roster of over 600+ instructors from leading Silicon Valley companies like Google, Facebook, Amazon, and Netflix\nA holistic approach that includes live classes, mock interviews, personalized coaching, resume refinement, career strategies, and invaluable referrals\nWhatâs more exciting is that we are completely remote and hiring the best people we can find regardless of geography.\nWhat will you be doing?\nYou will be closely working with a team of other experienced developers and doing pretty much everything, from developing large features to fixing on-call bugs.\nYou will be designing and developing new APIs, optimizing/fixing bugs in the existing APIs, and writing tests for the APIs.\nIf there are any on-call bugs, resolving them will be your first priority. And then, you will continue working on the feature development planned for the sprint.\nAdditionally, if you have experience/interest in front-end development, you will be contributing to front-end development in NextJS and jQuery.\nWhat would excite us\nAn AI-first approach for solving the problems.\n1+ years of full-time experience in Python and Django/Django REST framework (DRF).\nGood understanding of MySQL, Git, and GitHub/GitLab.\nGood debugging and online searching skills.\nGood communication skills.\nGood problem-solving skills. (Ability to solve easy data structures and algorithms problems).\nWhy you will enjoy working with us?\nPermanent remote/WFH and flexible work culture.\nCutting-edge technology stack.\nAn AI-first approach for solving the problems.\nComplete ownership and trust from the top management.\nIdeas and concerns are carefully listened to by the top management.\nExperiment, fail, and learn.\nRapid career progression for high performers.\nHigh-pedigree, high-caliber team.\nLearn how a fast-growing startup works and scales.\n This offer from \"Interview Kickstart\" has been enriched by Jobgether.com and got a 0% flex score.",
+"description": "This a Full Remote job, the offer is available from: APAC, Asia, South Asia, India\nLet's start with who we are:\nInterviews can be hard. And when it comes to the top tech companies like Google, Facebook, Netflix, etc., they can be downright brutal. Most candidates donât make it simply because they donât prepare well enough. IK helps candidates nail the toughest tech interviews. At IK, current and former hiring managers at these top companies take candidates through an intense prep course to prepare them to crack the toughest Technical interviews. You could think of us as âthe everything storeâ for career transitions and interview skill development.\nHow do we do that, you ask?\nWe have a structured approach to interview success, which includes:\nCareer Accelerator Course\nComprehensive end-to-end courses and platform\nA roster of over 600+ instructors from leading Silicon Valley companies like Google, Facebook, Amazon, and Netflix\nA holistic approach that includes live classes, mock interviews, personalized coaching, resume refinement, career strategies, and invaluable referrals\nWhatâs more exciting is that we are completely remote and hiring the best people we can find who are currently based out of India or wanting to be in India.\nLet's start with who we are:\nInterviews can be hard. And when it comes to the top tech companies like Google, Facebook, Netflix, etc., they can be downright brutal. Most candidates donât make it simply because they donât prepare well enough. IK helps candidates nail the toughest tech interviews. At IK, current and former hiring managers at these top companies take candidates through an intense prep course to prepare them to crack the toughest Technical interviews. You could think of us as âthe everything storeâ for career transitions and interview skill development.\n  How do we do that, you ask?\nWe have a structured approach to interview success, which includes:\nCareer Accelerator Course\nComprehensive end-to-end courses and platform\nA roster of over 600+ instructors from leading Silicon Valley companies like Google, Facebook, Amazon, and Netflix\nA holistic approach that includes live classes, mock interviews, personalized coaching, resume refinement, career strategies, and invaluable referrals\nWhatâs more exciting is that we are completely remote and hiring the best people we can find regardless of geography.\nWhat will you be doing?\nYou will be closely working with a team of other experienced developers and doing pretty much everything, from developing large features to fixing on-call bugs.\nYou will be designing and developing new APIs, optimizing/fixing bugs in the existing APIs, and writing tests for the APIs.\nIf there are any on-call bugs, resolving them will be your first priority. And then, you will continue working on the feature development planned for the sprint.\nAdditionally, if you have experience/interest in front-end development, you will be contributing to front-end development in NextJS and jQuery.\nWhat would excite us\nAn AI-first approach for solving the problems.\n1+ years of full-time experience in Python and Django/Django REST framework (DRF).\nGood understanding of MySQL, Git, and GitHub/GitLab.\nGood debugging and online searching skills.\nGood communication skills.\nGood problem-solving skills. (Ability to solve easy data structures and algorithms problems).\nWhy you will enjoy working with us?\nPermanent remote/WFH and flexible work culture.\nCutting-edge technology stack.\nAn AI-first approach for solving the problems.\nComplete ownership and trust from the top management.\nIdeas and concerns are carefully listened to by the top management.\nExperiment, fail, and learn.\nRapid career progression for high performers.\nHigh-pedigree, high-caliber team.\nLearn how a fast-growing startup works and scales.\n This offer from \"Interview Kickstart\" has been enriched by Jobgether.com and got a 0% flex score.",
 "seniority": "",
 "experience_text": "",
 "company_url": "",
@@ -3945,19 +4967,36 @@
 "url": "https://jobgether.com/offer/6aaa0dbb02f009d73560f756-software-engineer-1-backend",
 "apply_type": "board",
 "apply_url": ""
+},
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6ab67823865119c687f0ee83-software-engineer-1-backend",
+"apply_type": "board",
+"apply_url": ""
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
 "exp": "0-1",
 "junior_title": true,
-"score": null,
-"role_family": "",
-"reason": "",
-"drafts": null,
+"score": 77,
+"role_family": "Software",
+"reason": "Backend SDE-1 remote India; strong Python/backend and API overlap.",
+"drafts": {
+"note": "Hi {name}, applying for Software Engineer 1 (Backend) at Interview Kickstart. Built a FastAPI backend that generates test cases in under 30s. Could you take a quick look at my profile?",
+"dm": "Hi {name}, I’m applying for the Software Engineer 1 (Backend) role at Interview Kickstart. My background lines up well with the API-heavy work in the role: I built TestForge, a Python + FastAPI backend that generates schema-valid Azure DevOps test cases in under 30 seconds, and at MAQ Software I’ve worked on production AI systems, including deployments and issue tracing across 30 Power BI reports. I’d appreciate it if you could take a quick look at my profile and let me know if my background fits the team.",
+"email_subject": "Application for Software Engineer 1 (Backend) at Interview Kickstart",
+"email_body": "Hi {name},\n\nI’m applying for the Software Engineer 1 (Backend) role at Interview Kickstart. The focus on building and improving APIs stands out to me because I’ve built TestForge, a Python + FastAPI backend that generates schema-valid Azure DevOps test cases in under 30 seconds. In my current role at MAQ Software, I’ve also worked on production AI systems, including deployments and issue tracing across 30 Power BI reports, which has given me hands-on debugging experience.\n\nIf you’re open to it, I’d appreciate a quick look at my profile to see whether my background is a fit for the team.\n\nBest,\nKousik Maity\nLinkedIn: https://www.linkedin.com/in/kousik-maity/\nGitHub: https://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The message is mostly fine, but the email body is 119 words? Actually within 90–150 words; length is okay. However the DM is 79 words, which is within 60–110 words.",
+"No major issue with company/role specificity. The main problem is that the candidate is said to have 'hands-on debugging experience' at MAQ Software; the profile supports issue tracing/root-cause analysis, but not explicitly debugging as stated. This is borderline and should be softened or removed.",
+"The ask is slightly unclear/generic in the note and DM/email: 'take a quick look at my profile' could be more specific about referral or feedback."
+]
+},
 "status": "active"
 },
 {
@@ -3971,7 +5010,7 @@
 "apply_url": "",
 "posted_at": "Mon Sep 14",
 "is_remote": true,
-"description": "This a Full Remote job, the offer is available from: India\nAbout PlayPower Labs\nPlayPower Labs builds software for leading EdTech companies that serve millions of learners.\nWe help our clients solve hard product and engineering problems so they can deliver better learner experiences through advanced technology, thoughtful design, and reliable execution.\nWeâve been fully remote since before COVID and plan to stay remote. We are US-based, with a development center in Gandhinagar, India.\nWhat We Believe\nWe believe technology is a force multiplier for education.\nGreat software can make learning more engaging, effective, personalized, and accessible for millions of learners worldwide. The future of education will be shaped by advanced online learning, AI, and education data, and we want to help build that future.\nEducation data combined with AI is opening up new ways to create adaptive, personalized learning experiences. Weâre here to turn those opportunities into real products that learners, educators, and EdTech companies can actually use.\nThe Role\nWeâre looking for a high-energy fresher who wants to ship real products, not just follow tutorials.\nYouâll work across Angular/React, Java/Node.js, AI tools, agents, and MCPs to build useful, secure, good-looking software. You donât need to know everything on day one, but you should be curious, fast to learn, and comfortable using AI to punch above your weight.\nThis role is for someone who can ask sharp questions, take feedback, figure things out, and keep moving without being limited by traditional technologies.\nYou can find details on interview process here .\nWhat Youâll Do\nBuild product features using Angular/React and Java/Node.js.\nReview your own code and AI-generated code carefully.\nApply security-first thinking: auth, permissions, input validation, secrets, dependencies, and safe AI usage.\nUse AI tools, agents, MCPs, and automation to code, debug, test, and learn faster.\nBring energy, curiosity, and momentum to a small team building a real product.\nWhat Weâre Looking For\nStrong fundamentals in JavaScript/TypeScript, HTML, CSS, APIs, databases, and Git.\nExposure to Angular or React and Java or Node.js through projects, internships, coursework, or self-learning.\nStrong sense of UI/UX and care about how the product feels.\nBasic understanding of OWASP, cloud basics, Docker, CI/CD, or vulnerability scanning.\nStartup energy: Ownership, Speed, Curiosity, and no âthatâs not my jobâ attitude.\nBonus Points\nYouâve built side projects, internal tools, automations, agents, or AI-powered features.\nYou've won coding competition, earned credible certifications, secured top rankings in competitive coding, etc.\nWhat We Offer\nRemote work, real product exposure and a chill team that cares about building good things.\nThis offer from \"Playpower Labs\" has been enriched by Jobgether.com and got a 0% flex score.",
+"description": "This a Full Remote job, the offer is available from: APAC, Asia, South Asia, India\nAbout PlayPower Labs\nPlayPower Labs builds software for leading EdTech companies that serve millions of learners.\nWe help our clients solve hard product and engineering problems so they can deliver better learner experiences through advanced technology, thoughtful design, and reliable execution.\nWeâve been fully remote since before COVID and plan to stay remote. We are US-based, with a development center in Gandhinagar, India.\nWhat We Believe\nWe believe technology is a force multiplier for education.\nGreat software can make learning more engaging, effective, personalized, and accessible for millions of learners worldwide. The future of education will be shaped by advanced online learning, AI, and education data, and we want to help build that future.\nEducation data combined with AI is opening up new ways to create adaptive, personalized learning experiences. Weâre here to turn those opportunities into real products that learners, educators, and EdTech companies can actually use.\nThe Role\nWeâre looking for a high-energy fresher who wants to ship real products, not just follow tutorials.\nYouâll work across Angular/React, Java/Node.js, AI tools, agents, and MCPs to build useful, secure, good-looking software. You donât need to know everything on day one, but you should be curious, fast to learn, and comfortable using AI to punch above your weight.\nThis role is for someone who can ask sharp questions, take feedback, figure things out, and keep moving without being limited by traditional technologies.\nYou can find details on interview process here .\nWhat Youâll Do\nBuild product features using Angular/React and Java/Node.js.\nReview your own code and AI-generated code carefully.\nApply security-first thinking: auth, permissions, input validation, secrets, dependencies, and safe AI usage.\nUse AI tools, agents, MCPs, and automation to code, debug, test, and learn faster.\nBring energy, curiosity, and momentum to a small team building a real product.\nWhat Weâre Looking For\nStrong fundamentals in JavaScript/TypeScript, HTML, CSS, APIs, databases, and Git.\nExposure to Angular or React and Java or Node.js through projects, internships, coursework, or self-learning.\nStrong sense of UI/UX and care about how the product feels.\nBasic understanding of OWASP, cloud basics, Docker, CI/CD, or vulnerability scanning.\nStartup energy: Ownership, Speed, Curiosity, and no âthatâs not my jobâ attitude.\nBonus Points\nYouâve built side projects, internal tools, automations, agents, or AI-powered features.\nYou've won coding competition, earned credible certifications, secured top rankings in competitive coding, etc.\nWhat We Offer\nRemote work, real product exposure and a chill team that cares about building good things.\nThis offer from \"Playpower Labs\" has been enriched by Jobgether.com and got a 0% flex score.",
 "seniority": "",
 "experience_text": "",
 "company_url": "",
@@ -3982,19 +5021,37 @@
 "url": "https://jobgether.com/offer/6aa868ceb563ea142ea9d0ae-software-engineer",
 "apply_type": "board",
 "apply_url": ""
+},
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6ab6947d865119c687f246e0-software-engineer",
+"apply_type": "board",
+"apply_url": ""
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
 "exp": "fresher",
 "junior_title": false,
-"score": null,
-"role_family": "",
-"reason": "",
-"drafts": null,
+"score": 82,
+"role_family": "Software",
+"reason": "Fresher full-stack role with AI tools, agents, and India remote fit.",
+"drafts": {
+"note": "Hi {name}, applying for Software Engineer at Playpower Labs. I’ve built FastAPI/MCP agent tools and shipped GenAI work at MAQ Software. Open to a quick profile look?",
+"dm": "Hi {name}, I’m applying for the Software Engineer role at Playpower Labs. My background lines up well with the mix of product engineering and AI tooling in the job: at MAQ Software, I worked on an enterprise GenAI assistant for Power BI and helped ship deployments across 30 production reports. I also built TestForge, a FastAPI + GPT-4o + MCP test-case generator, which gave me hands-on experience with APIs, agent workflows, and shipping practical internal tools. If helpful, could you take a quick look at my profile and let me know if I’d be a fit for the team?",
+"email_subject": "Application for Software Engineer at Playpower Labs",
+"email_body": "Hi {name},\n\nI’m applying for the Software Engineer role at Playpower Labs. The role’s mix of product work, AI tools, and shipping useful software stood out to me.\n\nMy experience lines up closely with that. At MAQ Software, I worked on an enterprise GenAI assistant for Power BI and helped ship deployments across 30 production reports. I also built TestForge, a FastAPI + GPT-4o + MCP test-case generator, which gave me hands-on experience with APIs, agent workflows, and building practical internal tools.\n\nIf you have a minute, I’d value a quick look at my profile to see whether my background fits what your team needs.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The message is generic and does not mention Playpower Labs' specific context (remote EdTech product engineering, Angular/React, Java/Node.js, security-first focus, or MCP/AI tools in the role), so it could be sent to any company.",
+"The ask is unclear and slightly awkward: 'could you take a quick look at my profile and let me know if I’d be a fit for the team?' is more like a broad request than a specific referral or quick review ask.",
+"The DM is too long for the 60–110 word limit.",
+"The email body is too long for the 90–150 word limit."
+]
+},
 "status": "active"
 },
 {
@@ -4045,7 +5102,7 @@
 "apply_url": "",
 "posted_at": "Wed Sep 16",
 "is_remote": true,
-"description": "This a Full Remote job, the offer is available from: India\nAbout SAAF Finance\nSAAF Finance is a technology-driven lending platform building the data and automation backbone for modern mortgage and loan origination. Our Data Engineering team designs and maintains the pipelines and platforms that power analytics, underwriting insights, reporting, and AI-driven decisioning across the business. We're looking for early-career engineers who are curious, eager to learn, and want to build real-world data systems from day one.\nAbout the Role\nAs a Data Engineer (Entry Level), you'll work closely with senior engineers to build and maintain data pipelines, write and optimize SQL, and support our cloud-based data warehouse. This role is ideal for freshers or engineers with up to 2 years of experience who want strong mentorship and hands-on exposure to modern data engineering tools and practices.\nA Snapshot of Your Responsibilities\nAssist in building and maintaining data pipelines under the guidance of senior engineers.\nWrite, test, and optimize SQL queries to extract, transform, and validate data.\nSupport batch data ingestion and basic ETL/ELT workflows using Python.\nHelp maintain data quality by running basic checks and flagging inconsistencies.\nLearn and work within our cloud data warehouse (Snowflake/Databricks) under supervision.\nDocument your work â data flow notes, basic technical specs, and test cases.\nParticipate in code reviews and incorporate feedback to improve code quality.\nCollaborate with analytics and business teams to understand data needs.\nTake a proactive approach to learning new tools, languages, and best practices.\nCommunicate progress and blockers clearly with your team.\nWhat You Will Need\nFor Freshers (0 years experience):\nBachelor's degree in Computer Science, Computer Engineering, IT, or a related field.\nBasic understanding of SQL â able to write simple SELECT, JOIN, and aggregation queries.\nBasic knowledge of Python programming.\nBasic awareness of data warehousing concepts (tables, schemas, ETL at a conceptual level).\nUnderstanding of relational databases and data structures.\nStrong willingness to learn, good analytical thinking, and attention to detail.\nGood verbal and written communication skills.\nFor 1â2 Years Experienced:\n1â2 years of hands-on experience in a data engineering, analytics engineering, or similar role.\nWorking knowledge of SQL, including joins, aggregations, and basic performance tuning.\nHands-on experience with Python; exposure to PySpark is a plus.\nExposure to a cloud data warehouse or lakehouse platform (Snowflake, Databricks, Redshift, or BigQuery).\nBasic exposure to ETL/data pipeline tools (e.g., Airflow, dbt, Fivetran) is a plus.\nFamiliarity with version control (Git/GitHub/Bitbucket).\nBasic understanding of any cloud platform (AWS, Azure, or GCP).\nGood problem-solving skills and ability to work in an agile team environment.\nNice to Have\nAcademic or internship project experience involving data pipelines or analytics.\nExposure to workflow orchestration tools such as Airflow.\nBasic familiarity with streaming concepts (Kafka) or NoSQL databases.\nExposure to BI/visualization tools (Power BI, Tableau, Looker).\nBasic knowledge of Docker or containerization concepts.\nThis offer from \"American Heritage Lending, LLC\" has been enriched by Jobgether.com and got a 0% flex score.",
+"description": "This a Full Remote job, the offer is available from: APAC, Asia, South Asia, India\nAbout SAAF Finance\nSAAF Finance is a technology-driven lending platform building the data and automation backbone for modern mortgage and loan origination. Our Data Engineering team designs and maintains the pipelines and platforms that power analytics, underwriting insights, reporting, and AI-driven decisioning across the business. We're looking for early-career engineers who are curious, eager to learn, and want to build real-world data systems from day one.\nAbout the Role\nAs a Data Engineer (Entry Level), you'll work closely with senior engineers to build and maintain data pipelines, write and optimize SQL, and support our cloud-based data warehouse. This role is ideal for freshers or engineers with up to 2 years of experience who want strong mentorship and hands-on exposure to modern data engineering tools and practices.\nA Snapshot of Your Responsibilities\nAssist in building and maintaining data pipelines under the guidance of senior engineers.\nWrite, test, and optimize SQL queries to extract, transform, and validate data.\nSupport batch data ingestion and basic ETL/ELT workflows using Python.\nHelp maintain data quality by running basic checks and flagging inconsistencies.\nLearn and work within our cloud data warehouse (Snowflake/Databricks) under supervision.\nDocument your work â data flow notes, basic technical specs, and test cases.\nParticipate in code reviews and incorporate feedback to improve code quality.\nCollaborate with analytics and business teams to understand data needs.\nTake a proactive approach to learning new tools, languages, and best practices.\nCommunicate progress and blockers clearly with your team.\nWhat You Will Need\nFor Freshers (0 years experience):\nBachelor's degree in Computer Science, Computer Engineering, IT, or a related field.\nBasic understanding of SQL â able to write simple SELECT, JOIN, and aggregation queries.\nBasic knowledge of Python programming.\nBasic awareness of data warehousing concepts (tables, schemas, ETL at a conceptual level).\nUnderstanding of relational databases and data structures.\nStrong willingness to learn, good analytical thinking, and attention to detail.\nGood verbal and written communication skills.\nFor 1â2 Years Experienced:\n1â2 years of hands-on experience in a data engineering, analytics engineering, or similar role.\nWorking knowledge of SQL, including joins, aggregations, and basic performance tuning.\nHands-on experience with Python; exposure to PySpark is a plus.\nExposure to a cloud data warehouse or lakehouse platform (Snowflake, Databricks, Redshift, or BigQuery).\nBasic exposure to ETL/data pipeline tools (e.g., Airflow, dbt, Fivetran) is a plus.\nFamiliarity with version control (Git/GitHub/Bitbucket).\nBasic understanding of any cloud platform (AWS, Azure, or GCP).\nGood problem-solving skills and ability to work in an agile team environment.\nNice to Have\nAcademic or internship project experience involving data pipelines or analytics.\nExposure to workflow orchestration tools such as Airflow.\nBasic familiarity with streaming concepts (Kafka) or NoSQL databases.\nExposure to BI/visualization tools (Power BI, Tableau, Looker).\nBasic knowledge of Docker or containerization concepts.\nThis offer from \"American Heritage Lending, LLC\" has been enriched by Jobgether.com and got a 0% flex score.",
 "seniority": "",
 "experience_text": "",
 "company_url": "",
@@ -4056,19 +5113,37 @@
 "url": "https://jobgether.com/offer/6aaa0dc202f009d73560fb1e-junior-data-engineer",
 "apply_type": "board",
 "apply_url": ""
+},
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6ab6a20b865119c687f2c2e0-junior-data-engineer",
+"apply_type": "board",
+"apply_url": ""
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
 "exp": "fresher",
 "junior_title": true,
-"score": null,
-"role_family": "",
-"reason": "",
-"drafts": null,
+"score": 90,
+"role_family": "Data Engineering",
+"reason": "Entry-level data engineer role, SQL/Python/ETL and cloud warehouse match well.",
+"drafts": {
+"note": "Hi {name}, applying for the Junior Data Engineer role at American Heritage Lending, LLC / SAAF Finance. I built a Fabric lakehouse with idempotent ETL in PySpark—open to a quick profile review?",
+"dm": "Hi {name}, I’m applying for the Junior Data Engineer role at American Heritage Lending, LLC / SAAF Finance. My current work at MAQ Software includes training in Azure Data Factory, Azure SQL, Synapse, and PySpark, and I built RetailPulse, a Fabric lakehouse project with incremental ETL, SQL, and PySpark validation checks. That lines up well with your focus on SQL, Python, data quality, and cloud warehouse fundamentals. If you’re open to it, could you take a quick look at my profile and let me know if my background fits the team?",
+"email_subject": "Junior Data Engineer application - Kousik Maity",
+"email_body": "Hi {name},\n\nI’m applying for the Junior Data Engineer role at American Heritage Lending, LLC / SAAF Finance. My background lines up closely with the role’s focus on SQL, Python, ETL, and cloud data platforms.\n\nAt MAQ Software, I trained on Azure Data Factory, Azure SQL, Synapse, and PySpark. I also built RetailPulse, a Microsoft Fabric lakehouse project with a medallion architecture, incremental ETL, T-SQL, and PySpark data validation checks to ensure clean fact-dimension joins and idempotent re-runs.\n\nSince your team is building pipelines and supporting cloud warehouse workflows, I’d value a quick profile review to see whether my experience is a fit for the team.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The company/role naming is inconsistent and potentially wrong: the role is for American Heritage Lending, LLC, but the message also introduces SAAF Finance without clarifying the relationship.",
+"The DM and email ask for a “quick profile review,” which is a bit vague; the ask should be clearer and more direct for a referral or look at the profile.",
+"The note is only 184 characters and is under the 200-character limit, but it reads generic and doesn’t clearly tie the ask to the recipient.",
+"Minor awkward phrasing in the email body: “lines up closely” and “fit for the team” are somewhat clichéd; wording could be sharper and more specific."
+]
+},
 "status": "active"
 },
 {
@@ -4315,19 +5390,38 @@
 "url": "https://jobgether.com/offer/6a2bedde135f3346537fcd92-data-engineer",
 "apply_type": "board",
 "apply_url": ""
+},
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6a2fe25563c956434a782dc1-data-engineer",
+"apply_type": "board",
+"apply_url": ""
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
 "exp": "not_stated",
 "junior_title": false,
-"score": null,
-"role_family": "",
-"reason": "",
-"drafts": null,
+"score": 76,
+"role_family": "Data Engineering",
+"reason": "Remote India data engineering role; strong Fabric, PySpark, Delta Lake match.",
+"drafts": {
+"note": "Hi {name}, interested in the Data Engineer role at PradeepIT. I built a Fabric Lakehouse with incremental loads and zero-duplicate reruns, and I’d value a quick profile review.",
+"dm": "Hi {name}, I’m applying for the Data Engineer role at PradeepIT Consulting Services Pvt Ltd. My closest match is a Fabric data engineering project where I built a medallion Lakehouse with a 5-table star schema, watermark-based incremental loads, and 100% idempotent reruns with zero duplicates. At MAQ Software, I’ve also worked on enterprise data and AI workflows, and my Azure Data Factory, Azure SQL, Synapse, PySpark, and Delta Lake experience comes from structured training there. Could you take a quick look at my profile and let me know if I’m a fit for the role?",
+"email_subject": "Data Engineer application for PradeepIT Consulting Services",
+"email_body": "Hi {name},\n\nI’m applying for the Data Engineer role at PradeepIT Consulting Services Pvt Ltd. My strongest match is a Fabric data engineering project where I built a medallion Lakehouse with a 5-table star schema, watermark-based incremental loads, and 100% idempotent reruns with zero duplicates. I also added PySpark validation for fact-dimension joins and used Delta optimization features to improve reliability and troubleshooting.\n\nAt MAQ Software, I currently work as an Associate Software Engineer, and my Azure Data Factory, Azure SQL, Synapse, PySpark, and Delta Lake background comes from structured training there. Could you take a quick look at my profile and let me know whether my experience aligns with this role?\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"Email body is 160+ words, exceeding the 90–150 word limit.",
+"DM is about 117 words, exceeding the 60–110 word limit.",
+"Message is generic toward PradeepIT and does not mention any job-specific details beyond the title/role.",
+"The claim that Azure Data Factory, Azure SQL, Synapse, PySpark, and Delta Lake experience comes from structured training at MAQ Software is supported, but 'I’ve also worked on enterprise data and AI workflows' is vague and not specific to the profile.",
+"The ask is slightly unclear in the DM/email because it mixes 'quick look at my profile' with 'let me know if I’m a fit'; choose one clear ask."
+]
+},
 "status": "active"
 },
 {
@@ -4546,7 +5640,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -4657,7 +5751,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-24T21:42:20+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -4805,7 +5899,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -4842,7 +5936,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -4879,7 +5973,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -4916,7 +6010,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -4953,7 +6047,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -4996,7 +6090,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5070,7 +6164,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5107,7 +6201,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5144,7 +6238,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5181,7 +6275,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5218,7 +6312,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5255,7 +6349,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5292,7 +6386,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5329,7 +6423,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5366,7 +6460,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5409,7 +6503,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5446,7 +6540,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5483,7 +6577,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5520,7 +6614,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5557,7 +6651,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5594,7 +6688,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5631,7 +6725,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5668,7 +6762,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5705,7 +6799,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5742,7 +6836,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5779,7 +6873,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5822,7 +6916,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5865,7 +6959,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5908,7 +7002,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5945,7 +7039,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -5982,7 +7076,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6019,7 +7113,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6056,7 +7150,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6093,7 +7187,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6130,7 +7224,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6167,7 +7261,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6204,7 +7298,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6241,7 +7335,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6278,7 +7372,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6315,7 +7409,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6352,7 +7446,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6389,7 +7483,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6426,7 +7520,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6475,7 +7569,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6512,7 +7606,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6561,7 +7655,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6598,7 +7692,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6635,7 +7729,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6672,7 +7766,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6709,7 +7803,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6746,7 +7840,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6783,7 +7877,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6820,7 +7914,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6857,7 +7951,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6894,7 +7988,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6931,7 +8025,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -6968,7 +8062,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7005,7 +8099,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7116,7 +8210,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7153,7 +8247,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7190,7 +8284,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7227,7 +8321,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7264,7 +8358,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7301,7 +8395,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7338,7 +8432,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7375,7 +8469,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7412,7 +8506,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7455,7 +8549,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7492,7 +8586,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7566,7 +8660,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7603,7 +8697,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7640,7 +8734,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7677,7 +8771,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7714,7 +8808,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7751,7 +8845,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7788,7 +8882,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7825,7 +8919,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7862,7 +8956,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7899,7 +8993,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -7973,7 +9067,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -8010,7 +9104,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -8047,7 +9141,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -8084,7 +9178,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -8121,7 +9215,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "Remote"
 ],
@@ -8213,7 +9307,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -8643,7 +9737,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -8686,7 +9780,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -8729,7 +9823,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -8975,7 +10069,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -9123,7 +10217,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -9160,7 +10254,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
@@ -9271,7 +10365,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-28T23:27:06+00:00",
 "cities": [
 "India"
 ],
