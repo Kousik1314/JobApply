@@ -1,5 +1,153 @@
 [
 {
+"id": "li-4473240164",
+"source": "linkedin",
+"title": "AI/Machine Learning Engineer",
+"company": "Siemens Energy",
+"location": "Gurgaon, Haryana, India",
+"url": "https://www.linkedin.com/jobs/view/4473240164",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-29",
+"is_remote": false,
+"description": "A Snapshot of Your Day\nWe are seeking a skilled AI/Machine Learning Engineer to join our team and help build innovative machine learning solutions that drive business outcomes. You will collaborate with cross-functional teams including data scientists, software engineers, and product managers to design, develop, and maintain robust machine learning models and workflows. Your work will involve transforming raw data into actionable insights, optimizing algorithms for performance, and integrating AI capabilities into dynamic applications to provide seamless user experiences and enhanced functionality.\nHow You’ll Make an Impact\nAssist in building and maintaining ML and basic Generative AI pipelines (data preprocessing, training, evaluation, and inference).\nSupport development of simple RAG-based and NLP workflows under guidance.\nWork on text processing tasks such as data cleaning, parsing, chunking, and embeddings.\nContribute to backend APIs (e.g., FastAPI) to expose ML/AI functionalities.\nHelp integrate AI models into applications and support deployment activities.\nWrite clean, modular, and testable Python code following best practices.\nCollaborate with senior engineers and cross-functional teams to deliver features.\nDebug, test, and optimize models and pipelines for performance and reliability.\nStay updated with basic advancements in AI/ML and Generative AI.\nWhat You Bring\nBachelor’s degree in computer science, IT, or related field.\n6 months to 1 years of experience or strong academic/project background in AI/ML.\nGood programming skills in Python and strong problem-solving ability.\nBasic understanding of ML concepts, NLP, and model evaluation.\nExposure to libraries such as NumPy, Pandas, scikit-learn, or PyTorch/TensorFlow.\nFamiliarity with Generative AI concepts (LLMs, prompt engineering, or RAG is a plus).\nBasic understanding of APIs and backend development.\nExposure to cloud platforms (AWS/Azure) is a plus.\nKnowledge of Git and basic software development practices.\nWillingness to learn, adapt, and work in a fast-paced environment.\nWho is Siemens Energy?\nAt Siemens Energy, we are more than just an energy technology company. With ~100,000 dedicated employees in more than 90 countries, we develop the energy systems of the future, ensuring that the growing energy demand of the global community is met reliably and sustainably. The technologies created in our research departments and factories drive the energy transition and provide the base for one sixth of the world's electricity generation. Our global team is committed to making sustainable, reliable, and affordable energy a reality by pushing the boundaries of what is possible. We uphold a 150-year legacy of innovation that encourages our search for people who will support our focus on decarbonization, new technologies, and energy transformation.\nFind out how you can make a difference at Siemens Energy: https://www.siemens-energy.com/employeevideo\nOur Commitment to Diversity\nLucky for us, we are not all the same. Through diversity we generate power. We run on inclusion and our combined creative energy is fueled by over 130 nationalities. Siemens Energy celebrates character – no matter what ethnic background, gender, age, religion, identity, or disability. We energize society, all of society, and we do not discriminate based on our differences.\nRewards/Benefits\nAll employees are automatically covered under the Medical Insurance. Company paid considerable Family floater cover covering employee, spouse and 2 dependent children up to 25 years of age.\nSiemens Energy provides an option to opt for Meal Card to all its employees which will be as per the terms and conditions prescribed in the company policy. – As a part of CTC, tax saving measure\nFlexi Pay empowers employees with the choice to customize the amount in some of the salary components within a defined range thereby optimizing the tax benefits. Accordingly, each employee is empowered to decide on the best Possible net income ",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/siemens-energy",
+"key": "3eeeb99d4debeaf3",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4473240164",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
+"cities": [
+"Delhi NCR"
+],
+"exp": "0-1",
+"junior_title": false,
+"score": 93,
+"role_family": "AI/ML",
+"reason": "Entry-level ML and GenAI role; Python, RAG, FastAPI, embeddings strongly match.",
+"drafts": {
+"note": "Hi {name}, applying for the AI/Machine Learning Engineer role at Siemens Energy. I built a RAG chatbot with 150+ docs and a FastAPI AI project. Could you review my profile?",
+"dm": "Hi {name}, I’m applying for the AI/Machine Learning Engineer role at Siemens Energy in Gurgaon. My background lines up well with the mix of ML pipelines, RAG/NLP workflows, and FastAPI APIs in the job. At MAQ Software, I worked on an enterprise GenAI assistant for Power BI, including an LLM-as-a-Judge agent to evaluate outputs across 2,000+ test queries. I also built OnboardIQ, a RAG chatbot over 150+ documents, and TestForge, a FastAPI-based AI project. If useful, could you take a quick look at my profile and let me know if a referral makes sense?",
+"email_subject": "AI/Machine Learning Engineer at Siemens Energy",
+"email_body": "Hi {name},\n\nI’m applying for the AI/Machine Learning Engineer role at Siemens Energy in Gurgaon. The role’s focus on ML pipelines, RAG/NLP workflows, FastAPI APIs, and reliable Python code matches my recent work closely.\n\nAt MAQ Software, I worked on an enterprise GenAI assistant for Power BI and built an LLM-as-a-Judge agent to evaluate outputs across 2,000+ test queries. I also built OnboardIQ, a RAG chatbot over 150+ documents with a grounding guardrail, and TestForge, a FastAPI-based AI project.\n\nIf you’re open to it, could you take a quick look at my profile and let me know if a referral would be appropriate?\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"note is too generic and could be sent to any company; it does not mention Siemens Energy or the Gurgaon role specifics",
+"dm is 118 words, which exceeds the 60–110 word limit",
+"email body is 155 words, which exceeds the 90–150 word limit",
+"phrasing is awkward/unclear in the ask: “could you take a quick look at my profile and let me know if a referral makes sense?”; better to ask for a quick review or referral explicitly",
+"“My background lines up well” is a cliché and a weak outreach opening"
+]
+},
+"status": "active"
+},
+{
+"id": "li-4471283918",
+"source": "linkedin",
+"title": "Software Engineer",
+"company": "Qualys",
+"location": "Pune Division, Maharashtra, India",
+"url": "https://www.linkedin.com/jobs/view/4471283918",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-29",
+"is_remote": false,
+"description": "Come work at a place where innovation and teamwork come together to support the most exciting missions in the world!\nSoftware Engineer (0–3 Years Experience) – Full Stack Java Developer\nRequired Skills & Qualifications\n0–3 years of hands-on experience in software development with React.js (Front-End) and Java (Back-End).\nStrong understanding of Spring Boot and RESTful API development.\nBasic understanding of AI/ML concepts, including exposure to AI Agents, OpenAI/LLM technologies, and Machine Learning fundamentals.\nStrong Java React.js programming skills including object-oriented design, prototyping, development, testing, profiling, etc.\nKnowledge of messaging and event-driven architectures using Apache Kafka.\nFamiliarity with in-memory caching technologies such as Redis and Memcached.\nUnderstanding of relational databases, preferably Oracle, including SQL query optimization and database design.\nExposure to NoSQL databases, preferably Cassandra.\nKnowledge of Docker, Kubernetes, Jenkins, and related CI/CD tools\nStrong analytical and problem-solving skills with the ability to debug and troubleshoot issues effectively.\nGood communication skills and willingness to learn new technologies in a fast-paced environment.\nDesired Qualifications: Bachelors/Masters in Computer Science or equivalent\nShow more\nShow less",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/qualys",
+"key": "c6506dbaea533e0d",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4471283918",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
+"cities": [
+"Pune"
+],
+"exp": "fresher",
+"junior_title": false,
+"score": 71,
+"role_family": "Software",
+"reason": "0-3 years role; Python, AI/ML exposure, APIs, and backend fit well.",
+"drafts": {
+"note": "Hi {name}, applying for Software Engineer at Qualys. I’m an Associate Software Engineer at MAQ working on enterprise GenAI for a Microsoft client and would value a quick profile review.",
+"dm": "Hi {name}, I’m applying for the Software Engineer role at Qualys. I’m currently an Associate Software Engineer at MAQ Software, where I work on an enterprise GenAI assistant for a Microsoft client across validation, deployment, and debugging for 30 production reports. I’ve also built a FastAPI-based agent project and have hands-on SQL, REST API, OOP, testing, and debugging experience, plus exposure to AI agents and LLM workflows that your role mentions. If useful, could you take a quick look at my profile and let me know if a referral makes sense?",
+"email_subject": "Application for Software Engineer at Qualys",
+"email_body": "Hi {name},\n\nI’m applying for the Software Engineer role at Qualys. I’m currently an Associate Software Engineer at MAQ Software, where I work on an enterprise GenAI assistant for a Microsoft client across validation, deployment, and debugging for 30 production reports. I’ve also built a FastAPI-based agent project and have hands-on SQL, REST API, OOP, testing, and debugging experience, along with exposure to AI agents and LLM workflows mentioned in the role.\n\nIf you have a minute, I’d appreciate a quick look at my profile to see whether a referral would make sense.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The message is too generic about the role: it mentions Qualys and Software Engineer, but does not specifically connect to the Java/React/Spring Boot/Kafka/Redis/Oracle/Cassandra stack or Pune location.",
+"\"I work on an enterprise GenAI assistant... across validation, deployment, and debugging for 30 production reports\" is supported in part, but the phrasing is broad and \"debugging\" is not explicitly stated in the profile for this project.",
+"The ask is slightly unclear/repetitive: \"could you take a quick look at my profile and let me know if a referral makes sense?\" mixes a profile review with a referral request.",
+"Length check: dm and email body are within limits, note is under 200 characters."
+]
+},
+"status": "active"
+},
+{
+"id": "site-hirist-82ba002a76af",
+"source": "hirist",
+"title": "Binocs - Software Development Engineer I - Backend Architecture 0 - 1 yrs Bangalore Python Java Node.js Backend Architecture Golang Multithreading +1 Posted 5 d",
+"company": "",
+"location": "India",
+"url": "https://www.hirist.tech/j/binocs-software-development-engineer-i-backend-architecture-1674507?ref=kp&jobPos=10",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": false,
+"description": "You need to enable JavaScript to run this app.\nAI/ML\nArtificial Intelligence\nMachine Learning\nNLP\nGenerative AI\nPredictive Modeling\nQuery Segmentation\nAI Interface\nLLM\nDeep Learning\nMLOps\nSecurity Architect - AI\nCloud Architect - ML/AI\nData Scientist\nData Modeling\nData Analytics\nData Analytics & BI\nAnalytics\nData Science\nData Mining\nTableau\nPower BI\nQuantitative Analytics\nData Visualization\nData Analyst\nData Engineering\nData Engineering\nBig Data\nHadoop\nHive\nBigQuery\nETL\nSoftware Development\nBackend Development\nPython\nJava\nGoLang\nR\nDjango\nNodeJs\nSpring\nHibernate\nFrontend Development\nReactJS\nAngularJS\nJavascript\nJQuery\nBootstrap\nUI\nUX\nFull Stack\nFull Stack\nMERN Stack\nLAMP\nMEAN\nNode.JS\nReact.js\nRESTful API\nMobile Applications\niOS\nAndroid\nReact Native\nIonic\nPhonegap\nXamarin\nOpenGL\nEmerging Technologies\nBlockchain\nCryptocurrency\nAugmented Reality\nVirtual Reality\niOT\nDevOps / SRE\nSite Reliability\nAWS\nAZURE\nCloud Architect\nDocker\nPuppet\nJenkins\nChef\nKubernetes\nGoogle Cloud Platform\nCyberSecurity\nCyber Security\nCloud Security\nCISSP\nCISM\nInformation Security\nData Security\nIT Security Strategy\nNetwork Security\nFirewall\nIAM\nSailpoint\nQuality Assurance\nPerformance Testing\nApplication Testing\nWhite Box Testing\nSecurity Testing\nLoad Testing\nMobile Testing\nAutomation Testing Tools\nSelenium\nTest Architect\nPlatform Engineering / SAP/Oracle\nPega\nRPA\nERP\nSAP FICO\nCRM\nSAP Implementation\nTechno-Functional Consultant\nSalesforce\nIntegration Tools\nSharepoint\nPowerApps\nOracle Apps\nPresales\nSolution Design\nLCDP\nMainframe\nInformatica\nProduct / Design\nProduct Management\nProduct Strategy\nProduct Roadmap\nChief Product Officer\nUX Strategy\nUser Story\nWireframe\nStoryboard\nJira\nBusiness Analysis and Project Management\nProject Management\nBusiness Analyst\nTechno-Functional Consultant\nProgram Management\nAgile\nScrum\nPMP\nUI & Design\nUI\nUX\nPhotoshop\nIllustrator\nInfographics\nCorelDRAW\nInDesign\nSketch\nFigma\nInteraction Design\nOthers\nSemiconductor/VLSI/EDA\nMATLAB\nVerilog\nRTL\nASIC\nPhysical Design\nSystem Verilog\nVHDL\nBoard Design\nVLSI\nOthers\nIT Operations\nTechnical Support\nSystem Administration\nDBMS\nDBA\nIT Infrastructure\nTechnical Writing\nSEO\nNetwork Support\nITIL\nIncident Management\nChange Management\nITSM\nAI/ML\nData Analytics\nSoftware Development\nProduct / Design\nOthers\nCourses\nHome\n>\n>\nJob Description\nLoading chat...",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "77c5e0657c4c190b",
+"links": [
+{
+"source": "hirist",
+"url": "https://www.hirist.tech/j/binocs-software-development-engineer-i-backend-architecture-1674507?ref=kp&jobPos=10",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
+"cities": [
+"India"
+],
+"exp": "0-1",
+"junior_title": true,
+"score": 78,
+"role_family": "Software",
+"reason": "SDE-I backend role, 0-1 years, Bangalore location only.",
+"drafts": {
+"note": "Hi {name}, applying for Binocs’ SDE I - Backend Architecture role. I build Python/FastAPI agent systems and shipped Azure deployments across 30 reports. Open to a quick profile review?",
+"dm": "Hi {name}, I’m applying for the Software Development Engineer I - Backend Architecture role at Binocs. My closest match is building TestForge, a Python/FastAPI agent that turns feature descriptions into schema-valid test suites in under 30 seconds, plus shipping Azure CLI deployments across 30 production Power BI reports at MAQ Software. I also work with REST APIs, Docker, and Azure DevOps, which seem relevant to the backend side of this role. If useful, could you take a quick look at my profile and let me know if I’m on the right track for this opening?",
+"email_subject": "Applying for Binocs SDE I - Backend Architecture",
+"email_body": "Hi {name},\n\nI’m applying for the Software Development Engineer I - Backend Architecture role at Binocs. My strongest backend proof point is TestForge, a Python/FastAPI agentic system I built that generates schema-valid test cases in under 30 seconds from a feature description. At MAQ Software, I’ve also shipped Azure CLI deployments across 30 production Power BI reports while working on an enterprise GenAI assistant, which gave me experience with production validation and release workflows.\n\nI also work with REST APIs, Docker, and Azure DevOps, which seem relevant to the backend focus of this role. If you’re open to it, I’d appreciate a quick look at my profile to see whether my background fits this opening.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The company/role is specific enough, but the job description does not clearly support the stated backend focus as strongly as the message implies; it reads slightly generic due to broad keyword dump.",
+"The dm is 112 words, exceeding the 60–110 word limit.",
+"The note is 25 words, within limit, but 'applying for' is a weak ask; it should clearly ask for a referral or quick profile review in a more direct way.",
+"The email body is 125 words, within the 90–150 word limit, but the phrase 'which seem relevant' is a bit awkward and generic."
+]
+},
+"status": "active"
+},
+{
 "id": "li-4472787118",
 "source": "linkedin",
 "title": "SDE-I, Rewards",
@@ -24,7 +172,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -75,7 +223,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -112,7 +260,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -149,7 +297,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -198,7 +346,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -242,7 +390,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -279,7 +427,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -323,7 +471,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -367,7 +515,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -414,7 +562,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -462,7 +610,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -506,7 +654,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -554,7 +702,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -603,7 +751,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -647,7 +795,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -684,7 +832,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -744,7 +892,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -787,7 +935,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -824,7 +972,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -861,7 +1009,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -898,7 +1046,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -935,7 +1083,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -972,7 +1120,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -1009,7 +1157,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -1146,7 +1294,7 @@
 }
 ],
 "first_seen": "2026-09-28T14:13:44+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -1293,7 +1441,7 @@
 }
 ],
 "first_seen": "2026-09-28T14:13:44+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -2849,7 +2997,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "India"
 ],
@@ -3158,43 +3306,6 @@
 "status": "active"
 },
 {
-"id": "indeed-in-02aac47cc0f33cd5",
-"source": "indeed",
-"title": "AI Engineer 4A",
-"company": "Genpact",
-"location": "KA, IN",
-"url": "https://in.indeed.com/viewjob?jk=02aac47cc0f33cd5",
-"apply_type": "company",
-"apply_url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-GIPL-Prestige-Technology-Park-IV-Bangalore/AI-Engineer-4A_JR10024679",
-"posted_at": "2026-09-25",
-"is_remote": true,
-"description": "AI Engineer**Ready to turn bold ideas into real\\-world impact?**  \n\n At Genpact, we don’t just adapt to change, we lead it. AI and digital innovation are transforming the way businesses work, and we’re at the forefront of it. Genpact’s AI Gigafactory, our industry\\-first accelerator, exemplifies how we scale advanced technology solutions to help global enterprises work smarter, grow faster, and transform at scale. Whether tackling complex challenges through large\\-scale models or agentic AI, our breakthrough solutions tackle companies’ most complex challenges.  \n\n  \n\nIf you thrive in a fast\\-moving, innovation\\-driven environment, love building and deploying cutting\\-edge AI solutions, and want to push the boundaries of what’s possible, this is your moment.  \n\n  \n\nGenpact (NYSE: G) is an agentic and advanced technology solutions company. We leverage process intelligence and artificial intelligence to deliver measurable outcomes. With a strong partner ecosystem and decades of client trust, we provide innovative solutions that transform how businesses run. Powered by a team with an active learning mindset and client centricity at its core, we deliver lasting value for the world’s leading enterprises.  \n\n Get to know us at genpact.com and on LinkedIn, YouTube, X, and Facebook.\n\n**Job Description**\n\n\nRole Overview\n\n\nWe are looking for a DevOps Engineer to join our Advanced AI Practice within the AI Application Engineering team. This is a hands\\-on individual contributor role for someone who wants to build core DevOps skills while getting direct exposure to the infrastructure that powers Generative AI and Agentic AI applications. You will work under the guidance of senior AI engineers and DevOps managers to build, automate, and maintain the CI/CD, cloud, and container platforms our applied AI teams rely on.\n\n\nKey Responsibilities\n\n\n**Platform ownership:** Support end\\-to\\-end DevOps/MLOps/LLMOps infrastructure for AI application engineering initiatives across on\\-prem, hybrid, and multi\\-cloud (AWS/Azure/GCP) environments.\n\n\n**CI/CD pipelines:** Build and maintain CI/CD pipelines for application and model\\-deployment workflows using tools such as Jenkins, GitLab CI/CD, or GitHub Actions.\n\n\n**Containerization \\& orchestration:** Package applications and services using Docker; support deployment and day\\-to\\-day operations on Kubernetes clusters.\n\n\n**Infrastructure automation:** Write and maintain Infrastructure as Code (Terraform/CloudFormation) for provisioning cloud resources under senior engineers' guidance.\n\n\n**AI application deployment support:** Assist in deploying and operating model\\-serving and GenAI/agentic application components and follow established practices for model versioning and rollout.\n\n\n**AI/LLM infrastructure:** Enable scalable, cost\\-efficient model\\-serving and agentic\\-application infrastructure including GPU orchestration, autoscaling for LLM inference, model registries, and vector database infrastructure.\n\n\n**Monitoring \\& troubleshooting:** Set up and maintain monitoring, logging, and alerting for applications and infrastructure; triage and resolve production issues, escalating as needed.\n\n\n**Security hygiene:** Support routine security practices including vulnerability scanning, patching, and secrets management as per team standards.\n\n\n**Collaboration:** Work closely with data scientists, ML/AI engineers, and senior DevOps team members to understand deployment requirements and translate them into infrastructure tasks.\n\n\n**Documentation:** Maintain clear runbooks, deployment guides, and automation documentation for the team.\n\n\n**Continuous learning:** Stay current with evolving DevOps, MLOps, and LLMOps tooling, and proactively bring in improvements to existing pipelines and practices.\n\n\nMust\\-Have Skills \\& Experience (Mandatory)\n\n\n**2\\+ years of hands\\-on experience** in DevOps/Infrastructure/Site Reliability engineering.\n\n\n**Scripting proficiency in Python and/or Bash**; working knowledge of Ansible.\n\n",
-"seniority": "",
-"experience_text": "",
-"company_url": "https://in.indeed.com/cmp/Genpact",
-"key": "be4a0d5f7f86d689",
-"links": [
-{
-"source": "indeed",
-"url": "https://in.indeed.com/viewjob?jk=02aac47cc0f33cd5",
-"apply_type": "company",
-"apply_url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-GIPL-Prestige-Technology-Park-IV-Bangalore/AI-Engineer-4A_JR10024679"
-}
-],
-"first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-25T12:01:00+00:00",
-"cities": [
-"Remote"
-],
-"exp": "not_stated",
-"junior_title": false,
-"score": null,
-"role_family": "",
-"reason": "",
-"drafts": null,
-"status": "active"
-},
-{
 "id": "indeed-in-04ab63d1bb0c41e8",
 "source": "indeed",
 "title": "Automation & Machine Learning Engineer",
@@ -3380,43 +3491,6 @@
 "status": "active"
 },
 {
-"id": "site-hirist-222c0723f364",
-"source": "hirist",
-"title": "iZOOlogic - AI Engineer - Security Intelligence Platform 1 - 4 yrs 15-16 LPA Jaipur/Rajasthan 4 7+ Reviews Python Artificial Intelligence Machine Learning Poste",
-"company": "",
-"location": "India",
-"url": "https://www.hirist.tech/j/izoologic-ai-engineer-security-intelligence-platform-1674733?ref=cl_br&jobPos=1",
-"apply_type": "board",
-"apply_url": "",
-"posted_at": null,
-"is_remote": false,
-"description": "You need to enable JavaScript to run this app.\nAI/ML\nArtificial Intelligence\nMachine Learning\nNLP\nGenerative AI\nPredictive Modeling\nQuery Segmentation\nAI Interface\nLLM\nDeep Learning\nMLOps\nSecurity Architect - AI\nCloud Architect - ML/AI\nData Scientist\nData Modeling\nData Analytics\nData Analytics & BI\nAnalytics\nData Science\nData Mining\nTableau\nPower BI\nQuantitative Analytics\nData Visualization\nData Analyst\nData Engineering\nData Engineering\nBig Data\nHadoop\nHive\nBigQuery\nETL\nSoftware Development\nBackend Development\nPython\nJava\nGoLang\nR\nDjango\nNodeJs\nSpring\nHibernate\nFrontend Development\nReactJS\nAngularJS\nJavascript\nJQuery\nBootstrap\nUI\nUX\nFull Stack\nFull Stack\nMERN Stack\nLAMP\nMEAN\nNode.JS\nReact.js\nRESTful API\nMobile Applications\niOS\nAndroid\nReact Native\nIonic\nPhonegap\nXamarin\nOpenGL\nEmerging Technologies\nBlockchain\nCryptocurrency\nAugmented Reality\nVirtual Reality\niOT\nDevOps / SRE\nSite Reliability\nAWS\nAZURE\nCloud Architect\nDocker\nPuppet\nJenkins\nChef\nKubernetes\nGoogle Cloud Platform\nCyberSecurity\nCyber Security\nCloud Security\nCISSP\nCISM\nInformation Security\nData Security\nIT Security Strategy\nNetwork Security\nFirewall\nIAM\nSailpoint\nQuality Assurance\nPerformance Testing\nApplication Testing\nWhite Box Testing\nSecurity Testing\nLoad Testing\nMobile Testing\nAutomation Testing Tools\nSelenium\nTest Architect\nPlatform Engineering / SAP/Oracle\nPega\nRPA\nERP\nSAP FICO\nCRM\nSAP Implementation\nTechno-Functional Consultant\nSalesforce\nIntegration Tools\nSharepoint\nPowerApps\nOracle Apps\nPresales\nSolution Design\nLCDP\nMainframe\nInformatica\nProduct / Design\nProduct Management\nProduct Strategy\nProduct Roadmap\nChief Product Officer\nUX Strategy\nUser Story\nWireframe\nStoryboard\nJira\nBusiness Analysis and Project Management\nProject Management\nBusiness Analyst\nTechno-Functional Consultant\nProgram Management\nAgile\nScrum\nPMP\nUI & Design\nUI\nUX\nPhotoshop\nIllustrator\nInfographics\nCorelDRAW\nInDesign\nSketch\nFigma\nInteraction Design\nOthers\nSemiconductor/VLSI/EDA\nMATLAB\nVerilog\nRTL\nASIC\nPhysical Design\nSystem Verilog\nVHDL\nBoard Design\nVLSI\nOthers\nIT Operations\nTechnical Support\nSystem Administration\nDBMS\nDBA\nIT Infrastructure\nTechnical Writing\nSEO\nNetwork Support\nITIL\nIncident Management\nChange Management\nITSM\nAI/ML\nData Analytics\nSoftware Development\nProduct / Design\nOthers\nCourses\nHome\n>\n>\nJob Description\nLoading chat...",
-"seniority": "",
-"experience_text": "",
-"company_url": "",
-"key": "c312dc7fb60ec551",
-"links": [
-{
-"source": "hirist",
-"url": "https://www.hirist.tech/j/izoologic-ai-engineer-security-intelligence-platform-1674733?ref=cl_br&jobPos=1",
-"apply_type": "board",
-"apply_url": ""
-}
-],
-"first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
-"cities": [
-"India"
-],
-"exp": "not_stated",
-"junior_title": false,
-"score": null,
-"role_family": "",
-"reason": "",
-"drafts": null,
-"status": "active"
-},
-{
 "id": "site-hirist-d2aef3f4cb28",
 "source": "hirist",
 "title": "United States Pharmacopeia - Data Scientist - Digital Products 1 - 3 yrs Hyderabad Data Science Data Scientist LLM RAG Prompt Engineering Python MLOps +2 Posted",
@@ -3441,7 +3515,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "India"
 ],
@@ -3484,7 +3558,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "India"
 ],
@@ -3521,7 +3595,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "India"
 ],
@@ -3558,7 +3632,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "India"
 ],
@@ -3632,7 +3706,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "India"
 ],
@@ -3669,44 +3743,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
-"cities": [
-"India"
-],
-"exp": "not_stated",
-"junior_title": false,
-"score": null,
-"role_family": "",
-"reason": "",
-"drafts": null,
-"status": "active"
-},
-{
-"id": "site-hirist-2801319d0c3a",
-"source": "hirist",
-"title": "United States Pharmacopeia - Data Scientist - Digital Products 1 - 3 yrs Hyderabad Python Data Science Data Scientist LLM RAG Prompt Engineering MLOps +2 Posted",
-"company": "",
-"location": "India",
-"url": "https://www.hirist.tech/j/united-states-pharmacopeia-data-scientist-digital-products-1674857?ref=kp_prm&jobPos=2",
-"apply_type": "board",
-"apply_url": "",
-"posted_at": null,
-"is_remote": false,
-"description": "You need to enable JavaScript to run this app.\nAI/ML\nArtificial Intelligence\nMachine Learning\nNLP\nGenerative AI\nPredictive Modeling\nQuery Segmentation\nAI Interface\nLLM\nDeep Learning\nMLOps\nSecurity Architect - AI\nCloud Architect - ML/AI\nData Scientist\nData Modeling\nData Analytics\nData Analytics & BI\nAnalytics\nData Science\nData Mining\nTableau\nPower BI\nQuantitative Analytics\nData Visualization\nData Analyst\nData Engineering\nData Engineering\nBig Data\nHadoop\nHive\nBigQuery\nETL\nSoftware Development\nBackend Development\nPython\nJava\nGoLang\nR\nDjango\nNodeJs\nSpring\nHibernate\nFrontend Development\nReactJS\nAngularJS\nJavascript\nJQuery\nBootstrap\nUI\nUX\nFull Stack\nFull Stack\nMERN Stack\nLAMP\nMEAN\nNode.JS\nReact.js\nRESTful API\nMobile Applications\niOS\nAndroid\nReact Native\nIonic\nPhonegap\nXamarin\nOpenGL\nEmerging Technologies\nBlockchain\nCryptocurrency\nAugmented Reality\nVirtual Reality\niOT\nDevOps / SRE\nSite Reliability\nAWS\nAZURE\nCloud Architect\nDocker\nPuppet\nJenkins\nChef\nKubernetes\nGoogle Cloud Platform\nCyberSecurity\nCyber Security\nCloud Security\nCISSP\nCISM\nInformation Security\nData Security\nIT Security Strategy\nNetwork Security\nFirewall\nIAM\nSailpoint\nQuality Assurance\nPerformance Testing\nApplication Testing\nWhite Box Testing\nSecurity Testing\nLoad Testing\nMobile Testing\nAutomation Testing Tools\nSelenium\nTest Architect\nPlatform Engineering / SAP/Oracle\nPega\nRPA\nERP\nSAP FICO\nCRM\nSAP Implementation\nTechno-Functional Consultant\nSalesforce\nIntegration Tools\nSharepoint\nPowerApps\nOracle Apps\nPresales\nSolution Design\nLCDP\nMainframe\nInformatica\nProduct / Design\nProduct Management\nProduct Strategy\nProduct Roadmap\nChief Product Officer\nUX Strategy\nUser Story\nWireframe\nStoryboard\nJira\nBusiness Analysis and Project Management\nProject Management\nBusiness Analyst\nTechno-Functional Consultant\nProgram Management\nAgile\nScrum\nPMP\nUI & Design\nUI\nUX\nPhotoshop\nIllustrator\nInfographics\nCorelDRAW\nInDesign\nSketch\nFigma\nInteraction Design\nOthers\nSemiconductor/VLSI/EDA\nMATLAB\nVerilog\nRTL\nASIC\nPhysical Design\nSystem Verilog\nVHDL\nBoard Design\nVLSI\nOthers\nIT Operations\nTechnical Support\nSystem Administration\nDBMS\nDBA\nIT Infrastructure\nTechnical Writing\nSEO\nNetwork Support\nITIL\nIncident Management\nChange Management\nITSM\nAI/ML\nData Analytics\nSoftware Development\nProduct / Design\nOthers\nCourses\nHome\n>\n>\nJob Description\nLoading chat...",
-"seniority": "",
-"experience_text": "",
-"company_url": "",
-"key": "377aed374b7df2a8",
-"links": [
-{
-"source": "hirist",
-"url": "https://www.hirist.tech/j/united-states-pharmacopeia-data-scientist-digital-products-1674857?ref=kp_prm&jobPos=2",
-"apply_type": "board",
-"apply_url": ""
-}
-],
-"first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "India"
 ],
@@ -3817,7 +3854,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -3854,7 +3891,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Pune"
 ],
@@ -3891,7 +3928,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -4378,7 +4415,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -4415,7 +4452,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -4452,7 +4489,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -4489,7 +4526,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -4526,7 +4563,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -4711,7 +4748,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -4976,7 +5013,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -5030,7 +5067,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -5122,7 +5159,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -5399,7 +5436,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -5640,7 +5677,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -5751,7 +5788,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -5899,7 +5936,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -5936,7 +5973,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -5973,7 +6010,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6010,7 +6047,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6047,7 +6084,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6090,7 +6127,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6164,7 +6201,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6201,7 +6238,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6238,7 +6275,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6275,7 +6312,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6312,7 +6349,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6349,7 +6386,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6386,7 +6423,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6423,7 +6460,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6460,7 +6497,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6503,7 +6540,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6540,7 +6577,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6577,7 +6614,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6614,7 +6651,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6651,7 +6688,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6688,7 +6725,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6725,7 +6762,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6762,7 +6799,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6799,7 +6836,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6836,7 +6873,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6873,7 +6910,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6916,7 +6953,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -6959,7 +6996,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7002,7 +7039,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7039,7 +7076,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7076,7 +7113,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7113,7 +7150,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7150,7 +7187,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7187,7 +7224,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7224,7 +7261,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7261,7 +7298,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7298,7 +7335,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7335,7 +7372,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7372,7 +7409,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7409,7 +7446,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7446,7 +7483,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7483,7 +7520,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7520,7 +7557,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7569,7 +7606,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7606,7 +7643,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7655,7 +7692,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7692,7 +7729,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7729,7 +7766,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7766,7 +7803,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7803,7 +7840,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7840,7 +7877,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7877,7 +7914,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7914,7 +7951,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7951,7 +7988,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -7988,7 +8025,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8025,7 +8062,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8062,7 +8099,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8099,7 +8136,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8210,7 +8247,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8247,7 +8284,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8284,7 +8321,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8321,7 +8358,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8358,7 +8395,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8395,7 +8432,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8432,7 +8469,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8469,7 +8506,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8506,7 +8543,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8549,7 +8586,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8586,7 +8623,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8660,7 +8697,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8697,7 +8734,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8734,7 +8771,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8771,7 +8808,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8808,7 +8845,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8845,7 +8882,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8882,7 +8919,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8919,7 +8956,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8956,7 +8993,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -8993,7 +9030,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -9067,7 +9104,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -9104,7 +9141,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -9141,7 +9178,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -9178,7 +9215,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -9215,7 +9252,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "Remote"
 ],
@@ -9307,7 +9344,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "India"
 ],
@@ -10069,7 +10106,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "India"
 ],
@@ -10106,7 +10143,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T14:13:44+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "India"
 ],
@@ -10217,7 +10254,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "India"
 ],
@@ -10254,7 +10291,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "India"
 ],
@@ -10365,7 +10402,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-28T23:27:06+00:00",
+"last_seen": "2026-09-29T13:09:12+00:00",
 "cities": [
 "India"
 ],
