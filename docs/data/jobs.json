@@ -1,5 +1,507 @@
 [
 {
+"id": "li-4444852609",
+"source": "linkedin",
+"title": "AI Application Engineer",
+"company": "Infosys",
+"location": "Bengaluru East, Karnataka, India",
+"url": "https://www.linkedin.com/jobs/view/4444852609",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-29",
+"is_remote": false,
+"description": "Strong proficiency in Python.\n  Experience with JavaScript/TypeScript, Node.js, or Java.\n  Hands-on experience with LLMs (GPT, Claude, Gemini, Llama, etc.).\n  Experience in Agentic AI, RAG, Prompt Engineering, and Function Calling.\n  Knowledge of LangChain, LangGraph, LlamaIndex, or similar AI frameworks.\n  Experience with Vector Databases such as Pinecone, Chroma, Weaviate, Qdrant, or SAP HANA Cloud.\n  Exposure to Cloud & DevOps tools including Azure/AWS/GCP, Docker, Kubernetes, and CI/CD.\n  Experience in REST APIs, Microservices, Enterprise Integrations, and preferably SAP BTP Integration Suite.\n  Hands-on experience in AI Agent Development using MCP Servers, A2A Protocols, and SAP Integration Suite or similar platforms.\n  Good understanding of Responsible AI, AI Governance, and AI Security & Compliance.\n  Develop AI-powered applications, AI agents, and copilots across SAP and other enterprise platforms.\n  Design and implement RAG architectures, vector search capabilities, and AI orchestration frameworks.\n  Build scalable backend services, APIs, and microservices using modern software development practices.\n  Integrate AI solutions with SAP systems, ERP data sources, and enterprise business applications.\n  Ensure security, scalability, observability, performance, and production readiness of AI solutions.\n  Collaborate with business stakeholders, product teams, and architects to deliver end-to-end AI use cases.\n  Implement responsible AI practices, governance controls, and compliance standards.\nCandidates with experience in SAP BTP, SAP AI Core, AI Launchpad, SAP Business AI/Joule Studio, SAP Build Code, CAP (Cloud Application Programming Model), SAP Integration Suite, and SAP HANA Cloud will be preferred. However, these skills are not mandatory. Ideal candidates will come from backgrounds such as AI Engineer, GenAI Engineer, Agentic AI Developer, Full Stack AI Engineer, or SAP BTP AI Developer, with a strong passion for building enterprise-grade AI solutions and intelligent automation capabilities.\nShow more\nShow less",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://in.linkedin.com/company/infosys",
+"key": "71527a22694e68b5",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4444852609",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-29T22:31:33+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
+"cities": [
+"Bengaluru"
+],
+"exp": "fresher",
+"junior_title": false,
+"score": 95,
+"role_family": "GenAI/LLM",
+"reason": "Entry-level GenAI role; LLMs, RAG, agents, MCP strongly match",
+"drafts": {
+"note": "Hi {name}, for Infosys’s AI Application Engineer role: I work on Azure OpenAI agent workflows and built an LLM-as-a-Judge agent for 2,000+ queries. Open to a quick profile review?",
+"dm": "Hi {name}, I’m applying for the AI Application Engineer role at Infosys. At MAQ Software, I’ve worked on an enterprise GenAI assistant for Power BI using Azure OpenAI agent workflows, and built an LLM-as-a-Judge agent that auto-graded DAX and answer quality across 2,000+ test queries. I also built OnboardIQ, a RAG chatbot with LangChain and FAISS, with 150+ documents indexed and a grounding guardrail to reduce hallucinations. Since the role focuses on agentic AI, RAG, and enterprise AI applications, could you refer me for the role?",
+"email_subject": "AI Application Engineer at Infosys",
+"email_body": "Hi {name},\n\nI’m applying for the AI Application Engineer role at Infosys. At MAQ Software, I’ve worked on an enterprise GenAI assistant for Power BI using Azure OpenAI agent workflows, and built an LLM-as-a-Judge agent that auto-graded DAX and answer quality across 2,000+ test queries. I also built OnboardIQ, a RAG chatbot with LangChain and FAISS, with 150+ documents indexed and a grounding guardrail to reduce hallucinations.\n\nThe role’s focus on agentic AI, RAG, and enterprise AI applications lines up well with my recent work. If helpful, I’d appreciate a referral for the role.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The outreach is too generic for Infosys and does not mention any role-specific fit beyond broad AI topics; it should reflect the company/role more specifically (e.g., enterprise AI, SAP/enterprise platforms, AI Application Engineer).",
+"The note is 17 words, which is within limit, but the DM appears to be 95 words and the email body about 108 words, both within limits; however the company/role claim in the note is fine while the subject is generic and could be more specific to Infosys.",
+"Wording is slightly awkward in the DM/email: 'I’m applying for' plus 'could you refer me for the role?' is a bit abrupt; a clearer ask would be 'could you give my profile a quick look or refer me if it fits?'",
+"The message may overstate relevance by implying strong alignment with the role without addressing SAP/enterprise integration, which is important in the job description and currently missing from the message."
+]
+},
+"status": "active"
+},
+{
+"id": "li-4471925548",
+"source": "linkedin",
+"title": "GBM - Public Dept-Bengaluru-Associate-Software Engineering",
+"company": "Goldman Sachs",
+"location": "Bengaluru, Karnataka, India",
+"url": "https://www.linkedin.com/jobs/view/4471925548",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-29",
+"is_remote": false,
+"description": "Job Description\nGoldman Sachs - Global Banking & Markets – Electronic Trading Platforms\nAbout Goldman Sachs\nAt Goldman Sachs, we connect people, capital and ideas to help solve problems for our clients. We are a leading global financial services firm providing investment banking, securities and investment management services to a substantial and diversified client base that includes corporations, financial institutions, governments and individuals.\nAbout Electronic Trading\nGoldman Sachs offers a suite of electronic trading products and platforms designed to provide clients with efficient access to global markets. This also includes sophisticated execution and algorithmic trading strategies to optimize execution performance across different market conditions, and advanced analytics. These products cater to a wide range of asset classes, including equities, fixed income, currencies, and commodities. Goldman Sachs continually invests in its electronic trading infrastructure to provide clients with cutting-edge technology and a competitive edge in the global markets.\nYour Impact\nYou will be working on building and enhancing platforms focused on electronic trading, market making and execution. You will work with other engineers and sales and trading teams to improve all aspects of execution, price-making and risk management. You’ll do this with a keen eye on performance, guided by a robust measurement framework and lots of experimentation. You will have an opportunity to develop a deep understanding of how GS interacts with some of the most dynamic and liquid markets in the world.\nResponsibilities\nDesign, build and maintain high performance, low latency trading platform which can evolve and adapt to changes in our fast-paced, global business environment.\nAnalyze trading system performance and identify areas for improvement.\nGenerate ideas for system enhancements that drive commercial performance.\nImplement, test and deploy these ideas.\nImprove the safety and reliability of trading systems.\nManage work to balance the short-term needs of the business with strategic enhancements.\nUnderstand global market structure, regulations and exchange requirements.\nQualifications\nBachelor's degree in Computer Science/Engineering\nA deep passion for technology and software development\nProficiency in C++\nSound understanding of multi-threaded application design and development and experience with lock-free data structures\nProfessional experience working with distributed systems\nKnowledge of CPU microarchitecture, caches and memory subsystems and experience with micro-optimizations\nExperience in low latency messaging, TCP/UDP tuning, Linux latency tunings is preferred\nExperience with low latency trading platform is preferable but not necessary\nExcellent communication skills\nA self-starter, should have ability to work independently as well as thrive in a team environment\nGoldman Sachs Engineering Culture\nAt Goldman Sachs, our Engineers don’t just make things – we make things possible. Change the world by connecting people and capital with ideas. Solve the most challenging and pressing engineering problems for our clients. Join our engineering teams that build massively scalable software and systems, architect low latency infrastructure solutions, proactively guard against cyber threats, and leverage machine learning alongside financial engineering to continuously turn data into action. Create new businesses, transform finance, and explore a world of opportunity at the speed of markets.\nEngineering is at the critical center of our business, and our dynamic environment requires innovative strategic thinking and immediate, real solutions. Want to push the limit of digital possibilities? Start here!\nShow more\nShow less",
+"seniority": "Associate",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/goldman-sachs",
+"key": "fafbf04199960832",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4471925548",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-29T22:31:33+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
+"cities": [
+"Bengaluru"
+],
+"exp": "0-1",
+"junior_title": true,
+"score": 83,
+"role_family": "Software",
+"reason": "Associate SWE in Bengaluru; low-latency backend role fits well",
+"drafts": {
+"note": "Hi {name}, applying for GBM - Public Dept-Bengaluru-Associate-Software Engineering at Goldman Sachs. I build in C++ and Python; could you take a quick look at my profile?",
+"dm": "Hi {name}, I’m applying for the GBM - Public Dept-Bengaluru-Associate-Software Engineering role at Goldman Sachs. My background is strongest in C++ and Python, and I currently work on production AI systems at MAQ Software. On a recent project, I tested and improved an AI Assistant for Power BI across 30 production reports, including deployment and evaluation at scale. I also built TestForge, a FastAPI and GPT-4o tool that generates schema-valid test cases. If useful, could you take a quick look at my profile and see whether my background fits this team?",
+"email_subject": "Application for GBM Public Dept-Bengaluru Associate SWE",
+"email_body": "Hi {name},\n\nI’m applying for the GBM - Public Dept-Bengaluru-Associate-Software Engineering role at Goldman Sachs. My background is strongest in C++ and Python, and I currently work on production AI systems at MAQ Software. In my current role, I tested and improved an AI Assistant for Power BI across 30 production reports, including evaluation and deployment work. I also built TestForge, a FastAPI and GPT-4o project that generates schema-valid test cases from feature descriptions.\n\nI know this role focuses on high-performance trading platforms, and while my experience is not in low-latency trading systems, I’d value a quick look at my profile to see whether my background could fit the team.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The message is generic and not tailored to Goldman Sachs / Electronic Trading Platforms; it does not mention the role’s low-latency, distributed systems, or trading-platform focus in a specific way.",
+"The email body is about 150+ words? Actually it appears within the 90–150 word limit only if counted loosely; however the dm is under/around the 60–110 word range, but the note is too short and generic for this context. The main issue is missing specificity rather than length.",
+"The ask is a bit unclear/redundant: 'take a quick look at my profile and see whether my background could fit the team' is vague; better to ask for a referral or a direct review.",
+"Style is slightly awkward/cliché in places, e.g., 'my background is strongest in C++ and Python' without connecting to the job, and 'could you take a quick look' is generic outreach language."
+]
+},
+"status": "active"
+},
+{
+"id": "li-4471902959",
+"source": "linkedin",
+"title": "Software Engineer I",
+"company": "PAR Technology",
+"location": "Gurugram, Haryana, India",
+"url": "https://www.linkedin.com/jobs/view/4471902959",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-29",
+"is_remote": false,
+"description": "For over four decades, PAR Technology Corporation (NYSE: PAR) has been a leader in restaurant technology, empowering brands worldwide to create lasting connections with their guests. Our innovative solutions and commitment to excellence provide comprehensive software and hardware that enable seamless experiences and drive growth for over 100,000 restaurants in more than 110 countries. Embracing our \"Better Together\" ethos, we offer Unified Customer Experience solutions, combining point-of-sale, digital ordering, loyalty and back-office software solutions as well as industry-leading hardware and drive-thru offerings. To learn more, visit partech.com or connect with us on LinkedIn, X (formerly Twitter), Facebook, and Instagram.\nPosition Overview\nWe are looking for a Software Engineer I with 0–2 years of experience and a\nstrong interest in software development (Ruby on Rails or a similar backend language). This is an excellent\nopportunity to work on enterprise-grade systems and contribute to scalable, high-performance\napplications. You'll collaborate with experienced engineers and gain hands-on exposure to modern\ndevelopment practices, architecture, and tooling.\nWhat You’ll Do\nBuild, enhance, and maintain Ruby on Rails applications or similar backend systems\nTranslate product requirements into clean, efficient, and testable code\nCollaborate with cross-functional teams including backend, frontend, QA, and DevOps\nWrite unit and integration tests to ensure high code quality\nParticipate in design and code reviews to support team standards and personal growth\nLearn and apply best practices for scalable and maintainable development\nWho You Are\n0–2 years of experience in software development (internships or full-time roles)\nBasic to intermediate knowledge of Ruby on Rails or any similar backend language, demonstrated\nthrough academic, internship, open-source, or personal projects\nUnderstanding of Microservices architecture and Rest APIs.\nExposure to AI tools and technologies, with a willingness to leverage them to improve productivity and quality of work.\nFamiliarity with SQL databases like MySQL or PostgreSQL\nKnowledge of Git and CI/CD workflows is a plus\nExposure to cloud platforms (e.g., AWS) and container technologies (Docker/Kubernetes) is a\nbonus\nStrong problem-solving, analytical, and communication skills\nEagerness to learn and grow in a fast-paced, collaborative environment\nInterview Process\nPhone Screen with Talent Acquisition\nTechnical Interview with Hiring Manager (via MS Teams)\nTeam Interview with Engineering Team (via MS Teams)\nPAR is proud to provide equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. We also provide reasonable accommodations to individuals with disabilities in accordance with applicable laws. If you require reasonable accommodation to complete a job application, pre-employment testing, a job interview or to otherwise participate in the hiring process, or for your role at PAR, please contact accommodations@partech.com. If you’d like more information about your EEO rights as an applicant, please visit the US Department of Labor's website.\nShow more\nShow less",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/partechnology",
+"key": "76e052c1ffe70413",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4471902959",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-29T22:31:33+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
+"cities": [
+"Delhi NCR"
+],
+"exp": "fresher",
+"junior_title": true,
+"score": 86,
+"role_family": "Software",
+"reason": "Software Engineer I, 0-2 years, backend focus matches profile",
+"drafts": {
+"note": "Hi {name}, applying for Software Engineer I at PAR Technology. I built a FastAPI REST project with unit testing and Azure DevOps workflows—open to a quick look at my profile?",
+"dm": "Hi {name}, I’m applying for the Software Engineer I role at PAR Technology in Gurugram. My background lines up well with the backend/API side of the role: I built TestForge, a FastAPI-based agentic test-case generator with REST APIs, and I’ve also worked with Git, Docker, and Azure DevOps workflows. At MAQ Software, I’ve been working on AI-assisted products, which also fits PAR’s interest in engineers who can use AI tools productively. If you think it fits, could you take a quick look at my profile and consider referring me?",
+"email_subject": "Application for Software Engineer I at PAR Technology",
+"email_body": "Hi {name},\n\nI’m applying for the Software Engineer I role at PAR Technology in Gurugram. I’m early in my career, but my work matches several parts of the role closely. I built TestForge, a Python/FastAPI project that generates Azure DevOps test cases through REST APIs, and I’ve worked with Git, Docker, and Azure DevOps workflows. At MAQ Software, I’m currently working on AI-assisted products, including an enterprise GenAI assistant and a Copilot Studio helpdesk agent, which aligns with PAR’s interest in engineers who can use AI tools to improve development quality and speed.\n\nIf you have a minute, I’d appreciate a quick look at my profile and, if it seems aligned, a referral.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"dm uses cliché 'guru'",
+"email_body uses cliché 'guru'",
+"The message should mention PAR Technology and the Software Engineer I role consistently, but the note is generic and could be sent to any company.",
+"The note is over the ≤200 character limit.",
+"The DM is under the required 60–110 word range.",
+"The email body is under the required 90–150 word range.",
+"The claim that the candidate is 'currently working on AI-assisted products' is vague and not directly supported by the profile as written; the profile supports specific MAQ work on an AI Assistant for Power BI and a Copilot Studio helpdesk agent.",
+"The message does not mention Ruby on Rails or similar backend language, which is a key fit point for this role, and the wording 'open to a quick look at my profile?' is an unclear ask."
+]
+},
+"status": "active"
+},
+{
+"id": "li-4462261892",
+"source": "linkedin",
+"title": "Data Engineering Professional l",
+"company": "Takeda",
+"location": "Bengaluru, Karnataka, India",
+"url": "https://www.linkedin.com/jobs/view/4462261892",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-09-29",
+"is_remote": false,
+"description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.\nJob Description:\nThe Future Begins Here:\nAt Takeda, we are leading digital evolution and global transformation. By building innovative solutions and future-ready capabilities, we are meeting the need of patients, our people, and the planet.\nBengaluru has been selected to be home to Takeda’s recently launched Innovation Capability Center thanks to its international recognition in qualified and experienced talent in the data, digital and technology fields. We invite you to join our digital transformation journey.\nIn this role, you will have the opportunity to boost your skills and become the heart of an innovative engine that is contributing to global impact and improvement.\nAt Takeda’s ICC we Unite in Diversity:\nTakeda is committed to creating an inclusive and collaborative workplace, where individuals are recognized for their backgrounds and abilities they bring to our company. We are continuously improving our collaborators journey in Takeda, and we welcome applications from all qualified candidates. Here, you will feel welcomed, respected, and valued as an important contributor to our diverse team.\nOBJECTIVES/PURPOSE:\nAs a Data Engineer I, you will be responsible for building and maintaining data systems and constructing data tables and data models that are optimized for operations and analysis, supporting several Business Function requirements and downstream systems.\nACCOUNTABILITIES:\nDevelop and maintain scalable data models and pipelines using AWS native technologies to support increasing data sources, volumes, and complexity.\nCollaborate with several business functions to improve data models and its quality to support the development of digital products, fostering data-driven decision-making across the organization.\nImplement processes and systems to ensure data reconciliation, monitor data quality, and ensure production data is accurate and available for key stakeholders, downstream systems, digital products, and business processes.\nWrite unit, integration, and performance test scripts, contribute to engineering documentation, and maintain the engineering wiki.\nPerform data analysis to troubleshoot and resolve data-related issues.\nWork closely with AGILE SCRUM Teams, specifically frontend and backend engineers, product managers, scrum masters, quality engineers to deliver integrated and scalable data products.\nCollaborate with enterprise teams, including Enterprise Architecture, Security, and Enterprise Data Backbone Engineering, to design and develop data integration patterns and models supporting various digital products.\nPartner with DevOps and the Cloud Center of Excellence to deploy data pipeline solutions in the Takeda AWS environments, meeting security and performance standards.\nSupport and align with Data Trustees, Data Stewards, and Master Data Management functions following Data Governance principles.\nEDUCATION, BEHAVIOURAL COMPETENCIES AND SKILLS:\nEssential:\nBachelor’s Degree from an accredited institution in Engineering, Computer Science, or a related field.\n2+ (preferably 3+) years of experience in data engineering, software development, data warehousing, data lake/mesh, and supporting digital products developing data products following FAIR data principles.\nStrong expertise in data integration, data modeling, and modern database technologies.\nExperience in DBA, schema design & dimensional modeling, and SQL optimization.\nExcellent written and verbal communication skills, with the ability to collaborate effectively with cross-functional teams.\nUnderstanding of good engineering practices (DevSecOps, source-code versioning using GIT, ...)\nProficient working in AGILE S",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://jp.linkedin.com/company/takeda-pharmaceuticals",
+"key": "fe2bda77b6b2ce07",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4462261892",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-29T22:31:33+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
+"cities": [
+"Bengaluru"
+],
+"exp": "fresher",
+"junior_title": false,
+"score": 90,
+"role_family": "Data Engineering",
+"reason": "Entry-level data engineer; ETL, models, cloud pipelines match",
+"drafts": {
+"note": "Hi {name}, applying for Data Engineer I at Takeda. I built a Fabric Lakehouse with incremental loads, zero-duplicate reruns, and data checks. Open to a quick profile review?",
+"dm": "Hi {name}, I’m applying for the Data Engineer I role at Takeda. My hands-on data engineering work is in Microsoft Fabric/Azure rather than AWS, but it maps closely to the core pipeline and data quality work in the role. I built a Fabric Lakehouse with a 5-table star schema, watermark-based incremental loads, 100% idempotent reruns with zero duplicates, and PySpark validation for fact-dimension joins. At MAQ Software, I also trained on Azure Data Factory, Azure SQL, Synapse, and PySpark. If my background looks relevant, would you be open to referring me for the role?",
+"email_subject": "Application for Data Engineer I at Takeda",
+"email_body": "Hi {name},\n\nI’m applying for the Data Engineer I role at Takeda. My direct data engineering experience is in Microsoft Fabric/Azure rather than AWS, but it lines up well with the pipeline, modeling, and data quality parts of the role. In my RetailPulse project, I built a medallion Lakehouse with a 5-table star schema, watermark-based incremental loads, 100% idempotent reruns with zero duplicates, and PySpark validation across fact-dimension joins. At MAQ Software, I also trained on Azure Data Factory, Azure SQL, Synapse Analytics, and PySpark.\n\nIf my background seems relevant despite the cloud difference, would you be open to referring me for the role?\n\nBest,\nKousik Maity\nLinkedIn: https://www.linkedin.com/in/kousik-maity/\nGitHub: https://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The message is too generic for Takeda in the note and body; it doesn’t mention Takeda’s AWS-based data engineering focus beyond a brief caveat, so the role/company fit is weak.",
+"The note is only 174 characters? Actually it may be under the 200-character limit, but the DM appears to be under 60–110 words? No: it is ~90+ words, and the email body is ~120+ words, so length is okay.",
+"The email body includes an unsupported claim of “my direct data engineering experience” that may imply job experience beyond the profile; the profile shows project/training experience, not formal data engineering work experience.",
+"The ask is slightly unclear/mixed: it asks for a referral only if the background is relevant, but it also says ‘open to a quick profile review?’ in the note, which is inconsistent and less direct."
+]
+},
+"status": "active"
+},
+{
+"id": "site-hirist-15c9ad42ac20",
+"source": "hirist",
+"title": "AI Engineer - Enterprise Conversational Platform 0 - 2 yrs 20-25 LPA Noida/Gurgaon/Gurugram Machine Learning Python Generative AI LLM Posted 1 day ago Posted 1 ",
+"company": "",
+"location": "India",
+"url": "https://www.hirist.tech/j/ai-engineer-enterprise-conversational-platform-1675747?ref=cl&jobPos=4",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": false,
+"description": "You need to enable JavaScript to run this app.\nAI/ML\nArtificial Intelligence\nMachine Learning\nNLP\nGenerative AI\nPredictive Modeling\nQuery Segmentation\nAI Interface\nLLM\nDeep Learning\nMLOps\nSecurity Architect - AI\nCloud Architect - ML/AI\nData Scientist\nData Modeling\nData Analytics\nData Analytics & BI\nAnalytics\nData Science\nData Mining\nTableau\nPower BI\nQuantitative Analytics\nData Visualization\nData Analyst\nData Engineering\nData Engineering\nBig Data\nHadoop\nHive\nBigQuery\nETL\nSoftware Development\nBackend Development\nPython\nJava\nGoLang\nR\nDjango\nNodeJs\nSpring\nHibernate\nFrontend Development\nReactJS\nAngularJS\nJavascript\nJQuery\nBootstrap\nUI\nUX\nFull Stack\nFull Stack\nMERN Stack\nLAMP\nMEAN\nNode.JS\nReact.js\nRESTful API\nMobile Applications\niOS\nAndroid\nReact Native\nIonic\nPhonegap\nXamarin\nOpenGL\nEmerging Technologies\nBlockchain\nCryptocurrency\nAugmented Reality\nVirtual Reality\niOT\nDevOps / SRE\nSite Reliability\nAWS\nAZURE\nCloud Architect\nDocker\nPuppet\nJenkins\nChef\nKubernetes\nGoogle Cloud Platform\nCyberSecurity\nCyber Security\nCloud Security\nCISSP\nCISM\nInformation Security\nData Security\nIT Security Strategy\nNetwork Security\nFirewall\nIAM\nSailpoint\nQuality Assurance\nPerformance Testing\nApplication Testing\nWhite Box Testing\nSecurity Testing\nLoad Testing\nMobile Testing\nAutomation Testing Tools\nSelenium\nTest Architect\nPlatform Engineering / SAP/Oracle\nPega\nRPA\nERP\nSAP FICO\nCRM\nSAP Implementation\nTechno-Functional Consultant\nSalesforce\nIntegration Tools\nSharepoint\nPowerApps\nOracle Apps\nPresales\nSolution Design\nLCDP\nMainframe\nInformatica\nProduct / Design\nProduct Management\nProduct Strategy\nProduct Roadmap\nChief Product Officer\nUX Strategy\nUser Story\nWireframe\nStoryboard\nJira\nBusiness Analysis and Project Management\nProject Management\nBusiness Analyst\nTechno-Functional Consultant\nProgram Management\nAgile\nScrum\nPMP\nUI & Design\nUI\nUX\nPhotoshop\nIllustrator\nInfographics\nCorelDRAW\nInDesign\nSketch\nFigma\nInteraction Design\nOthers\nSemiconductor/VLSI/EDA\nMATLAB\nVerilog\nRTL\nASIC\nPhysical Design\nSystem Verilog\nVHDL\nBoard Design\nVLSI\nOthers\nIT Operations\nTechnical Support\nSystem Administration\nDBMS\nDBA\nIT Infrastructure\nTechnical Writing\nSEO\nNetwork Support\nITIL\nIncident Management\nChange Management\nITSM\nAI/ML\nData Analytics\nSoftware Development\nProduct / Design\nOthers\nCourses\nHome\n>\n>\nJob Description\nLoading chat...",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "4b12a2983002f6b9",
+"links": [
+{
+"source": "hirist",
+"url": "https://www.hirist.tech/j/ai-engineer-enterprise-conversational-platform-1675747?ref=cl&jobPos=4",
+"apply_type": "board",
+"apply_url": ""
+},
+{
+"source": "hirist",
+"url": "https://www.hirist.tech/j/ai-engineer-enterprise-conversational-platform-1675747?ref=kp&jobPos=3",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-29T22:31:33+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
+"cities": [
+"India"
+],
+"exp": "0-1",
+"junior_title": false,
+"score": 92,
+"role_family": "GenAI/LLM",
+"reason": "Strong GenAI role, 0-2 years, Noida/Gurgaon, Python and LLM match.",
+"drafts": {
+"note": "Hi {name}, applying for the AI Engineer - Enterprise Conversational Platform role in Noida/Gurgaon. I built an LLM-as-a-Judge agent across 2,000+ queries—open to connect?",
+"dm": "Hi {name}, I’m applying for the AI Engineer - Enterprise Conversational Platform role in Noida/Gurgaon. At MAQ Software, I worked on an enterprise GenAI assistant for Power BI and built an LLM-as-a-Judge agent that auto-graded DAX and answers across 2,000+ test queries. I also built OnboardIQ, a RAG onboarding chatbot in Python with FAISS and guardrails to reduce hallucinations. The role’s focus on enterprise conversational AI, Python, and LLMs matches my recent work closely. If helpful, would you be open to referring me for the role?",
+"email_subject": "AI Engineer - Enterprise Conversational Platform application",
+"email_body": "Hi {name},\n\nI’m applying for the AI Engineer - Enterprise Conversational Platform role in Noida/Gurgaon. At MAQ Software, I worked on an enterprise GenAI assistant for Power BI and built an LLM-as-a-Judge agent that auto-graded generated DAX and answers across 2,000+ test queries. I also built OnboardIQ, a Python RAG onboarding chatbot using FAISS and guardrails to improve grounded responses.\n\nThis role’s focus on enterprise conversational AI, Python, and LLMs is closely aligned with the work I’m doing now. If useful, would you be open to referring me for the role?\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"Company name is missing, so the outreach is too generic and not tailored to a specific company.",
+"The role/location are only partially specific; the message says Noida/Gurgaon, but the company is unknown and the job description mentions India broadly.",
+"The note is only a partial sentence and ends with an awkward ask (“open to connect?”), which is unclear.",
+"The DM is 110+ words and the email body is over the 90–150 word limit."
+]
+},
+"status": "active"
+},
+{
+"id": "site-hirist-78ea84f76754",
+"source": "hirist",
+"title": "Ekfrazo Technologies - Agentic AI Developer 1 - 3 yrs Noida 3.9 37+ Reviews Python Generative AI RAG Agentic AI Artificial Intelligence Posted 5 days ago Posted",
+"company": "",
+"location": "India",
+"url": "https://www.hirist.tech/j/ekfrazo-technologies-agentic-ai-developer-1674645?ref=cl&jobPos=5",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": false,
+"description": "You need to enable JavaScript to run this app.\nAI/ML\nArtificial Intelligence\nMachine Learning\nNLP\nGenerative AI\nPredictive Modeling\nQuery Segmentation\nAI Interface\nLLM\nDeep Learning\nMLOps\nSecurity Architect - AI\nCloud Architect - ML/AI\nData Scientist\nData Modeling\nData Analytics\nData Analytics & BI\nAnalytics\nData Science\nData Mining\nTableau\nPower BI\nQuantitative Analytics\nData Visualization\nData Analyst\nData Engineering\nData Engineering\nBig Data\nHadoop\nHive\nBigQuery\nETL\nSoftware Development\nBackend Development\nPython\nJava\nGoLang\nR\nDjango\nNodeJs\nSpring\nHibernate\nFrontend Development\nReactJS\nAngularJS\nJavascript\nJQuery\nBootstrap\nUI\nUX\nFull Stack\nFull Stack\nMERN Stack\nLAMP\nMEAN\nNode.JS\nReact.js\nRESTful API\nMobile Applications\niOS\nAndroid\nReact Native\nIonic\nPhonegap\nXamarin\nOpenGL\nEmerging Technologies\nBlockchain\nCryptocurrency\nAugmented Reality\nVirtual Reality\niOT\nDevOps / SRE\nSite Reliability\nAWS\nAZURE\nCloud Architect\nDocker\nPuppet\nJenkins\nChef\nKubernetes\nGoogle Cloud Platform\nCyberSecurity\nCyber Security\nCloud Security\nCISSP\nCISM\nInformation Security\nData Security\nIT Security Strategy\nNetwork Security\nFirewall\nIAM\nSailpoint\nQuality Assurance\nPerformance Testing\nApplication Testing\nWhite Box Testing\nSecurity Testing\nLoad Testing\nMobile Testing\nAutomation Testing Tools\nSelenium\nTest Architect\nPlatform Engineering / SAP/Oracle\nPega\nRPA\nERP\nSAP FICO\nCRM\nSAP Implementation\nTechno-Functional Consultant\nSalesforce\nIntegration Tools\nSharepoint\nPowerApps\nOracle Apps\nPresales\nSolution Design\nLCDP\nMainframe\nInformatica\nProduct / Design\nProduct Management\nProduct Strategy\nProduct Roadmap\nChief Product Officer\nUX Strategy\nUser Story\nWireframe\nStoryboard\nJira\nBusiness Analysis and Project Management\nProject Management\nBusiness Analyst\nTechno-Functional Consultant\nProgram Management\nAgile\nScrum\nPMP\nUI & Design\nUI\nUX\nPhotoshop\nIllustrator\nInfographics\nCorelDRAW\nInDesign\nSketch\nFigma\nInteraction Design\nOthers\nSemiconductor/VLSI/EDA\nMATLAB\nVerilog\nRTL\nASIC\nPhysical Design\nSystem Verilog\nVHDL\nBoard Design\nVLSI\nOthers\nIT Operations\nTechnical Support\nSystem Administration\nDBMS\nDBA\nIT Infrastructure\nTechnical Writing\nSEO\nNetwork Support\nITIL\nIncident Management\nChange Management\nITSM\nAI/ML\nData Analytics\nSoftware Development\nProduct / Design\nOthers\nCourses\nHome\n>\n>\nJob Description\nLoading chat...",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "a8cb716575747d03",
+"links": [
+{
+"source": "hirist",
+"url": "https://www.hirist.tech/j/ekfrazo-technologies-agentic-ai-developer-1674645?ref=cl&jobPos=5",
+"apply_type": "board",
+"apply_url": ""
+},
+{
+"source": "hirist",
+"url": "https://www.hirist.tech/j/ekfrazo-technologies-agentic-ai-developer-1674645?ref=kp&jobPos=8",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-29T22:31:33+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
+"cities": [
+"India"
+],
+"exp": "0-1",
+"junior_title": true,
+"score": 88,
+"role_family": "GenAI/LLM",
+"reason": "Agentic AI role, 1-3 years, Noida, RAG and Python fit well.",
+"drafts": {
+"note": "Hi {name}, applying for Agentic AI Developer at Ekfrazo in Noida. I built an LLM-as-a-Judge agent for 2,000+ DAX queries and a RAG chatbot with 150+ docs. Please take a quick look at my profile.",
+"dm": "Hi {name}, I’m applying for the Agentic AI Developer role at Ekfrazo in Noida. My current work at MAQ Software is closely aligned: I worked on an enterprise GenAI assistant for Power BI and built an LLM-as-a-Judge agent that auto-graded generated DAX and answers across 2,000+ test queries. I also built OnboardIQ, a RAG onboarding chatbot in Python with LangChain and FAISS, indexing 150+ documents with about 90% top-3 retrieval accuracy. I’d appreciate it if you could take a quick look at my profile for fit.",
+"email_subject": "Agentic AI Developer, Ekfrazo Noida — Kousik Maity",
+"email_body": "Hi {name},\n\nI’m applying for the Agentic AI Developer role at Ekfrazo in Noida. My current work at MAQ Software lines up well with the role’s focus on Python, Generative AI, RAG, and agentic systems. I worked on an enterprise GenAI assistant for Power BI and built an LLM-as-a-Judge agent that auto-graded generated DAX and answers across 2,000+ test queries. I also built OnboardIQ, a RAG onboarding chatbot in Python using LangChain and FAISS, indexing 150+ documents with about 90% top-3 retrieval accuracy.\n\nI’d appreciate it if you could take a quick look at my profile for fit.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The message is too generic in the ask: 'take a quick look at my profile for fit' is unclear; it should ask for a referral or a brief review explicitly.",
+"The email body appears under the 90–150 word limit; it is too short for the stated constraints."
+]
+},
+"status": "active"
+},
+{
+"id": "site-hirist-9cafce4ec3dc",
+"source": "hirist",
+"title": "AI Engineer - Enterprise Conversational Platform 0 - 2 yrs 20-25 LPA Noida/Gurgaon/Gurugram Generative AI Machine Learning Python LLM Posted 1 day ago Posted 1 ",
+"company": "",
+"location": "India",
+"url": "https://www.hirist.tech/j/ai-engineer-enterprise-conversational-platform-1675747?ref=kp&jobPos=1",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": false,
+"description": "You need to enable JavaScript to run this app.\nAI/ML\nArtificial Intelligence\nMachine Learning\nNLP\nGenerative AI\nPredictive Modeling\nQuery Segmentation\nAI Interface\nLLM\nDeep Learning\nMLOps\nSecurity Architect - AI\nCloud Architect - ML/AI\nData Scientist\nData Modeling\nData Analytics\nData Analytics & BI\nAnalytics\nData Science\nData Mining\nTableau\nPower BI\nQuantitative Analytics\nData Visualization\nData Analyst\nData Engineering\nData Engineering\nBig Data\nHadoop\nHive\nBigQuery\nETL\nSoftware Development\nBackend Development\nPython\nJava\nGoLang\nR\nDjango\nNodeJs\nSpring\nHibernate\nFrontend Development\nReactJS\nAngularJS\nJavascript\nJQuery\nBootstrap\nUI\nUX\nFull Stack\nFull Stack\nMERN Stack\nLAMP\nMEAN\nNode.JS\nReact.js\nRESTful API\nMobile Applications\niOS\nAndroid\nReact Native\nIonic\nPhonegap\nXamarin\nOpenGL\nEmerging Technologies\nBlockchain\nCryptocurrency\nAugmented Reality\nVirtual Reality\niOT\nDevOps / SRE\nSite Reliability\nAWS\nAZURE\nCloud Architect\nDocker\nPuppet\nJenkins\nChef\nKubernetes\nGoogle Cloud Platform\nCyberSecurity\nCyber Security\nCloud Security\nCISSP\nCISM\nInformation Security\nData Security\nIT Security Strategy\nNetwork Security\nFirewall\nIAM\nSailpoint\nQuality Assurance\nPerformance Testing\nApplication Testing\nWhite Box Testing\nSecurity Testing\nLoad Testing\nMobile Testing\nAutomation Testing Tools\nSelenium\nTest Architect\nPlatform Engineering / SAP/Oracle\nPega\nRPA\nERP\nSAP FICO\nCRM\nSAP Implementation\nTechno-Functional Consultant\nSalesforce\nIntegration Tools\nSharepoint\nPowerApps\nOracle Apps\nPresales\nSolution Design\nLCDP\nMainframe\nInformatica\nProduct / Design\nProduct Management\nProduct Strategy\nProduct Roadmap\nChief Product Officer\nUX Strategy\nUser Story\nWireframe\nStoryboard\nJira\nBusiness Analysis and Project Management\nProject Management\nBusiness Analyst\nTechno-Functional Consultant\nProgram Management\nAgile\nScrum\nPMP\nUI & Design\nUI\nUX\nPhotoshop\nIllustrator\nInfographics\nCorelDRAW\nInDesign\nSketch\nFigma\nInteraction Design\nOthers\nSemiconductor/VLSI/EDA\nMATLAB\nVerilog\nRTL\nASIC\nPhysical Design\nSystem Verilog\nVHDL\nBoard Design\nVLSI\nOthers\nIT Operations\nTechnical Support\nSystem Administration\nDBMS\nDBA\nIT Infrastructure\nTechnical Writing\nSEO\nNetwork Support\nITIL\nIncident Management\nChange Management\nITSM\nAI/ML\nData Analytics\nSoftware Development\nProduct / Design\nOthers\nCourses\nHome\n>\n>\nJob Description\nLoading chat...",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "cc869232cd7ec0fc",
+"links": [
+{
+"source": "hirist",
+"url": "https://www.hirist.tech/j/ai-engineer-enterprise-conversational-platform-1675747?ref=kp&jobPos=1",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-29T22:31:33+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
+"cities": [
+"India"
+],
+"exp": "0-1",
+"junior_title": false,
+"score": 92,
+"role_family": "GenAI/LLM",
+"reason": "Strong GenAI role, 0-2 years, Noida/Gurgaon, Python and LLM match.",
+"drafts": {
+"note": "Hi {name}, applying for the AI Engineer - Enterprise Conversational Platform role. I built an LLM-as-a-Judge agent for 2,000+ queries. Could you point me to the right recruiter for this opening?",
+"dm": "Hi {name}, I applied for the AI Engineer - Enterprise Conversational Platform role. At MAQ Software, I worked on an enterprise GenAI assistant for Power BI and built an LLM-as-a-Judge agent that auto-graded generated DAX and answers across 2,000+ test queries. I also built OnboardIQ, a RAG onboarding chatbot with 150+ documents indexed and grounding guardrails to reduce hallucinations. If you’re the right person for this opening, could you take a quick look at my profile or route me to the recruiter handling it?",
+"email_subject": "AI Engineer - Enterprise Conversational Platform application",
+"email_body": "Hi {name},\n\nI applied for the AI Engineer - Enterprise Conversational Platform role. At MAQ Software, I worked on an enterprise GenAI assistant for Power BI and built an LLM-as-a-Judge agent that auto-graded generated DAX and answers across 2,000+ test queries. That lines up well with the role’s focus on enterprise conversational AI, LLMs, and Python. I also built OnboardIQ, a RAG onboarding chatbot with 150+ documents indexed and a grounding guardrail that reduced hallucinations on a 40-question test set.\n\nIf you’re the right person for this opening, could you take a quick look at my profile or direct me to the recruiter handling it?\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The company name is missing, so the outreach is too generic for this opening.",
+"The role/company context is weakly specific in the note and DM; the message could be sent to any employer.",
+"\"I applied\" may be inaccurate unless the application was actually submitted; the profile only supports that he is targeting the role.",
+"Length check: the note exceeds the ≤200 character limit, the DM appears to exceed the 60–110 word limit, and the email body appears to exceed the 90–150 word limit."
+]
+},
+"status": "active"
+},
+{
+"id": "site-hirist-947a5e3f87df",
+"source": "hirist",
+"title": "Ekfrazo Technologies - Agentic AI Developer 1 - 3 yrs Noida 3.9 37+ Reviews Generative AI Python RAG Agentic AI Artificial Intelligence Posted 5 days ago Posted",
+"company": "",
+"location": "India",
+"url": "https://www.hirist.tech/j/ekfrazo-technologies-agentic-ai-developer-1674645?ref=kp&jobPos=2",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": false,
+"description": "You need to enable JavaScript to run this app.\nAI/ML\nArtificial Intelligence\nMachine Learning\nNLP\nGenerative AI\nPredictive Modeling\nQuery Segmentation\nAI Interface\nLLM\nDeep Learning\nMLOps\nSecurity Architect - AI\nCloud Architect - ML/AI\nData Scientist\nData Modeling\nData Analytics\nData Analytics & BI\nAnalytics\nData Science\nData Mining\nTableau\nPower BI\nQuantitative Analytics\nData Visualization\nData Analyst\nData Engineering\nData Engineering\nBig Data\nHadoop\nHive\nBigQuery\nETL\nSoftware Development\nBackend Development\nPython\nJava\nGoLang\nR\nDjango\nNodeJs\nSpring\nHibernate\nFrontend Development\nReactJS\nAngularJS\nJavascript\nJQuery\nBootstrap\nUI\nUX\nFull Stack\nFull Stack\nMERN Stack\nLAMP\nMEAN\nNode.JS\nReact.js\nRESTful API\nMobile Applications\niOS\nAndroid\nReact Native\nIonic\nPhonegap\nXamarin\nOpenGL\nEmerging Technologies\nBlockchain\nCryptocurrency\nAugmented Reality\nVirtual Reality\niOT\nDevOps / SRE\nSite Reliability\nAWS\nAZURE\nCloud Architect\nDocker\nPuppet\nJenkins\nChef\nKubernetes\nGoogle Cloud Platform\nCyberSecurity\nCyber Security\nCloud Security\nCISSP\nCISM\nInformation Security\nData Security\nIT Security Strategy\nNetwork Security\nFirewall\nIAM\nSailpoint\nQuality Assurance\nPerformance Testing\nApplication Testing\nWhite Box Testing\nSecurity Testing\nLoad Testing\nMobile Testing\nAutomation Testing Tools\nSelenium\nTest Architect\nPlatform Engineering / SAP/Oracle\nPega\nRPA\nERP\nSAP FICO\nCRM\nSAP Implementation\nTechno-Functional Consultant\nSalesforce\nIntegration Tools\nSharepoint\nPowerApps\nOracle Apps\nPresales\nSolution Design\nLCDP\nMainframe\nInformatica\nProduct / Design\nProduct Management\nProduct Strategy\nProduct Roadmap\nChief Product Officer\nUX Strategy\nUser Story\nWireframe\nStoryboard\nJira\nBusiness Analysis and Project Management\nProject Management\nBusiness Analyst\nTechno-Functional Consultant\nProgram Management\nAgile\nScrum\nPMP\nUI & Design\nUI\nUX\nPhotoshop\nIllustrator\nInfographics\nCorelDRAW\nInDesign\nSketch\nFigma\nInteraction Design\nOthers\nSemiconductor/VLSI/EDA\nMATLAB\nVerilog\nRTL\nASIC\nPhysical Design\nSystem Verilog\nVHDL\nBoard Design\nVLSI\nOthers\nIT Operations\nTechnical Support\nSystem Administration\nDBMS\nDBA\nIT Infrastructure\nTechnical Writing\nSEO\nNetwork Support\nITIL\nIncident Management\nChange Management\nITSM\nAI/ML\nData Analytics\nSoftware Development\nProduct / Design\nOthers\nCourses\nHome\n>\n>\nJob Description\nLoading chat...",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "126597f974dbfd36",
+"links": [
+{
+"source": "hirist",
+"url": "https://www.hirist.tech/j/ekfrazo-technologies-agentic-ai-developer-1674645?ref=kp&jobPos=2",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-29T22:31:33+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
+"cities": [
+"India"
+],
+"exp": "0-1",
+"junior_title": true,
+"score": 88,
+"role_family": "GenAI/LLM",
+"reason": "Agentic AI role, 1-3 years, Noida, RAG and Python fit well.",
+"drafts": {
+"note": "Hi {name}, I’m applying for Ekfrazo’s Agentic AI Developer role. At MAQ, I built an LLM-as-a-Judge agent for 2,000+ queries and a Copilot helpdesk agent. Can we connect?",
+"dm": "Hi {name}, I’m applying for Ekfrazo Technologies’ Agentic AI Developer role in Noida. At MAQ Software, I worked on an enterprise GenAI assistant for Power BI and built an LLM-as-a-Judge agent that auto-graded generated DAX and answers across 2,000+ test queries. I also built an IT-helpdesk agent in Microsoft Copilot Studio with a SharePoint knowledge source and Microsoft Teams deployment. Since the role calls for Generative AI, Python, RAG, and agentic AI, I’d value it if you could take a quick look at my profile and let me know whether I’d be a fit for the team.",
+"email_subject": "Applying for Ekfrazo Agentic AI Developer role",
+"email_body": "Hi {name},\n\nI’m applying for Ekfrazo Technologies’ Agentic AI Developer role in Noida. My current work at MAQ Software is closely tied to the core requirements: I worked on an enterprise GenAI assistant for Power BI and built an LLM-as-a-Judge agent that auto-grades generated DAX and answers across 2,000+ test queries. I also built an IT-helpdesk agent in Microsoft Copilot Studio using a SharePoint knowledge source and deployed it in Microsoft Teams.\n\nAlongside that, I’ve built a RAG onboarding chatbot in Python with LangChain and FAISS, including a grounding guardrail to reduce hallucinations. I’d appreciate it if you could take a quick look at my profile and let me know whether I’d be a fit for the role.\n\nBest,\nKousik Maity\nLinkedIn: https://www.linkedin.com/in/kousik-maity/\nGitHub: https://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The message is generic in places and does not specifically reference Ekfrazo beyond the role name; it should mention a company-specific hook or why this role/company is a fit.",
+"The email body is about 160+ words, which exceeds the 90–150 word limit.",
+"The note/DM ask is a bit unclear and slightly awkward: \"let me know whether I’d be a fit for the team\" is softer than the requested single clear ask for a referral or a quick look at the profile."
+]
+},
+"status": "active"
+},
+{
+"id": "site-hirist-8b87caf1b7dd",
+"source": "hirist",
+"title": "AI Engineer - Enterprise Conversational Platform 0 - 2 yrs 20-25 LPA Noida/Gurgaon/Gurugram Python Machine Learning Generative AI LLM Posted 1 day ago Posted 1 ",
+"company": "",
+"location": "India",
+"url": "https://www.hirist.tech/j/ai-engineer-enterprise-conversational-platform-1675747?ref=kp&jobPos=5",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": false,
+"description": "You need to enable JavaScript to run this app.\nAI/ML\nArtificial Intelligence\nMachine Learning\nNLP\nGenerative AI\nPredictive Modeling\nQuery Segmentation\nAI Interface\nLLM\nDeep Learning\nMLOps\nSecurity Architect - AI\nCloud Architect - ML/AI\nData Scientist\nData Modeling\nData Analytics\nData Analytics & BI\nAnalytics\nData Science\nData Mining\nTableau\nPower BI\nQuantitative Analytics\nData Visualization\nData Analyst\nData Engineering\nData Engineering\nBig Data\nHadoop\nHive\nBigQuery\nETL\nSoftware Development\nBackend Development\nPython\nJava\nGoLang\nR\nDjango\nNodeJs\nSpring\nHibernate\nFrontend Development\nReactJS\nAngularJS\nJavascript\nJQuery\nBootstrap\nUI\nUX\nFull Stack\nFull Stack\nMERN Stack\nLAMP\nMEAN\nNode.JS\nReact.js\nRESTful API\nMobile Applications\niOS\nAndroid\nReact Native\nIonic\nPhonegap\nXamarin\nOpenGL\nEmerging Technologies\nBlockchain\nCryptocurrency\nAugmented Reality\nVirtual Reality\niOT\nDevOps / SRE\nSite Reliability\nAWS\nAZURE\nCloud Architect\nDocker\nPuppet\nJenkins\nChef\nKubernetes\nGoogle Cloud Platform\nCyberSecurity\nCyber Security\nCloud Security\nCISSP\nCISM\nInformation Security\nData Security\nIT Security Strategy\nNetwork Security\nFirewall\nIAM\nSailpoint\nQuality Assurance\nPerformance Testing\nApplication Testing\nWhite Box Testing\nSecurity Testing\nLoad Testing\nMobile Testing\nAutomation Testing Tools\nSelenium\nTest Architect\nPlatform Engineering / SAP/Oracle\nPega\nRPA\nERP\nSAP FICO\nCRM\nSAP Implementation\nTechno-Functional Consultant\nSalesforce\nIntegration Tools\nSharepoint\nPowerApps\nOracle Apps\nPresales\nSolution Design\nLCDP\nMainframe\nInformatica\nProduct / Design\nProduct Management\nProduct Strategy\nProduct Roadmap\nChief Product Officer\nUX Strategy\nUser Story\nWireframe\nStoryboard\nJira\nBusiness Analysis and Project Management\nProject Management\nBusiness Analyst\nTechno-Functional Consultant\nProgram Management\nAgile\nScrum\nPMP\nUI & Design\nUI\nUX\nPhotoshop\nIllustrator\nInfographics\nCorelDRAW\nInDesign\nSketch\nFigma\nInteraction Design\nOthers\nSemiconductor/VLSI/EDA\nMATLAB\nVerilog\nRTL\nASIC\nPhysical Design\nSystem Verilog\nVHDL\nBoard Design\nVLSI\nOthers\nIT Operations\nTechnical Support\nSystem Administration\nDBMS\nDBA\nIT Infrastructure\nTechnical Writing\nSEO\nNetwork Support\nITIL\nIncident Management\nChange Management\nITSM\nAI/ML\nData Analytics\nSoftware Development\nProduct / Design\nOthers\nCourses\nHome\n>\n>\nJob Description\nLoading chat...",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "eae38050d72a213c",
+"links": [
+{
+"source": "hirist",
+"url": "https://www.hirist.tech/j/ai-engineer-enterprise-conversational-platform-1675747?ref=kp&jobPos=5",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-29T22:31:33+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
+"cities": [
+"India"
+],
+"exp": "0-1",
+"junior_title": false,
+"score": 92,
+"role_family": "GenAI/LLM",
+"reason": "Strong GenAI role, 0-2 years, Noida/Gurgaon, Python and LLM match.",
+"drafts": {
+"note": "Hi {name}, I’m reaching out about the AI Engineer role at your company. I work on an Azure OpenAI assistant for Power BI and built an LLM judge on 2,000+ queries. Open to connecting?",
+"dm": "Hi {name}, I’m applying for the AI Engineer - Enterprise Conversational Platform role at your company. At MAQ Software, I’ve worked on an Azure OpenAI assistant for Power BI across 30 production reports and built an LLM-as-a-Judge agent to evaluate 2,000+ test queries. I also built OnboardIQ, a RAG chatbot with hybrid search and grounding guardrails. Since this role centers on enterprise conversational AI, LLMs, Python, and ML, I’d value a quick look at my profile and whether my background fits what your team needs.",
+"email_subject": "AI Engineer - Enterprise Conversational Platform application",
+"email_body": "Hi {name},\n\nI’m applying for the AI Engineer - Enterprise Conversational Platform role at your company. At MAQ Software, I’ve worked on an enterprise Azure OpenAI assistant for Power BI across 30 production reports, including building an LLM-as-a-Judge agent to evaluate 2,000+ test queries and trace failure modes. I also built OnboardIQ, a RAG onboarding chatbot in Python with hybrid search and a grounding guardrail to reduce hallucinations.\n\nGiven the role’s focus on enterprise conversational AI, LLMs, Python, and ML, I’d appreciate a quick review of my profile to see if my background aligns with the team’s needs.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The company is missing, so the message is generic and not tailored to a specific employer.",
+"The ask is a bit unclear/generic in the note and DM (“Open to connecting?” / “quick look at my profile”) rather than one clear referral or profile-review request.",
+"The email body is slightly short for the 90–150 word limit if counted strictly (it is near the boundary and may be under depending on formatting)."
+]
+},
+"status": "active"
+},
+{
+"id": "site-hirist-108250b1594b",
+"source": "hirist",
+"title": "Binocs - Software Development Engineer I - Backend Architecture 0 - 1 yrs Bangalore Python Java Node.js Backend Architecture Golang Multithreading +1 Posted 6 d",
+"company": "",
+"location": "India",
+"url": "https://www.hirist.tech/j/binocs-software-development-engineer-i-backend-architecture-1674507?ref=kp&jobPos=12",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": false,
+"description": "You need to enable JavaScript to run this app.\nAI/ML\nArtificial Intelligence\nMachine Learning\nNLP\nGenerative AI\nPredictive Modeling\nQuery Segmentation\nAI Interface\nLLM\nDeep Learning\nMLOps\nSecurity Architect - AI\nCloud Architect - ML/AI\nData Scientist\nData Modeling\nData Analytics\nData Analytics & BI\nAnalytics\nData Science\nData Mining\nTableau\nPower BI\nQuantitative Analytics\nData Visualization\nData Analyst\nData Engineering\nData Engineering\nBig Data\nHadoop\nHive\nBigQuery\nETL\nSoftware Development\nBackend Development\nPython\nJava\nGoLang\nR\nDjango\nNodeJs\nSpring\nHibernate\nFrontend Development\nReactJS\nAngularJS\nJavascript\nJQuery\nBootstrap\nUI\nUX\nFull Stack\nFull Stack\nMERN Stack\nLAMP\nMEAN\nNode.JS\nReact.js\nRESTful API\nMobile Applications\niOS\nAndroid\nReact Native\nIonic\nPhonegap\nXamarin\nOpenGL\nEmerging Technologies\nBlockchain\nCryptocurrency\nAugmented Reality\nVirtual Reality\niOT\nDevOps / SRE\nSite Reliability\nAWS\nAZURE\nCloud Architect\nDocker\nPuppet\nJenkins\nChef\nKubernetes\nGoogle Cloud Platform\nCyberSecurity\nCyber Security\nCloud Security\nCISSP\nCISM\nInformation Security\nData Security\nIT Security Strategy\nNetwork Security\nFirewall\nIAM\nSailpoint\nQuality Assurance\nPerformance Testing\nApplication Testing\nWhite Box Testing\nSecurity Testing\nLoad Testing\nMobile Testing\nAutomation Testing Tools\nSelenium\nTest Architect\nPlatform Engineering / SAP/Oracle\nPega\nRPA\nERP\nSAP FICO\nCRM\nSAP Implementation\nTechno-Functional Consultant\nSalesforce\nIntegration Tools\nSharepoint\nPowerApps\nOracle Apps\nPresales\nSolution Design\nLCDP\nMainframe\nInformatica\nProduct / Design\nProduct Management\nProduct Strategy\nProduct Roadmap\nChief Product Officer\nUX Strategy\nUser Story\nWireframe\nStoryboard\nJira\nBusiness Analysis and Project Management\nProject Management\nBusiness Analyst\nTechno-Functional Consultant\nProgram Management\nAgile\nScrum\nPMP\nUI & Design\nUI\nUX\nPhotoshop\nIllustrator\nInfographics\nCorelDRAW\nInDesign\nSketch\nFigma\nInteraction Design\nOthers\nSemiconductor/VLSI/EDA\nMATLAB\nVerilog\nRTL\nASIC\nPhysical Design\nSystem Verilog\nVHDL\nBoard Design\nVLSI\nOthers\nIT Operations\nTechnical Support\nSystem Administration\nDBMS\nDBA\nIT Infrastructure\nTechnical Writing\nSEO\nNetwork Support\nITIL\nIncident Management\nChange Management\nITSM\nAI/ML\nData Analytics\nSoftware Development\nProduct / Design\nOthers\nCourses\nHome\n>\n>\nJob Description\nLoading chat...",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "aa7a7e1c70f77382",
+"links": [
+{
+"source": "hirist",
+"url": "https://www.hirist.tech/j/binocs-software-development-engineer-i-backend-architecture-1674507?ref=kp&jobPos=12",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-09-29T22:31:33+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
+"cities": [
+"India"
+],
+"exp": "0-1",
+"junior_title": true,
+"score": 90,
+"role_family": "Software",
+"reason": "SDE-1 backend role, 0-1 years, Bangalore, strong Python match.",
+"drafts": {
+"note": "Hi {name}, applying for Binocs’ SDE I - Backend Architecture role. Built a Python/FastAPI test-case generator with 100% schema-valid output. Open to a quick profile review?",
+"dm": "Hi {name}, I’m applying for the Software Development Engineer I - Backend Architecture role at Binocs. My closest backend proof point is TestForge, where I built a Python/FastAPI agent that generates schema-valid test cases, with ready suites in under 30 seconds. At MAQ Software, I also worked on production GenAI deployments across 30 Power BI reports, including testing at about 40 concurrent users. Since the role spans backend architecture plus Python/Node/Java, I’d value a quick look at my profile to see if my background fits the team.",
+"email_subject": "Binocs SDE I - Backend Architecture application",
+"email_body": "Hi {name},\n\nI’m applying for the Software Development Engineer I - Backend Architecture role at Binocs. My strongest backend example is TestForge, a Python/FastAPI agent I built that generates schema-valid test cases and produces ready test suites in under 30 seconds. At MAQ Software, I also worked on production GenAI deployments across 30 Power BI reports and tested the system at about 40 concurrent users.\n\nThat mix of backend development, API work, and production testing seems relevant to the role’s Python/backend scope. If helpful, I’d appreciate a quick look at my profile to see whether I’m a fit for the team.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The company/role is partly wrong or too generic: the message says Binocs SDE I - Backend Architecture, but it should be more specific to the posted role and not read like a generic application note.",
+"The note is too short and generic; it does not clearly match the 60–110 word DM limit and lacks enough role-specific detail.",
+"The ask is a little unclear/awkward: \"Open to a quick profile review?\" is less direct than asking for a referral or a quick look at the profile.",
+"Minor style issue: \"I’m applying\" is okay, but the overall tone is slightly generic and could be more tailored to Binocs/backend architecture."
+]
+},
+"status": "active"
+},
+{
 "id": "li-4473240164",
 "source": "linkedin",
 "title": "AI/Machine Learning Engineer",
@@ -24,7 +526,7 @@
 }
 ],
 "first_seen": "2026-09-29T13:09:12+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -74,7 +576,7 @@
 }
 ],
 "first_seen": "2026-09-29T13:09:12+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Pune"
 ],
@@ -223,7 +725,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -260,7 +762,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -297,7 +799,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -346,7 +848,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -390,7 +892,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -427,7 +929,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -471,7 +973,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -515,7 +1017,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -562,7 +1064,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -610,7 +1112,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -654,7 +1156,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -702,7 +1204,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -751,7 +1253,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -795,7 +1297,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -832,7 +1334,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -892,7 +1394,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -935,7 +1437,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -972,7 +1474,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -1009,7 +1511,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -1046,7 +1548,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -1083,7 +1585,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -1120,7 +1622,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -1157,7 +1659,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -2997,7 +3499,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "India"
 ],
@@ -3515,7 +4017,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "India"
 ],
@@ -3595,7 +4097,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "India"
 ],
@@ -3706,7 +4208,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "India"
 ],
@@ -3743,7 +4245,7 @@
 }
 ],
 "first_seen": "2026-09-25T12:01:00+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "India"
 ],
@@ -3854,46 +4356,9 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Bengaluru"
-],
-"exp": "not_stated",
-"junior_title": false,
-"score": null,
-"role_family": "",
-"reason": "",
-"drafts": null,
-"status": "active"
-},
-{
-"id": "wd-mastercard-R-289049",
-"source": "workday",
-"title": "Vice President, Software Engineering",
-"company": "India: Mastercard Technology Private Limited",
-"location": "Pune, India",
-"url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Vice-President--Software-Engineering_R-289049",
-"apply_type": "company",
-"apply_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Vice-President--Software-Engineering_R-289049",
-"posted_at": "2026-09-24",
-"is_remote": false,
-"description": "Our Purpose\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\nTitle and Summary\nVice President, Software Engineering\nRole Overview\nMastercard is seeking a Vice President of Software Engineering to lead a strategic engineering organization responsible for delivering enterprise capabilities that enable configuration, onboarding, validation, certification, and lifecycle management.\nThis leader will be responsible for defining and executing technology strategy, product delivery, platform modernization, operational excellence, and organizational leadership necessary to scale these capabilities and support Mastercard's evolving business needs.\nThis is a senior technology leadership role for a strategic thinker, execution-focused engineering leader, and organizational builder who can operate effectively across product, engineering, architecture, operations, security, and business stakeholders.\nResponsibilities\nLead the Settings Engineering Strategy\n• Define and execute the technology vision, strategy, and roadmap.\n• Drive platform modernization initiatives leveraging cloud-native architecture, APIs, event-driven systems, and modern engineering practices.\n• Ensure the platform remains scalable, resilient, secure, and aligned with enterprise architecture standards.\n• Partner with business and product leaders to align technology investments with strategic business priorities.\n• Develop multi-year engineering roadmaps that balance innovation, operational stability, and customer needs.\nDrive Product Delivery and Business Outcomes\n• Partner closely with Product Management to translate business strategy into executable engineering plans.\n• Establish outcome-based delivery practices focused on customer value, business impact, and measurable results.\n• Ensure successful delivery of strategic initiatives across multiple global teams and stakeholder groups.\nEnable Digital Transformation\n• Drive the transformation of manual operational processes into scalable digital experiences.\n• Improve operational efficiency through automation, workflow modernization, and intelligent tooling.\n• Lead initiatives that enhance customer experience, reduce operational friction, and improve onboarding effectiveness.\nDrive Engineering Excellence\n• Establish and maintain high standards for software architecture, code quality, testing, automation, security, and reliability.\n• Champion modern software engineering practices, including CI/CD, DevSecOps, observability, and Site Reliability Engineering principles.\n• Improve engineering productivity through automation, platform capabilities, and AI-assisted software development tools.\n• Ensure engineering teams consistently deliver high-quality, secure, and maintainable software.\n• Drive proactive management of technical debt, resiliency, performance, and scalability.\nBuild and Lead a High-Performing Global Engineering Organization\n• Recruit, develop, and lead a global organization of software engineers, engineering managers, architects, and technical leaders.\n• Foster a culture of accountability, innovation, collaboration, learning, and continuous improvement.\n• Develop leadership pipelines and succession plans to ensure long-term organizational strength.\n• Promote diversity of thought and create an environment where teams can thrive and perform at their highest potential.\n• Lead geographically distributed teams across multiple technology hubs.\nDrive AI Adoption and Engineering Productivity\n• Lead the adoption of AI-enabled software development capabilities across the organization.\n• ",
-"seniority": "",
-"experience_text": "",
-"company_url": "",
-"key": "e4692b28bab9a2f8",
-"links": [
-{
-"source": "workday",
-"url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Vice-President--Software-Engineering_R-289049",
-"apply_type": "company",
-"apply_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Vice-President--Software-Engineering_R-289049"
-}
-],
-"first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
-"cities": [
-"Pune"
 ],
 "exp": "not_stated",
 "junior_title": false,
@@ -4415,7 +4880,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -4452,7 +4917,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -4489,7 +4954,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -4526,7 +4991,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -4563,7 +5028,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -4597,43 +5062,6 @@
 "url": "https://himalayas.app/companies/ewor-gmbh/jobs/ai-research-lab-ai-ml-engineer-100-remote-m-f-d",
 "apply_type": "company",
 "apply_url": "https://himalayas.app/companies/ewor-gmbh/jobs/ai-research-lab-ai-ml-engineer-100-remote-m-f-d"
-}
-],
-"first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-24T21:42:20+00:00",
-"cities": [
-"Remote"
-],
-"exp": "not_stated",
-"junior_title": false,
-"score": null,
-"role_family": "",
-"reason": "",
-"drafts": null,
-"status": "active"
-},
-{
-"id": "him-https://himalayas.app/companies/ewor-gmbh/jobs/applied-ai-full-stack-developer-100-remote-m-f-d-8660438348",
-"source": "himalayas",
-"title": "Applied AI Full-Stack Developer (100 % remote) (m/f/d)",
-"company": "EWOR GmbH",
-"location": "Remote (Anywhere)",
-"url": "https://himalayas.app/companies/ewor-gmbh/jobs/applied-ai-full-stack-developer-100-remote-m-f-d-8660438348",
-"apply_type": "company",
-"apply_url": "https://himalayas.app/companies/ewor-gmbh/jobs/applied-ai-full-stack-developer-100-remote-m-f-d-8660438348",
-"posted_at": "2026-09-24",
-"is_remote": true,
-"description": "EWOR is launching cutting-edge new initiatives, and we are looking for exceptional operators and builders to join our new department.\nWe are backed and led by serial entrepreneurs, including Paul Müller (founder of Adjust, €1.2B exit) and Petter Made (founder of SumUp, €8B), who have built high-impact technology and category-defining ventures from the ground up.\nWhat We Offer\nMaximum ownership : Complete autonomy to architect systems, drive strategy, and build from 0 to 1 without corporate red tape.\nHigh-growth environment : Complete focus on achieving strong market validation and scalable traction as fast as possible. No PowerPoint presentations, no 7 layers of approval. Good ideas and fast execution are what matter.\nElite team : Report directly to the department founder and collaborate with a world-class team of engineers, researchers, and commercial leaders.\nCompetitive compensation & upside : Attractive compensation with equity upside.\nTasks\nYou will lead and execute core 0-to-1 initiatives in cutting-edge domains such as Applied AI.\nYou will translate high-level strategic vision into concrete execution roadmaps, driving rapid implementation from prototype to production.\nYou will architect scalable solutions and drive critical milestones to position the new department for rapid growth and potentially a spin-off to attract institutional backing.\nRequirements\nYou are based in Europe or the Americas (or open to relocate/remote arrangements).\nYou have a high-agency builder mindset, with proven domain expertise and the drive to take extreme end-to-end ownership.\nYou have excellent verbal and written communication skills in English.\nHighlights\nJoin us to build cutting-edge technology and category-defining initiatives from the ground up!\nOriginally posted on Himalayas",
-"seniority": "Mid-level",
-"experience_text": "",
-"company_url": "",
-"key": "cc17040d8aaec008",
-"links": [
-{
-"source": "himalayas",
-"url": "https://himalayas.app/companies/ewor-gmbh/jobs/applied-ai-full-stack-developer-100-remote-m-f-d-8660438348",
-"apply_type": "company",
-"apply_url": "https://himalayas.app/companies/ewor-gmbh/jobs/applied-ai-full-stack-developer-100-remote-m-f-d-8660438348"
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
@@ -4748,7 +5176,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -5013,7 +5441,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -5067,7 +5495,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -5159,7 +5587,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -5436,7 +5864,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -5677,7 +6105,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -5788,7 +6216,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -5936,7 +6364,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -5973,7 +6401,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6010,7 +6438,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6047,7 +6475,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6084,7 +6512,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6127,7 +6555,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6201,7 +6629,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6238,7 +6666,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6275,7 +6703,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6312,7 +6740,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6349,7 +6777,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6386,7 +6814,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6423,7 +6851,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6460,7 +6888,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6497,7 +6925,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6540,7 +6968,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6577,7 +7005,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6614,7 +7042,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6651,7 +7079,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6688,7 +7116,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6725,7 +7153,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6762,7 +7190,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6799,7 +7227,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6836,7 +7264,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6873,7 +7301,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6910,7 +7338,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6953,7 +7381,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -6996,7 +7424,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7039,7 +7467,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7076,7 +7504,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7113,7 +7541,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7150,7 +7578,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7187,7 +7615,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7224,7 +7652,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7261,7 +7689,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7298,7 +7726,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7335,7 +7763,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7372,7 +7800,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7409,7 +7837,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7446,7 +7874,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7483,7 +7911,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7520,7 +7948,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7557,7 +7985,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7606,7 +8034,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7643,7 +8071,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7692,7 +8120,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7729,7 +8157,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7766,7 +8194,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7803,7 +8231,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7840,7 +8268,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7877,7 +8305,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7914,7 +8342,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7951,7 +8379,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -7988,7 +8416,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8025,7 +8453,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8062,7 +8490,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8099,7 +8527,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8136,7 +8564,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8247,7 +8675,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8284,7 +8712,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8321,7 +8749,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8358,7 +8786,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8395,7 +8823,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8432,7 +8860,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8469,7 +8897,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8506,7 +8934,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8543,7 +8971,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8586,7 +9014,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8623,7 +9051,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8697,7 +9125,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8734,7 +9162,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8771,7 +9199,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8808,7 +9236,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8845,7 +9273,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8882,7 +9310,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8919,7 +9347,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8956,7 +9384,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -8993,7 +9421,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -9030,7 +9458,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -9104,7 +9532,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -9141,7 +9569,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -9178,7 +9606,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -9215,7 +9643,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -9252,7 +9680,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "Remote"
 ],
@@ -10106,7 +10534,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "India"
 ],
@@ -10143,7 +10571,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "India"
 ],
@@ -10254,7 +10682,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "India"
 ],
@@ -10291,7 +10719,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-09-29T13:09:12+00:00",
+"last_seen": "2026-09-29T22:31:33+00:00",
 "cities": [
 "India"
 ],
