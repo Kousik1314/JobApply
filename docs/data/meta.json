@@ -1,54 +1,54 @@
 {
- "prev_run": "2026-09-29T13:09:12+00:00",
- "last_run": "2026-09-29T22:31:33+00:00",
+ "prev_run": "2026-09-29T22:31:33+00:00",
+ "last_run": "2026-09-30T12:49:28+00:00",
  "health": [
   {
    "source": "company: boards.greenhouse.io/databricks",
    "ok": true,
-   "count": 878,
-   "secs": 2.5
+   "count": 882,
+   "secs": 1.9
   },
   {
    "source": "company: boards.greenhouse.io/mongodb",
    "ok": true,
-   "count": 399,
-   "secs": 1.7
+   "count": 395,
+   "secs": 0.7
   },
   {
    "source": "company: boards.greenhouse.io/stripe",
    "ok": true,
-   "count": 710,
-   "secs": 1.8
+   "count": 712,
+   "secs": 1.4
   },
   {
    "source": "company: boards.greenhouse.io/postman",
    "ok": false,
    "count": 0,
    "error": "404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/postman/jobs?content=true",
-   "secs": 0.2
+   "secs": 0.3
   },
   {
    "source": "company: boards.greenhouse.io/rubrik",
    "ok": true,
-   "count": 127,
-   "secs": 0.4
+   "count": 129,
+   "secs": 1.1
   },
   {
    "source": "company: boards.greenhouse.io/okta",
    "ok": true,
-   "count": 347,
-   "secs": 1.7
+   "count": 350,
+   "secs": 0.9
   },
   {
    "source": "company: boards.greenhouse.io/twilio",
    "ok": true,
-   "count": 133,
-   "secs": 0.4
+   "count": 135,
+   "secs": 0.7
   },
   {
    "source": "company: boards.greenhouse.io/razorpaysoftwareprivatelimited",
    "ok": true,
-   "count": 23,
+   "count": 22,
    "secs": 0.3
   },
   {
@@ -56,117 +56,117 @@
    "ok": false,
    "count": 0,
    "error": "404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/phonepe/jobs?content=true",
-   "secs": 2.8
+   "secs": 0.1
   },
   {
    "source": "company: nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
    "ok": true,
    "count": 194,
-   "secs": 19.0
+   "secs": 19.8
   },
   {
    "source": "company: salesforce.wd12.myworkdayjobs.com/External_Career_Site",
    "ok": true,
-   "count": 158,
-   "secs": 13.6
+   "count": 160,
+   "secs": 13.0
   },
   {
    "source": "company: adobe.wd5.myworkdayjobs.com/external_university",
    "ok": false,
    "count": 0,
    "error": "403 Client Error: Forbidden for url: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_university/jobs",
-   "secs": 0.2
+   "secs": 0.3
   },
   {
    "source": "company: intel.wd1.myworkdayjobs.com/External",
    "ok": true,
    "count": 173,
-   "secs": 17.9
+   "secs": 18.2
   },
   {
    "source": "company: walmart.wd5.myworkdayjobs.com/WalmartExternal",
    "ok": false,
    "count": 0,
    "error": "422 Client Error: Unprocessable Entity for url: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs",
-   "secs": 0.2
+   "secs": 0.3
   },
   {
    "source": "company: mastercard.wd1.myworkdayjobs.com/CorporateCareers",
    "ok": true,
-   "count": 134,
-   "secs": 16.1
+   "count": 139,
+   "secs": 25.2
   },
   {
    "source": "company: jobs.smartrecruiters.com/Visa",
    "ok": true,
    "count": 0,
-   "secs": 0.4
+   "secs": 0.5
   },
   {
    "source": "company: jobs.smartrecruiters.com/BoschGroup",
    "ok": true,
    "count": 500,
-   "secs": 2.5
+   "secs": 2.4
   },
   {
    "source": "company: jobs.smartrecruiters.com/ServiceNow",
    "ok": true,
    "count": 500,
-   "secs": 2.2
+   "secs": 2.4
   },
   {
    "source": "linkedin (India)",
    "ok": true,
-   "count": 96,
-   "secs": 34.9
+   "count": 100,
+   "secs": 35.9
   },
   {
    "source": "linkedin (remote, worldwide)",
    "ok": true,
    "count": 39,
-   "secs": 10.7
+   "secs": 10.9
   },
   {
    "source": "indeed",
    "ok": true,
-   "count": 111,
-   "secs": 6.2
+   "count": 131,
+   "secs": 4.8
   },
   {
    "source": "naukri",
    "ok": true,
    "count": 0,
-   "secs": 2.0
+   "secs": 1.9
   },
   {
    "source": "remoteok",
    "ok": true,
    "count": 99,
-   "secs": 0.5
+   "secs": 0.8
   },
   {
    "source": "remotive",
    "ok": true,
    "count": 32,
-   "secs": 3.3
+   "secs": 3.8
   },
   {
    "source": "himalayas",
    "ok": true,
    "count": 100,
-   "secs": 8.6
+   "secs": 8.0
   },
   {
    "source": "weworkremotely",
    "ok": true,
    "count": 25,
-   "secs": 0.6
+   "secs": 0.3
   },
   {
    "source": "hackernews",
    "ok": true,
-   "count": 150,
-   "secs": 0.9
+   "count": 149,
+   "secs": 0.8
   },
   {
    "source": "reddit",
@@ -178,65 +178,65 @@
   {
    "source": "site: Astra",
    "ok": true,
-   "count": 98,
-   "secs": 32.2
+   "count": 101,
+   "secs": 49.4
   },
   {
    "source": "site: Jobgether",
    "ok": true,
-   "count": 464,
-   "secs": 19.6
+   "count": 462,
+   "secs": 19.9
   },
   {
    "source": "site: Hirist",
    "ok": true,
-   "count": 22,
-   "secs": 87.2
+   "count": 25,
+   "secs": 83.0
   },
   {
    "source": "site: engineerHUB",
    "ok": true,
-   "count": 23,
-   "secs": 15.1
+   "count": 25,
+   "secs": 25.9
   },
   {
    "source": "site: Jobs24x",
    "ok": false,
    "count": 0,
    "error": "0 job links found: the site blocked this run, needs a login, or its layout changed (check link_pattern in config.yaml)",
-   "secs": 6.8
+   "secs": 18.1
   },
   {
    "source": "site: OffCampusJobs4u",
    "ok": true,
    "count": 10,
-   "secs": 1.1
+   "secs": 1.5
   },
   {
    "source": "site: FreshersDunia",
    "ok": true,
    "count": 20,
-   "secs": 1.9
+   "secs": 2.4
   },
   {
    "source": "site: EnggWave",
    "ok": false,
    "count": 0,
    "error": "403 Client Error: Forbidden for url: https://www.enggwave.com/feed/",
-   "secs": 0.1
+   "secs": 0.2
   }
  ],
  "stats": {
-  "fetched": 5545,
+  "fetched": 5583,
   "new": 10,
-  "active": 274,
+  "active": 284,
   "expired_now": 0,
-  "ai_calls": 42,
+  "ai_calls": 34,
   "by_type": {
-   "easy_apply": 49,
+   "easy_apply": 54,
    "company": 27,
    "linkedin_unknown": 0,
-   "board": 197,
+   "board": 202,
    "community": 1
   }
  },
@@ -305,6 +305,11 @@
    "t": "2026-09-29T22:31:33+00:00",
    "new": 10,
    "active": 274
+  },
+  {
+   "t": "2026-09-30T12:49:28+00:00",
+   "new": 10,
+   "active": 284
   }
  ],
  "profile_ready": true,
