@@ -1,5 +1,671 @@
 [
 {
+"id": "li-4473136187",
+"source": "linkedin",
+"title": "Software Engineer - NLP/LLM Reasoning",
+"company": "woodfrog",
+"location": "Pune City, Maharashtra, India",
+"url": "https://www.linkedin.com/jobs/view/4473136187",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-10-02",
+"is_remote": false,
+"description": "About the Role Woodfrog is hiring Software Engineers – NLP/LLM Reasoning for one of our deep-tech clients building advanced reasoning models for enterprise applications using Large Language Models (LLMs) . This is an opportunity to work at the intersection of cutting-edge AI research and production engineering, developing intelligent systems that solve complex real-world business problems.\nAs a Software Engineer, you will be responsible for designing, developing, and optimizing enterprise-grade reasoning models while researching innovative NLP techniques and integrating them into scalable production systems. You will collaborate with cross-functional teams to deliver high-quality AI solutions, maintain clean and efficient code, and continuously improve model performance.\nThis role is best suited for engineers who enjoy solving challenging problems, thrive in fast-paced startup environments, and are passionate about advancing the capabilities of LLMs and reasoning systems.\nKey Responsibilities Design, develop, and optimize foundational reasoning models for enterprise applications.\nResearch and implement advanced NLP techniques and reasoning paradigms.\nBuild, maintain, and improve production-ready AI systems powered by Large Language Models.\nWrite clean, efficient, scalable, and well-documented Python code.\nCollaborate with product, engineering, and research teams to define technical solutions.\nMonitor, troubleshoot, and improve model performance and system reliability.\nStay up to date with the latest developments in NLP, LLMs, and AI research, and apply them to real-world products.\nRequired Skills & Qualifications Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Linguistics, or a related field.\nStrong programming skills in Python .\nHands-on experience with Natural Language Processing (NLP) and Large Language Models (LLMs) .\nExperience with TensorFlow , PyTorch , or similar deep learning frameworks.\nGood understanding of transformer architectures, prompt engineering, embeddings, and reasoning techniques.\nStrong analytical, debugging, and problem-solving skills.\nExcellent communication and collaboration abilities.\nAbility to work independently in a high-ownership, fast-paced environment.\nPreferred Qualifications Experience with Retrieval-Augmented Generation (RAG), Vector Databases, or Agentic AI.\nFamiliarity with LLM fine-tuning, evaluation, and optimization.\nExperience deploying AI models in production environments.\nKnowledge of cloud platforms such as AWS, Azure, or GCP.\nShow more\nShow less",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://in.linkedin.com/company/woodfrogtech",
+"key": "6e71c2b291b18bf9",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4473136187",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-10-02T12:54:46+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
+"cities": [
+"Pune"
+],
+"exp": "fresher",
+"junior_title": false,
+"score": 84,
+"role_family": "GenAI/LLM",
+"reason": "Entry-level LLM reasoning role; strong Python and GenAI production experience",
+"drafts": {
+"note": "Hi {name}, applying for Software Engineer - NLP/LLM Reasoning at woodfrog. I built an LLM-as-a-Judge agent over 2,000+ queries and a RAG bot with 150+ docs. Can we connect?",
+"dm": "Hi {name}, I’m applying for the Software Engineer - NLP/LLM Reasoning role at woodfrog. At MAQ Software, I worked on an enterprise GenAI assistant for Power BI and built an LLM-as-a-Judge agent that evaluated DAX and answer quality across 2,000+ test queries. I’ve also built a RAG onboarding chatbot in Python using LangChain and FAISS, which maps well to your focus on LLM reasoning, embeddings, and production AI systems. If it looks aligned, could you take a quick look at my profile and consider a referral?",
+"email_subject": "Software Engineer - NLP/LLM Reasoning at woodfrog",
+"email_body": "Hi {name},\n\nI’m applying for the Software Engineer - NLP/LLM Reasoning role at woodfrog. At MAQ Software, I worked on an enterprise GenAI assistant for Power BI and built an LLM-as-a-Judge agent that evaluated generated DAX and plain-English answers across 2,000+ test queries. That work involved debugging model failures across data, query generation, DAX logic, and business rules in a production setting.\n\nI’ve also built a RAG onboarding chatbot in Python with LangChain and FAISS, including hybrid search and a grounding guardrail, which aligns well with your focus on LLM reasoning, embeddings, and production AI systems.\n\nIf it looks aligned, could you take a quick look at my profile and consider a referral?\n\nBest,\nKousik Maity\nLinkedIn: https://www.linkedin.com/in/kousik-maity/\nGitHub: https://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The note is too short for a DM/email style outreach and is vague/generic; it lacks a specific, clear ask tied to woodfrog.",
+"The DM is too long for a DM if intended as a short outreach note? It is 95 words, which fits, but the note field is only 14 words and doesn’t meet the outreach standard.",
+"The email body is 126 words, which is within the 90–150 word limit.",
+"All candidate claims appear supported by the profile."
+]
+},
+"status": "active"
+},
+{
+"id": "li-4446744296",
+"source": "linkedin",
+"title": "AI/ML Engineer",
+"company": "EXL",
+"location": "Noida, Uttar Pradesh, India",
+"url": "https://www.linkedin.com/jobs/view/4446744296",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-10-02",
+"is_remote": false,
+"description": "Responsibilities\nBuild production-ready AI applications using Python and FastAPI.\nDesign LLM pipelines including data ingestion, inference, and response generation.\nLeverage GCP tools like Vertex AI, Cloud Run/Functions, BigQuery, and Cloud Storage.\nApply advanced prompt engineering techniques to enhance LLM outputs.\nImplement vector stores and embeddings for semantic search and RAG.\nUse orchestration frameworks (e.g., LangChain, LangGraph, CrewAI) for complex workflows.\nIntegrate AI systems with enterprise platforms and maintain robust data flows.\nFollow best practices in coding, testing, and deployment within CI/CD pipelines.\nContinuously explore and recommend emerging tools and AI technologies.\nShow more\nShow less",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/exl-service",
+"key": "61277038da7bc3a5",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4446744296",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-10-02T12:54:46+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
+"cities": [
+"Delhi NCR"
+],
+"exp": "fresher",
+"junior_title": false,
+"score": 86,
+"role_family": "AI/ML",
+"reason": "Noida AI/ML role; RAG, LangChain, FastAPI, embeddings match well",
+"drafts": {
+"note": "Hi {name}, applying for AI/ML Engineer at EXL Noida. I build Python/FastAPI LLM apps—TestForge and a Power BI GenAI assistant at MAQ. Open to a quick profile look?",
+"dm": "Hi {name}, I’m applying for the AI/ML Engineer role at EXL in Noida. My recent work maps closely to the role: at MAQ Software, I worked on an enterprise GenAI assistant for Power BI and built an LLM-as-a-Judge agent to evaluate outputs across 2,000+ test queries. I also built TestForge in Python and FastAPI, an agentic test-case generator using GPT-4o and MCP. Since the role emphasizes LLM pipelines, prompt engineering, and orchestration, I’d value a quick look at my profile and any advice on fit.",
+"email_subject": "Applying for EXL Noida AI/ML Engineer role",
+"email_body": "Hi {name},\n\nI’m applying for the AI/ML Engineer role at EXL in Noida. My experience lines up closely with the Python/FastAPI and LLM pipeline work in the role. At MAQ Software, I worked on an enterprise GenAI assistant for Power BI and built an LLM-as-a-Judge agent that evaluated generated DAX and responses across 2,000+ test queries. I also built TestForge in Python and FastAPI, an agentic Azure DevOps test-case generator using GPT-4o and MCP. In a separate RAG project, I used LangChain, FAISS, embeddings, and hybrid search across 150+ documents.\n\nIf you’re open to it, I’d appreciate a quick look at my profile to see if I’m a fit for the EXL Noida team.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"note is under the 200-character limit but the ask is a bit vague ('Open to a quick profile look?') rather than a clear referral or review ask",
+"dm is slightly awkward in phrasing ('applied for' vs 'I’m applying') and ends with a generic 'advice on fit' ask; it should be one clear ask",
+"email_body is within length, but it mentions a RAG project not explicitly tied to the role’s GCP stack; that is acceptable, but the message could be more role-specific by mentioning Vertex AI/Cloud Run/BigQuery only if supported"
+]
+},
+"status": "active"
+},
+{
+"id": "li-4472562500",
+"source": "linkedin",
+"title": "CPU Performance Associate Engineer",
+"company": "Qualcomm",
+"location": "Bengaluru, Karnataka, India",
+"url": "https://www.linkedin.com/jobs/view/4472562500",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-10-01",
+"is_remote": false,
+"description": "Company\nQualcomm India Private Limited\nJob Area\nEngineering Group, Engineering Group > Software Engineering\nGeneral Summary\nAs a leading technology innovator, Qualcomm pushes the boundaries of what's possible to enable next-generation experiences and drives digital transformation to help create a smarter, connected future for all. As a Qualcomm Software Engineer, you will design, develop, create, modify, and validate embedded and cloud edge software, applications, and/or specialized utility programs that launch cutting-edge, world class products that meet and exceed customer needs. Qualcomm Software Engineers collaborate with systems, hardware, architecture, test engineers, and other teams to design system-level software solutions and obtain information on performance requirements and interfaces.\nMinimum Qualifications\nBachelor's degree in Engineering, Information Systems, Computer Science, or related field.\nPrincipal Duties And Responsibilities\nApplies Software knowledge to assist and support the design, development, creation, modification, and validation of embedded and cloud edge software, applications, and/or specialized utility programs.\nAssists in the analysis of user needs and software requirements.\nDesigns and implements small software features for products and systems.\nParticipates in the design, coding for small features, unit testing, minor debugging fixes, and integration efforts to ensure projects are completed on schedule.\nAssists in performing code reviews and regression tests as well as the triaging of issues to ensure the quality of code.\nCollaborates with others inside project team to accomplish project objectives.\nWrites technical documentation for Software projects.\nLevel Of Responsibility\nWorks under supervision.\nDecision-making affects direct area of work and/or work group.\nRequires verbal and written communication skills to convey basic, routine factual information.\nTasks require multiple steps which can be performed in various orders; some planning, problem-solving, and prioritization must occur to complete the tasks effectively.\nApplicants : Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail disability-accomodations@qualcomm.com or call Qualcomm's toll-free number found here. Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. (Keep in mind that this email address is used to provide reasonable accommodations for individuals with disabilities. We will not respond here to requests for updates on applications or resume inquiries).\nQualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law.\nTo all Staffing and Recruiting Agencies : Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.\nIf you would like more information about this role, please contact Qualcomm Careers.\nShow more\nShow less",
+"seniority": "Not Applicable",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/qualcomm",
+"key": "362d88e749f865f4",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4472562500",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-10-02T12:54:46+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
+"cities": [
+"Bengaluru"
+],
+"exp": "0-1",
+"junior_title": true,
+"score": 68,
+"role_family": "Software",
+"reason": "Bengaluru software role; entry-level systems work, though not AI-focused",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "li-4472926523",
+"source": "linkedin",
+"title": "Software Engineer, Professional I",
+"company": "Zebra Technologies",
+"location": "Bengaluru, Karnataka, India",
+"url": "https://www.linkedin.com/jobs/view/4472926523",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-10-01",
+"is_remote": false,
+"description": "Overview\nAt Zebra, we are a community of innovators who come together to create new ways of working. United by curiosity and a culture of caring, we develop smart solutions that anticipate our customer’s and partner’s needs and solve their challenges.\nBeing part of Zebra Nation means you are seen, heard, valued, and respected. Drawing from our unique perspectives, we collaborate to deliver on our purpose. Here you are part of a team pushing boundaries today to redefine the work of tomorrow for organizations, their employees, and those they serve.\nYou’ll have opportunities to learn and lead in a forward-thinking environment, defining your path to a fulfilling career while channeling your skills toward causes you care about—locally and globally.\nCome make an impact every day at Zebra.\nWhat We're Looking For\nAnalyzes, designs, develops, and maintains software solutions for the organization’s products and systems. Collaborates on system integrations of software and hardware to ensure optimal performance and program consistency. Develops, validates, and tests structures, user documentation, and software functionality. Work is reviewed for accuracy and adherence to established processes and guidelines.\nEssential Duties And Responsibilities\nCollaborates with team members to establish requirements for less complex design projects\nCompletes all phases of software engineering design projects, including coding, debugging, testing, and deployment\nConducts analysis of processes and systems, delivering results to key stakeholders\nAnalyzes and interprets results, recommending potential solutions for software and system improvements\nContributes to the development and testing of software solutions for various products, ensuring they meet quality and performance standards\nCreates and maintains documentation for projects, including code, design specifications, and test results\nStays up to date with the latest technologies and software engineering methodologies, applying them to projects as needed\nReviews and evaluates changes or upgrades to existing designs or test processes\nExercises sound judgment in selecting appropriate methods and techniques for problem solving and solution delivery\nJob Requirements\nBachelors Degree in Computer Science, Software Engineering, or related field. Advanced Degree in relevant field is also acceptable\n1+ years of experience in software development or a related field\nEquivalency: Equivalent work experience will be considered in lieu of a degree\nKey Skills And Competencies\nQuantitative, analytical, and problem solving skills\nFamiliarity with programming languages, operating systems, algorithms and software development frameworks\nBasic understanding of software development life cycles (e.g., Agile, Scrum)\nAbility to work collaboratively in a team environment\nStrong written and verbal communication skills\nPosition Specific Information\nTravel Requirements: Up to 15%\nAble to Telework?: Hybrid\nPhysical Demands\nSedentary work that primarily involves sitting or standing\nBenefits\nWe understand the importance of work-life balance and wellbeing, which is why we offer flexibility for our teams including: hybrid work, adaptable hours, Summer Flex Fridays, Focus Fridays, and an annual companywide well-being day to promote revitalization and success.\nJob Posting Statement\nTo protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system. Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department.\nAI Technology Statement\nZebra Technologies leverages AI technology to evaluate job applications using objective",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/zebra-technologies",
+"key": "3c603a09cbee4b60",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4472926523",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-10-02T12:54:46+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
+"cities": [
+"Bengaluru"
+],
+"exp": "0-1",
+"junior_title": false,
+"score": 75,
+"role_family": "Software",
+"reason": "Entry-level software role in Bengaluru; strong Python and backend foundations",
+"drafts": {
+"note": "Hi {name}, applying for Software Engineer, Professional I at Zebra Technologies. I build Python/FastAPI systems and shipped GenAI features across 30 production reports. Open to connect?",
+"dm": "Hi {name}, I’m applying for the Software Engineer, Professional I role at Zebra Technologies. My work lines up well with the coding, testing, debugging, and deployment parts of the role: at MAQ Software, I worked on an AI Assistant for Power BI across 30 production reports, including validation and deployment, and I’ve also built FastAPI-based tools like TestForge with structured outputs and API workflows. Since Zebra’s role emphasizes end-to-end software engineering and quality, I’d value a quick look at my profile to see if my background fits the team.",
+"email_subject": "Applying for Software Engineer, Professional I at Zebra",
+"email_body": "Hi {name},\n\nI’m applying for the Software Engineer, Professional I role at Zebra Technologies. My experience matches the role’s focus on coding, testing, debugging, deployment, and clear documentation. At MAQ Software, I worked on an enterprise AI Assistant for Power BI across 30 production reports, covering validation, evaluation, onboarding, and deployment. I also built TestForge, a FastAPI-based tool that generates structured test cases, which gave me hands-on experience with API development and software quality workflows.\n\nBecause Zebra’s role centers on building reliable software solutions and improving systems through analysis and testing, I’d appreciate a quick look at my profile to see whether my background could be a fit for the team.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": true,
+"problems": []
+},
+"status": "active"
+},
+{
+"id": "li-4425628844",
+"source": "linkedin",
+"title": "Associate Engineer - Digital Technology",
+"company": "United Airlines India Knowledge Center",
+"location": "Gurugram, Haryana, India",
+"url": "https://www.linkedin.com/jobs/view/4425628844",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-10-01",
+"is_remote": false,
+"description": "Achieving our goals starts with supporting yours. Grow your career, access top-tier health and wellness benefits, build lasting connections with your team and our customers, and travel the world using our extensive route network.\nCome join us to create what’s next. Let’s define tomorrow, together.\nDescription\nAre you a Developer looking for a new technical hands-on role? Do you want to join a growing Software Development team?\nAre you interested in cutting edge technologies, with the ability to collaborate with your fellow software developers?\nAre you thrilled by having an opportunity to fly around the world on employee pass while working on innovative and critical software applications?\nIf you answered yes to any of the above, we have an exciting role for you within our Digital Technology practice to enhance and build industry-leading platforms while transforming our customer’s travel journey as a software leader. United’s Digital Technology team designs, develops, and maintains massive-scaling technology solutions brought to life with innovative architecture, data analytics, and digital solutions.\nUnited Airlines is growing faster than ever, and we need talented software engineers / developers like you to fill the critical openings across our business. This is a hybrid position with ample flexibility working from home or at the office. Annual base salary/bonus incentives, along with exciting travel opportunities with free flight travel (on employee pass) benefits.\nOur Values\nAt United Airlines, we believe that inclusion propels innovation and is the foundation of all that we do. Our Shared Purpose: \"Connecting people, Uniting the world\" drives us to be the best airline for our employees, customers, and everyone we serve. We can only do that with a truly diverse and inclusive workforce. Our team spans the globe and is made up of diverse individuals all working together with cutting edge technology to build the best airline in the history of aviation.\nWith multiple employee-run \"Business Resource Group\" communities and world-class benefits like health insurance, parental leave, and unlimited space-available travel, United is truly a one-of-a-kind place to work making you feel welcome, accepted, and like you truly belong. Be part of our team and help us make a positive impact on the world. Diverse candidates are strongly encouraged to apply.\nJob Overview And Responsibilities\nAs the Software Developer, you will participate in the modernization and architecture of United’s technology platforms including United.com, United mobile App. In this role, you will be part of a team that designs, develops and launches efficient quality systems and solutions in support of core organizational functions. This individual will apply proven communication, analytical and problem-solving skills to help identify, communicate and resolve issues, opportunities or problems in order to maximize the benefit of IT and Business investments. The Developer is experienced and self – sufficient in performing his/her responsibilities requiring little supervision, but general guidance and direction.\nParticipate in the design, development, and planning for the software architecture for United’s technology platforms\nSolve complex performance problems and architectural challenges\nParticipate in code reviews\nServe as an integral member of the development team to create practical solutions in Agile/DevOps environment\nEnsure consistency with an established software development architecture\nAnalyze and interpret requirements from Business and UX Design Team\nIntroduce new technologies and best practices as needed to solve business problems\nHelp to troubleshoot, test, and maintain the quality and security of the platform\nWork in an Agile environment\nStrong team player and good communicator\nExperience: 1+ year\nThis position is offered on local terms and conditions. Expatriate assignments and sponsorship for employment visas, even on a time-limited visa status, will not ",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/united-airlines-india-knowledge-center",
+"key": "1d75877e49179da8",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4425628844",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-10-02T12:54:46+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
+"cities": [
+"Delhi NCR"
+],
+"exp": "0-1",
+"junior_title": true,
+"score": 72,
+"role_family": "Software",
+"reason": "Gurugram developer role; good fit for entry-level software engineering",
+"drafts": {
+"note": "Hi {name}, applying for Associate Engineer - Digital Technology at United Airlines. I build Python/FastAPI systems and worked on a GenAI app shipped across 30 reports. Open to a quick referral?",
+"dm": "Hi {name}, I’m applying for the Associate Engineer - Digital Technology role at United Airlines. My background lines up with the hands-on development and quality focus in the job: at MAQ Software, I worked on an AI Assistant for Power BI that we tested and deployed across 30 production reports, and I built TestForge, a Python/FastAPI tool that generates schema-valid test cases in under 30 seconds. I’m comfortable debugging, improving system quality, and shipping in team environments. If it looks aligned, would you be open to referring me for the role?",
+"email_subject": "Application for Associate Engineer - Digital Technology",
+"email_body": "Hi {name},\n\nI’m applying for the Associate Engineer - Digital Technology role at United Airlines. My experience matches the hands-on development and quality focus of the role: at MAQ Software, I worked on an AI Assistant for Power BI that we tested and deployed across 30 production reports, including tracing issues to root causes across data, query generation, and business rules. I also built TestForge, a Python/FastAPI tool that generates schema-valid test cases in under 30 seconds.\n\nThat mix of building, debugging, and shipping production systems is why this role stands out to me. If my background looks relevant, would you be open to referring me for the role?\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The company/role is specific, but the message doesn’t mention United Airlines’ Digital Technology context beyond the title; it reads a bit generic for this company.",
+"Claim about being comfortable with “quality focus” and “shipping in team environments” is broad and unsupported by the profile as written.",
+"Minor awkward phrasing: “My background lines up with the hands-on development and quality focus in the job” and “If it looks aligned” sound slightly stiff.",
+"Length check: the DM appears to be within 60–110 words, but the note is under 200 characters and the email body appears within 90–150 words; no length issue detected."
+]
+},
+"status": "active"
+},
+{
+"id": "li-4446725483",
+"source": "linkedin",
+"title": "Data Scientist-Data Science-Data Scientist",
+"company": "EXL",
+"location": "Gurugram, Haryana, India",
+"url": "https://www.linkedin.com/jobs/view/4446725483",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-10-02",
+"is_remote": false,
+"description": "Data Scientists design and implement data analysis processes to derive actionable insights. Duties include building statistical models, analyzing large datasets, and presenting findings to stakeholders. You will collaborate with other data professionals to solve complex problems and improve business outcomes. Proficiency in data science tools and techniques is essential.\nShow more\nShow less",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/exl-service",
+"key": "2512275232c757ab",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4446725483",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-10-02T12:54:46+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
+"cities": [
+"Delhi NCR"
+],
+"exp": "fresher",
+"junior_title": false,
+"score": 78,
+"role_family": "Data Science",
+"reason": "Entry-level data scientist role; ML modeling and evaluation match",
+"drafts": {
+"note": "Hi {name}, applying for the Data Scientist role at EXL Gurugram. At MAQ, I built and evaluated ML models for 5 business problems. Open to a quick referral?",
+"dm": "Hi {name}, I’m applying for the Data Scientist role at EXL in Gurugram. At MAQ Software, I built and evaluated ML models for 5 business problems, covering EDA, feature engineering, training, and evaluation. I also worked on an enterprise GenAI assistant for Power BI, where I analyzed 2,000+ test queries to trace model and data issues to root cause. That maps closely to EXL’s focus on statistical modeling, large-scale analysis, and turning findings into business decisions. If my background looks relevant, would you be open to referring me for the role?",
+"email_subject": "Referral request: Data Scientist role at EXL Gurugram",
+"email_body": "Hi {name},\n\nI’m applying for the Data Scientist role at EXL in Gurugram and wanted to reach out directly. At MAQ Software, I built and evaluated ML models for 5 business problems, covering EDA, feature engineering, training, and evaluation. I also worked on an enterprise GenAI assistant for Power BI, where I analyzed 2,000+ test queries and traced failures to root causes across data, query generation, DAX logic, and business rules.\n\nThose projects fit the role’s core work: statistical modeling, analyzing large datasets, and turning results into useful business insights. If my background seems like a match, would you be open to referring me for the role?\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"note uses cliché 'guru'",
+"dm uses cliché 'guru'",
+"email_body uses cliché 'guru'",
+"The message is too generic and not sufficiently tailored to EXL or the Data Scientist role; it could be sent to any company.",
+"The claim about being able to refer the candidate is an unclear ask unless the recipient is definitely a current employee; 'open to referring me' may be too direct without context.",
+"The email/body may be slightly long for a concise referral outreach, and the note is under-informative for the role; tighten the ask and lead with the most relevant proof point."
+]
+},
+"status": "active"
+},
+{
+"id": "li-4446739134",
+"source": "linkedin",
+"title": "Data Scientist",
+"company": "EXL",
+"location": "Pune Division, Maharashtra, India",
+"url": "https://www.linkedin.com/jobs/view/4446739134",
+"apply_type": "easy_apply",
+"apply_url": "",
+"posted_at": "2026-10-02",
+"is_remote": false,
+"description": "As a Data Scientist, you will derive actionable insights from large, complex and unstructured data by developing AI/ML techniques. Development, optimization and evaluating as well as deploying them into production environments would be the key aspects of your role. You will have to collaborate seamlessly across teams to integrate data-driven solutions and maintain data governance compliance. Stay abreast of industry trends, contribute to thought leadership, and innovate solutions for intricate business problems.\nShow more\nShow less",
+"seniority": "Entry level",
+"experience_text": "",
+"company_url": "https://www.linkedin.com/company/exl-service",
+"key": "3715988eaab25d76",
+"links": [
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4446739134",
+"apply_type": "easy_apply",
+"apply_url": ""
+}
+],
+"first_seen": "2026-10-02T12:54:46+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
+"cities": [
+"Pune"
+],
+"exp": "fresher",
+"junior_title": false,
+"score": 79,
+"role_family": "Data Science",
+"reason": "Pune data scientist role; strong ML and production deployment overlap",
+"drafts": {
+"note": "Hi {name}, applying for the Data Scientist role at EXL. At MAQ, I built and evaluated ML models for 5 business problems and now work on a production GenAI system. Open to connect?",
+"dm": "Hi {name}, I’m applying for the Data Scientist role at EXL. My background lines up well with the role’s focus on building, evaluating, and deploying AI/ML solutions. At MAQ Software, I work on a production GenAI assistant for Power BI, including evaluation across 2,000+ test queries and deployment across 30 reports. I also built ML models for 5 business problems during training, covering EDA, feature engineering, training, and evaluation. If relevant, could you take a quick look at my profile and let me know if my background fits the team?",
+"email_subject": "Applying to EXL Data Scientist role",
+"email_body": "Hi {name},\n\nI’m applying for the Data Scientist role at EXL. My experience matches the role’s focus on developing, evaluating, and deploying AI/ML solutions on complex data. At MAQ Software, I work on a production GenAI assistant for Power BI, where I support evaluation and deployment across 30 reports and built an LLM-as-a-Judge workflow to assess outputs across 2,000+ test queries. I also built ML models for 5 business problems during training, covering EDA, feature engineering, model training, and evaluation.\n\nCould you take a quick look at my profile and let me know whether my background fits the team?\n\nBest,\nKousik Maity\nLinkedIn: https://www.linkedin.com/in/kousik-maity/\nGitHub: https://github.com/Kousik1314",
+"verified": true,
+"problems": []
+},
+"status": "active"
+},
+{
+"id": "indeed-in-881fc8115df507dd",
+"source": "indeed",
+"title": "Software Engineer - NLP/LLM Reasoning",
+"company": "",
+"location": "MH, IN",
+"url": "https://in.indeed.com/viewjob?jk=881fc8115df507dd",
+"apply_type": "company",
+"apply_url": "http://in.indeed.com/job/software-engineer-nlpllm-reasoning-881fc8115df507dd",
+"posted_at": "2026-10-02",
+"is_remote": true,
+"description": "**About the Role**\n\nWoodfrog is hiring **Software Engineers – NLP/LLM Reasoning** for one of our deep-tech clients building advanced reasoning models for enterprise applications using **Large Language Models (LLMs)**. This is an opportunity to work at the intersection of cutting-edge AI research and production engineering, developing intelligent systems that solve complex real-world business problems.\n\nAs a Software Engineer, you will be responsible for designing, developing, and optimizing enterprise-grade reasoning models while researching innovative NLP techniques and integrating them into scalable production systems. You will collaborate with cross-functional teams to deliver high-quality AI solutions, maintain clean and efficient code, and continuously improve model performance.\n\nThis role is best suited for engineers who enjoy solving challenging problems, thrive in fast-paced startup environments, and are passionate about advancing the capabilities of LLMs and reasoning systems.\n\n**Key Responsibilities**\n\n* Design, develop, and optimize foundational reasoning models for enterprise applications.\n* Research and implement advanced NLP techniques and reasoning paradigms.\n* Build, maintain, and improve production-ready AI systems powered by Large Language Models.\n* Write clean, efficient, scalable, and well-documented Python code.\n* Collaborate with product, engineering, and research teams to define technical solutions.\n* Monitor, troubleshoot, and improve model performance and system reliability.\n* Stay up to date with the latest developments in NLP, LLMs, and AI research, and apply them to real-world products.\n\n**Required Skills & Qualifications**\n\n* Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Linguistics, or a related field.\n* Strong programming skills in **Python**.\n* Hands-on experience with **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**.\n* Experience with **TensorFlow**, **PyTorch**, or similar deep learning frameworks.\n* Good understanding of transformer architectures, prompt engineering, embeddings, and reasoning techniques.\n* Strong analytical, debugging, and problem-solving skills.\n* Excellent communication and collaboration abilities.\n* Ability to work independently in a high-ownership, fast-paced environment.\n\n**Preferred Qualifications**\n\n* Experience with Retrieval-Augmented Generation (RAG), Vector Databases, or Agentic AI.\n* Familiarity with LLM fine-tuning, evaluation, and optimization.\n* Experience deploying AI models in production environments.\n* Knowledge of cloud platforms such as AWS, Azure, or GCP.\n\nPay: Up to ₹2,500,000.00 per year\n\nBenefits:\n\n* Health insurance\n* Paid sick time\n* Paid time off\n* Work from home\n\nWork Location: Hybrid remote in Pune, Maharashtra 411015",
+"seniority": "",
+"experience_text": "",
+"company_url": "https://in.indeed.comNone",
+"key": "bee56c477b604d91",
+"links": [
+{
+"source": "indeed",
+"url": "https://in.indeed.com/viewjob?jk=881fc8115df507dd",
+"apply_type": "company",
+"apply_url": "http://in.indeed.com/job/software-engineer-nlpllm-reasoning-881fc8115df507dd"
+}
+],
+"first_seen": "2026-10-02T12:54:46+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
+"cities": [
+"Remote"
+],
+"exp": "fresher",
+"junior_title": false,
+"score": 84,
+"role_family": "GenAI/LLM",
+"reason": "Remote LLM reasoning role; strong Python and GenAI project match",
+"drafts": {
+"note": "Hi {name}, applying for Software Engineer - NLP/LLM Reasoning at Woodfrog. I built an LLM-as-a-Judge over 2,000+ queries for a GenAI assistant. Could you review my fit?",
+"dm": "Hi {name}, I’m applying for the Software Engineer - NLP/LLM Reasoning role at Woodfrog. At MAQ Software, I worked on an enterprise GenAI assistant for Power BI and built an LLM-as-a-Judge agent that auto-graded generated DAX and answers across 2,000+ test queries. I also built OnboardIQ, a RAG chatbot in Python/LangChain/FAISS with 150+ documents indexed and about 90% top-3 retrieval accuracy. These map closely to the role’s focus on LLM reasoning, NLP, Python, evaluation, and production systems. Could you take a quick look at my profile and let me know if a referral makes sense?",
+"email_subject": "Applying for Woodfrog Software Engineer - NLP/LLM Reasoning",
+"email_body": "Hi {name},\n\nI’m applying for the Software Engineer - NLP/LLM Reasoning role at Woodfrog. At MAQ Software, I worked on an enterprise GenAI assistant for Power BI and built an LLM-as-a-Judge agent that auto-graded generated DAX and answers across 2,000+ test queries, which gave me hands-on experience with LLM evaluation, debugging, and reasoning workflows in production. I also built OnboardIQ, a RAG chatbot in Python using LangChain and FAISS, indexing 150+ documents and reaching about 90% top-3 retrieval accuracy.\n\nThis lines up well with your need for Python, NLP/LLM work, RAG, reasoning techniques, and production-ready AI systems. Could you take a quick look at my profile and let me know if a referral would be appropriate?\n\nBest,\nKousik Maity\nLinkedIn: https://www.linkedin.com/in/kousik-maity/\nGitHub: https://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"Company/role is mostly specific, but the note says 'applying for' and the email subject/body are generic referral asks; the ask could be tighter and more targeted to Woodfrog.",
+"The note is under the 200-character limit, but the DM is 112 words, which is over the 60–110 word limit.",
+"The email body is 118 words, which is within the 90–150 word limit, but it includes a generic 'quick look at my profile' ask instead of a clearer one aligned to the role.",
+"Minor phrasing issue: 'This lines up well' should be 'This lines up well with' or 'This aligns well with' for smoother grammar."
+]
+},
+"status": "active"
+},
+{
+"id": "naukri-nk-021026009122",
+"source": "naukri",
+"title": "Ai Ml Engineer",
+"company": "AVA Chemicals",
+"location": "Mumbai (All Areas)(Borivali West +2), India",
+"url": "https://www.naukri.com/job-listings-ai-ml-engineer-ava-chemicals-mumbai-all-areas-0-to-2-years-021026009122",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": "2026-10-02",
+"is_remote": false,
+"description": "",
+"seniority": "",
+"experience_text": "0-2 Yrs",
+"company_url": "https://www.naukri.com/ava-chemicals-jobs-careers-653909",
+"key": "b4c902ce6583ecc8",
+"links": [
+{
+"source": "naukri",
+"url": "https://www.naukri.com/job-listings-ai-ml-engineer-ava-chemicals-mumbai-all-areas-0-to-2-years-021026009122",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-10-02T12:54:46+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
+"cities": [
+"Mumbai"
+],
+"exp": "fresher",
+"junior_title": false,
+"score": 74,
+"role_family": "AI/ML",
+"reason": "Entry-level AI/ML role; 0-2 years and Power BI-adjacent analytics fit",
+"drafts": {
+"note": "Hi {name}, applying for AI/ML Engineer at AVA Chemicals. I built an LLM-as-a-Judge over 2,000+ queries and RAG on 150+ docs. Could you take a quick look at my profile?",
+"dm": "Hi {name}, I’m applying for the AI/ML Engineer role at AVA Chemicals in Mumbai. At MAQ Software, I worked on an AI Assistant for Power BI and built an LLM-as-a-Judge agent that auto-graded generated DAX and answers across 2,000+ test queries. I also built OnboardIQ, a RAG chatbot that indexed 150+ documents and improved answer grounding with a guardrail on a 40-question test set. Those projects map well to applied LLM, evaluation, and retrieval work. If helpful, could you take a quick look at my profile and let me know if my background fits the role?",
+"email_subject": "AI/ML Engineer application - AVA Chemicals",
+"email_body": "Hi {name},\n\nI’m applying for the AI/ML Engineer role at AVA Chemicals in Mumbai. My background is closest to applied LLM and ML work. At MAQ Software, I worked on the AI Assistant for Power BI and built an LLM-as-a-Judge agent that auto-graded generated DAX and plain-English answers across 2,000+ test queries, helping trace failures to data, query generation, DAX logic, semantic model, and business rules. I also built OnboardIQ, a RAG onboarding chatbot that indexed 150+ documents and added a grounding guardrail tested on a 40-question set.\n\nI’d value a quick look at my profile to see whether my experience fits what your team needs for this role.\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The company/role targeting is generic enough to fit many employers; the message does not mention anything specific about AVA Chemicals beyond the name and location.",
+"The role/company fit is not clearly tailored to AVA Chemicals' AI/ML needs from the provided job description (which is empty), so the outreach lacks a role-specific hook.",
+"The note is too short for a DM/email-style outreach if used as a standalone message and the email body is within range but the note itself is not enough context for a full outreach message.",
+"The message claims “applied LLM and ML work” but does not clearly tie the candidate’s AI/ML experience to a concrete ask beyond a profile review."
+]
+},
+"status": "active"
+},
+{
+"id": "naukri-nk-011026927364",
+"source": "naukri",
+"title": "Custom Software Engineer",
+"company": "Accenture",
+"location": "Bengaluru, India",
+"url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-1-to-6-years-011026927364",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": "2026-10-01",
+"is_remote": false,
+"description": "",
+"seniority": "",
+"experience_text": "1-6 Yrs",
+"company_url": "https://www.naukri.com/accenture-jobs-careers-7682",
+"key": "c075a8033745dabd",
+"links": [
+{
+"source": "naukri",
+"url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-1-to-6-years-011026927364",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-10-02T12:54:46+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
+"cities": [
+"Bengaluru"
+],
+"exp": "0-1",
+"junior_title": false,
+"score": 72,
+"role_family": "Software",
+"reason": "Software role in Bengaluru; 1-6 years, good junior-level fit",
+"drafts": {
+"note": "Hi {name}, applying for Custom Software Engineer at Accenture. I work on Azure OpenAI agents at MAQ and built a FastAPI tool workflow. Could you review my profile?",
+"dm": "Hi {name}, I’m applying for the Custom Software Engineer role at Accenture in Bengaluru. At MAQ Software, I work on Azure OpenAI agent workflows for an enterprise Power BI assistant and shipped deployments across 30 reports. I also built TestForge, a Python/FastAPI workflow that turns feature descriptions into schema-valid test cases in under 30 seconds. That mix of backend engineering and applied AI feels relevant to this role. If you’re open to it, could you take a quick look at my profile and resume?",
+"email_subject": "Applying for Custom Software Engineer at Accenture",
+"email_body": "Hi {name},\n\nI’m applying for the Custom Software Engineer role at Accenture in Bengaluru. At MAQ Software, I work on Azure OpenAI agent workflows for an enterprise Power BI assistant and supported production deployments across 30 reports. I also built TestForge, a Python/FastAPI workflow that converts feature descriptions into schema-valid test cases in under 30 seconds.\n\nI’m interested in this role because it looks close to the kind of backend and applied AI engineering work I’ve been doing. If you’re open to it, could you take a quick look at my profile and resume?\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"The message is too generic for the specified company/role because the job description content is missing; it could be sent to any company.",
+"The ask is a bit unclear and repetitive across note/DM/email ('review my profile' / 'take a quick look'); it should be a single, specific request such as referral or feedback.",
+"The note is only 176 characters, which is within the limit, but the DM and email body need to stay within 60–110 words and 90–150 words respectively; please verify word counts before sending."
+]
+},
+"status": "active"
+},
+{
+"id": "hn-49927984",
+"source": "hackernews",
+"title": "SWE, Tech Lead, ML Engineer, Product Manager, Product Marketing Manager",
+"company": "Sourcegraph",
+"location": "Remote",
+"url": "https://news.ycombinator.com/item?id=49927984",
+"apply_type": "community",
+"apply_url": "",
+"posted_at": "2026-10-01",
+"is_remote": true,
+"description": "Sourcegraph | Remote | Full-Time | SWE, Tech Lead, ML Engineer, Product Manager, Product Marketing Manager | https://sourcegraph.com Sourcegraph is building the context layer for AI-powered software development. As AI accelerates code creation, we help engineering teams understand, navigate, and safely change large codebases. Our products, including Code Search, Deep Search, MCP, and Agentic Batch Changes, give developers and AI agents cross-repository context and enable coordinated code changes across hundreds of repositories. Engineering teams at companies like Stripe, Reddit, and Leidos use Sourcegraph to ship faster with greater confidence. If you want to build the infrastructure that lets every engineering team - and every agent they deploy - operate on their codebase with confidence, join us. Sourcegraph is backed by Sequoia, a16z, Redpoint, and Goldcrest. Apply here: https://grnh.se/0572f98b4us",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "53f17915be351e97",
+"links": [
+{
+"source": "hackernews",
+"url": "https://news.ycombinator.com/item?id=49927984",
+"apply_type": "community",
+"apply_url": ""
+}
+],
+"first_seen": "2026-10-02T12:54:46+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
+"cities": [
+"Remote"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 68,
+"role_family": "AI/ML",
+"reason": "ML engineer role on remote AI codebase; strong GenAI-adjacent fit",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "hn-49929368",
+"source": "hackernews",
+"title": "Ambito (ambito.io) — Founding AI Engineer / Equity Partner — Remote Ambito is a CRM-connected QBR generator for B2B sale",
+"company": "Ambito (ambito.io) — Founding AI Engineer / Equity Partner — Remote Ambito is a ",
+"location": "See post",
+"url": "https://news.ycombinator.com/item?id=49929368",
+"apply_type": "community",
+"apply_url": "",
+"posted_at": "2026-10-02",
+"is_remote": true,
+"description": "Ambito (ambito.io) — Founding AI Engineer / Equity Partner — Remote Ambito is a CRM-connected QBR generator for B2B sales teams. The product is live, with the sales module, template engine, and CRM integrations already built. We're looking for a founding AI engineer to make the product significantly smarter and broader. This is an equity-only role initially (10+ hrs/week), working directly with the founders and our existing technical partner. You'll work on: AI product features: Build a native assistant that can answer questions about customer data, surface trends, provide setup guidance, and help generate QBRs. Retrieval, tool use, structured-data queries, evals, and cost control. Customer Success: Extend the existing framework into account reviews, renewals, and customer health. Integrations: Harden and expand CRM/CS integrations (Salesforce, HubSpot, etc.). Product: Make the overall experience faster, simpler, and more AI-native where it actually helps. We're looking for someone who has shipped LLM features in production, not just demos, and is comfortable with retrieval, embeddings, tool calling, agent workflows, and evaluation. You should also be able to work across React, TypeScript, and Node (Firebase experience is a plus). You should think like a product engineer: turn varied customer requests into simple, flexible systems and work independently. Sales tech / RevOps / CS experience is a plus. Boston/MA is a plus. To apply: Send a short note with something you've built using AI and why this problem interests you. No cover letter. LinkedIn or contact@ambito.io.",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "4fbda2adc6a76e28",
+"links": [
+{
+"source": "hackernews",
+"url": "https://news.ycombinator.com/item?id=49929368",
+"apply_type": "community",
+"apply_url": ""
+}
+],
+"first_seen": "2026-10-02T12:54:46+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
+"cities": [
+"Remote"
+],
+"exp": "0-1",
+"junior_title": false,
+"score": 72,
+"role_family": "GenAI/LLM",
+"reason": "Founding AI engineer; production LLMs, retrieval, evals match well.",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-jobgether-86719f46bc0b",
+"source": "jobgether",
+"title": "Associate Software Engineer (.Net Full Stack Developer)",
+"company": "First Advantage",
+"location": "YE | IQ | SA | IR | SY | AM | JO | LB | KW | OM | QA | BH | AE | IL | TR | AF | PK | BD | TM | TJ | LK | BT | IN | MV | IO | NP | MM | UZ | KZ | KG | CC | VN | TH | ID | LA | TW | PH | MY | CN | HK | BN | MO | KH | KR | JP | KP | SG | TL | RU | MN | CX | PS | AF | PK | BD | LK | BT | IN | MV | NP | YE | IQ | SA | IR | SY | AM | JO | LB | KW | OM | QA | BH | AE | IL | TR | AF | PK | BD | TM | TJ | LK | BT | IN | MV | IO | NP | MM | UZ | KZ | KG | HM | CC | PW | VN | TH | ID | LA | TW | PH | MY | CN | HK | BN | MO | KH | KR | JP | KP | SG | CK | TL | RU | MN | AU | CX | MH | FM | PG | SB | TV | NR | VU | NC | NF | NZ | FJ | PF | PN | KI | TK | TO | WF | WS | NU | GU | AS | PS",
+"url": "https://jobgether.com/offer/6abeb5168a27695aea180052-associate-software-engineer-.net-full-stack-developer",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": "Thu Oct 01",
+"is_remote": true,
+"description": "This a Full Remote job, the offer is available from: Asia, South Asia, APAC, India\nWhat You'll Do \nA successful Associate Software Engineer will develop, test, and maintain software applications and services.\nResponsibilities:\nDevelop, test, and maintain software applications and services.\nWrite clean, scalable, and maintainable code\nDebug, troubleshoot, and resolve software defects and issues.\nDevelop and execute unit tests to ensure software quality.\nParticipate in Agile ceremonies\nLearn new technologies, tools, and development methodologies.\nWhat You Will Need to be Successful:\nEducation requirements B.E. Computer or equivalent\nNumber of years in 1-3\nWhat You May Need to be Successful:\nRelevant experience 1-3 years of software development experience with programming languages such as .Net, Angular JS, SQL.\nundefined\nDemonstrated success in Developing and testing software applications and services, troubleshooting issues, learning new technologies, and collaborating effectively within a team environment.\nWe have great people here and are looking for more. Come join us!\n \nFraud Alert\nFirst Advantage does not  charge candidates any fees at any stage of the recruitment process. We will never ask you to make a payment, purchase equipment, transfer money, or provide financial account information to obtain employment. If anyone claiming to represent First Advantage requests payment or other financial information, please treat the communication as suspicious and contact us through this website for verification. \nFollow us:\nFacebook\nInstagram\nLinkedIn\nX\nYouTube\nEqual Employment Opportunities at First Advantage\nFirst Advantage is an equal opportunity employer. We are committed to providing a workplace and recruitment process that is free from unlawful discrimination, harassment, and retaliation. Employment decisions at First Advantage are based solely on qualifications, merit, and business needs. We do not discriminate in any aspect of employment on the basis of race, color, national origin, ancestry, citizenship, religion, creed, sex, gender identity, gender expression, sexual orientation, marital or family status, pregnancy, age, physical or mental disability, medical condition, genetic information, veteran or military status, or any other characteristic protected by applicable law.\nThis offer from \"First Advantage\" has been enriched by Jobgether.com and got a 0% flex score.",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "b36161a48fbb6ff9",
+"links": [
+{
+"source": "jobgether",
+"url": "https://jobgether.com/offer/6abeb5168a27695aea180052-associate-software-engineer-.net-full-stack-developer",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-10-02T12:54:46+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
+"cities": [
+"Remote"
+],
+"exp": "0-1",
+"junior_title": true,
+"score": 78,
+"role_family": "Software",
+"reason": "Associate .NET role, 1-3 years; India remote and entry-level fit.",
+"drafts": {
+"note": "Hi {name}, applying for Associate Software Engineer (.Net Full Stack Developer) at First Advantage. I build backend apps in Python/FastAPI and work with SQL; could you take a quick look at my profile?",
+"dm": "Hi {name}, I’m applying for the Associate Software Engineer (.Net Full Stack Developer) role at First Advantage. While my background is stronger in Python backend work than .NET, I do have hands-on experience building and testing software: at MAQ Software I worked on production AI features across 30 Power BI reports, and I’ve built FastAPI-based applications with SQL and unit-tested workflows in my projects. I’m also comfortable learning new stacks quickly. If helpful, could you take a quick look at my profile and let me know if my background could fit this role?",
+"email_subject": "Applying for Associate Software Engineer at First Advantage",
+"email_body": "Hi {name},\n\nI’m applying for the Associate Software Engineer (.Net Full Stack Developer) role at First Advantage. My background is stronger in Python and SQL than .NET, so I want to be direct about that. What I do bring is hands-on experience developing, testing, and improving software.\n\nAt MAQ Software, I worked on a production AI assistant used across 30 Power BI reports, including validation, evaluation, onboarding, and deployment. I’ve also built backend applications with Python, FastAPI, and SQL, including agent-based tools that required schema validation, debugging, and clean service design. That maps well to the role’s focus on building, testing, troubleshooting, and learning quickly in a team setting.\n\nIf you’re open to it, could you take a quick look at my profile and share whether my background could be a fit?\n\nBest,\nKousik Maity\nhttps://www.linkedin.com/in/kousik-maity/\nhttps://github.com/Kousik1314",
+"verified": false,
+"problems": [
+"note is 200 chars; must be ≤ 200 with a 9-letter name filled in",
+"The message is too generic for this role/company and does not mention any First Advantage-specific reason or the .NET/Angular/SQL stack in a targeted way beyond the title.",
+"The claim that you have 'hands-on experience building and testing software' and 'built backend applications with Python, FastAPI, and SQL' is not directly unsupported, but the message implies relevant full-stack/.NET experience that the profile does not show; it should be framed more carefully.",
+"The ask is somewhat unclear: 'could you take a quick look at my profile and let me know if my background could fit this role?' is acceptable, but the message should make one clear ask more directly for a referral or profile review.",
+"The email/body length is likely within range, but the note and DM should be checked carefully: the note is under 200 characters and the DM appears to be within 60–110 words."
+]
+},
+"status": "active"
+},
+{
+"id": "site-engineerhub-da8c65a14b4a",
+"source": "engineerhub",
+"title": "First Advantage Associate Software Engineer Work From Home 5-8 LPA Full Time Hiring Now 343 Ends : 10 Oct",
+"company": "",
+"location": "India",
+"url": "https://www.engineerhub.in/career/jobs/6abf93595f39b593026124ea",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": false,
+"description": "Apply now for Associate Software Engineer at First Advantage in Work From Home. Check salary, skills, and eligibility on engineerHUB.",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "0fe836441df42551",
+"links": [
+{
+"source": "engineerhub",
+"url": "https://www.engineerhub.in/career/jobs/6abf93595f39b593026124ea",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-10-02T12:54:46+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
+"cities": [
+"India"
+],
+"exp": "not_stated",
+"junior_title": true,
+"score": 67,
+"role_family": "Software",
+"reason": "WFH Associate Software Engineer; likely entry-level software fit.",
+"drafts": null,
+"status": "active"
+},
+{
+"id": "site-engineerhub-4e89060162d4",
+"source": "engineerhub",
+"title": "Siemens Energy AI/Machine Learning Engineer Gurgaon 7-11 LPA Full Time Hiring Now 721 Ends : 10 Oct",
+"company": "",
+"location": "India",
+"url": "https://www.engineerhub.in/career/jobs/6abf989a5f39b593026126d1",
+"apply_type": "board",
+"apply_url": "",
+"posted_at": null,
+"is_remote": false,
+"description": "Apply now for AI/Machine Learning Engineer at Siemens Energy in On-Site. Check role, salary, skills required, eligibility, and how to apply on engineerHUB.",
+"seniority": "",
+"experience_text": "",
+"company_url": "",
+"key": "dc796829d43a4d42",
+"links": [
+{
+"source": "engineerhub",
+"url": "https://www.engineerhub.in/career/jobs/6abf989a5f39b593026126d1",
+"apply_type": "board",
+"apply_url": ""
+}
+],
+"first_seen": "2026-10-02T12:54:46+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
+"cities": [
+"India"
+],
+"exp": "not_stated",
+"junior_title": false,
+"score": 62,
+"role_family": "AI/ML",
+"reason": "AI/ML Engineer in Gurgaon; relevant family and location match.",
+"drafts": null,
+"status": "active"
+},
+{
 "id": "li-4474139494",
 "source": "linkedin",
 "title": "AI Engineer",
@@ -74,7 +740,7 @@
 }
 ],
 "first_seen": "2026-10-01T22:50:39+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -111,7 +777,7 @@
 }
 ],
 "first_seen": "2026-10-01T22:50:39+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -155,7 +821,7 @@
 }
 ],
 "first_seen": "2026-10-01T22:50:39+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -204,7 +870,7 @@
 }
 ],
 "first_seen": "2026-10-01T13:35:26+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Pune"
 ],
@@ -253,7 +919,7 @@
 }
 ],
 "first_seen": "2026-10-01T13:35:26+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -402,7 +1068,7 @@
 }
 ],
 "first_seen": "2026-10-01T13:35:26+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -446,7 +1112,7 @@
 }
 ],
 "first_seen": "2026-10-01T13:35:26+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -877,7 +1543,7 @@
 }
 ],
 "first_seen": "2026-09-30T12:49:28+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -1327,7 +1993,7 @@
 }
 ],
 "first_seen": "2026-09-29T22:31:33+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "India"
 ],
@@ -1435,7 +2101,7 @@
 }
 ],
 "first_seen": "2026-09-29T22:31:33+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "India"
 ],
@@ -1638,10 +2304,16 @@
 "url": "https://www.linkedin.com/jobs/view/4473240164",
 "apply_type": "easy_apply",
 "apply_url": ""
+},
+{
+"source": "linkedin",
+"url": "https://www.linkedin.com/jobs/view/4473342199",
+"apply_type": "easy_apply",
+"apply_url": ""
 }
 ],
 "first_seen": "2026-09-29T13:09:12+00:00",
-"last_seen": "2026-09-30T12:49:28+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Delhi NCR"
 ],
@@ -1840,7 +2512,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -1877,7 +2549,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -1914,7 +2586,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -1963,7 +2635,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2007,7 +2679,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2044,7 +2716,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2088,7 +2760,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2132,7 +2804,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2179,7 +2851,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2227,7 +2899,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2271,7 +2943,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2319,7 +2991,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2368,7 +3040,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2412,7 +3084,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2449,7 +3121,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2509,7 +3181,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2552,7 +3224,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2589,7 +3261,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2626,7 +3298,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2663,7 +3335,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2737,7 +3409,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -2774,7 +3446,7 @@
 }
 ],
 "first_seen": "2026-09-28T23:27:06+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -4614,7 +5286,7 @@
 }
 ],
 "first_seen": "2026-09-25T21:45:37+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "India"
 ],
@@ -5434,7 +6106,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Bengaluru"
 ],
@@ -5921,7 +6593,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -5958,7 +6630,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -5995,7 +6667,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -6032,7 +6704,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -6445,7 +7117,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -6591,7 +7263,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -6868,7 +7540,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7109,7 +7781,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7220,7 +7892,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7368,7 +8040,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7405,7 +8077,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7442,7 +8114,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7479,7 +8151,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7516,7 +8188,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7559,7 +8231,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7633,7 +8305,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7670,7 +8342,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7707,7 +8379,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7744,7 +8416,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7781,7 +8453,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7818,7 +8490,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7855,7 +8527,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7892,7 +8564,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7929,7 +8601,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -7972,7 +8644,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8009,7 +8681,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8046,7 +8718,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8083,7 +8755,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8120,7 +8792,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8157,7 +8829,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8194,7 +8866,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8231,7 +8903,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8268,7 +8940,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8305,7 +8977,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8342,7 +9014,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8385,7 +9057,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8428,7 +9100,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8471,7 +9143,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8508,7 +9180,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8545,7 +9217,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8582,7 +9254,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8619,7 +9291,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8656,7 +9328,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8693,7 +9365,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8730,7 +9402,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8767,7 +9439,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8804,7 +9476,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8841,7 +9513,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8878,7 +9550,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8915,7 +9587,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8952,7 +9624,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -8989,7 +9661,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9038,7 +9710,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9075,7 +9747,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9124,7 +9796,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9161,7 +9833,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9235,7 +9907,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9272,7 +9944,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9309,7 +9981,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9346,7 +10018,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9383,7 +10055,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9420,7 +10092,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9457,7 +10129,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9494,7 +10166,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9531,7 +10203,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9568,7 +10240,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9679,7 +10351,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9716,7 +10388,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9753,7 +10425,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9790,7 +10462,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9827,7 +10499,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9864,7 +10536,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9901,7 +10573,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9938,7 +10610,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -9975,7 +10647,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10018,7 +10690,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10055,7 +10727,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10129,7 +10801,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10166,7 +10838,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10203,7 +10875,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10240,7 +10912,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10277,7 +10949,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10314,7 +10986,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10351,7 +11023,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10388,7 +11060,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10425,7 +11097,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10462,7 +11134,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10573,7 +11245,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10610,7 +11282,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10647,7 +11319,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -10684,7 +11356,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "Remote"
 ],
@@ -11341,7 +12013,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "India"
 ],
@@ -11594,7 +12266,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "India"
 ],
@@ -11853,7 +12525,7 @@
 }
 ],
 "first_seen": "2026-09-24T21:42:20+00:00",
-"last_seen": "2026-10-01T22:50:39+00:00",
+"last_seen": "2026-10-02T12:54:46+00:00",
 "cities": [
 "India"
 ],
